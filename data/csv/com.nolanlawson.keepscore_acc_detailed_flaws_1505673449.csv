@@ -1,0 +1,92 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.nolanlawson.keepscore,MainActivity,android:id/alertTitle,android.widget.TextView,Welcome to KeepScore!,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.nolanlawson.keepscore,MainActivity,android:id/content-child-1:android.widget.TextView,android.widget.TextView,Saved Games,ACCESSIBILITY_CONTRAST_FLAW,2.331247944488006
+com.nolanlawson.keepscore,MainActivity,android:id/empty,android.widget.TextView,Your saved games will appear here.,ACCESSIBILITY_CONTRAST_FLAW,2.3270766754193133
+com.nolanlawson.keepscore,MainActivity,android:id/select_dialog_listview,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,358,10
+com.nolanlawson.keepscore,MainActivity,:id/text_auto_or_manual,android.widget.TextView,Manual#Backup,ACCESSIBILITY_CONTRAST_FLAW,2.1308539816957053
+com.nolanlawson.keepscore,MainActivity,:id/text_filename,android.widget.TextView,games-20170917042625.xml.gz,ACCESSIBILITY_CONTRAST_FLAW,1.7048478226495314
+com.nolanlawson.keepscore,MainActivity,:id/text_num_games,android.widget.TextView,11,ACCESSIBILITY_CONTRAST_FLAW,2.1308539816957053
+com.nolanlawson.keepscore,MainActivity,:id/text_date_saved,android.widget.TextView,Sep 15 2017 06:32PM,ACCESSIBILITY_CONTRAST_FLAW,1.3201406249560588
+com.nolanlawson.keepscore,MainActivity,android:id/checkbox,android.widget.CheckBox,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,MainActivity,:id/list_header_title,android.widget.TextView,Today,ACCESSIBILITY_SIZE_FLAW,411,32
+com.nolanlawson.keepscore,MainActivity,android:id/checkbox,android.widget.CheckBox,,ACCESSIBILITY_SIZE_FLAW,28,32
+com.nolanlawson.keepscore,MainActivity,:id/list_header_title,android.widget.TextView,Today,ACCESSIBILITY_CONTRAST_FLAW,1.6076174580745173
+com.nolanlawson.keepscore,MainActivity,:id/text_num_players,android.widget.TextView,2,ACCESSIBILITY_CONTRAST_FLAW,2.3065122729913976
+com.nolanlawson.keepscore,MainActivity,:id/text_game_subtitle,android.widget.TextView,5 Rounds,ACCESSIBILITY_CONTRAST_FLAW,1.8453880276651202
+com.nolanlawson.keepscore,NewGameActivity,:id/button_2_players,android.widget.Button,2,ACCESSIBILITY_CONTRAST_FLAW,1.451191493459334
+com.nolanlawson.keepscore,NewGameActivity,:id/button_3_players,android.widget.Button,3,ACCESSIBILITY_CONTRAST_FLAW,1.4515966845025308
+com.nolanlawson.keepscore,NewGameActivity,:id/button_4_players,android.widget.Button,4,ACCESSIBILITY_CONTRAST_FLAW,1.451998626268288
+com.nolanlawson.keepscore,NewGameActivity,:id/button_5_players,android.widget.Button,5,ACCESSIBILITY_CONTRAST_FLAW,1.4468522780832123
+com.nolanlawson.keepscore,NewGameActivity,:id/button_6_players,android.widget.Button,6,ACCESSIBILITY_CONTRAST_FLAW,1.4472676951639722
+com.nolanlawson.keepscore,NewGameActivity,:id/button_7_players,android.widget.Button,7,ACCESSIBILITY_CONTRAST_FLAW,1.4476799096176587
+com.nolanlawson.keepscore,NewGameActivity,:id/button_8_players,android.widget.Button,8,ACCESSIBILITY_CONTRAST_FLAW,1.448088898210082
+com.nolanlawson.keepscore,NamePlayersActivity,:id/player_color_image,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,NamePlayersActivity,:id/player_color_image,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,28,28
+com.nolanlawson.keepscore,NamePlayersActivity,:id/player_name_edit_text,android.widget.EditText,Player 1,ACCESSIBILITY_SIZE_FLAW,325,38
+com.nolanlawson.keepscore,NamePlayersActivity,:id/player_name_edit_text,android.widget.EditText,Player 1,ACCESSIBILITY_CONTRAST_FLAW,3.249179433185088
+com.nolanlawson.keepscore,NamePlayersActivity,:id/player_name_edit_text,android.widget.EditText,Player 1,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,NamePlayersActivity,:id/player_color_image,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.4495775957973844
+com.nolanlawson.keepscore,NamePlayersActivity,:id/column_1,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,NamePlayersActivity,:id/column_2,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,NamePlayersActivity,:id/column_3,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,NamePlayersActivity,:id/column_4,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,NamePlayersActivity,android:id/alertTitle,android.widget.TextView,Choose a Color,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.nolanlawson.keepscore,NamePlayersActivity,:id/column_3,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.2670520329404056
+com.nolanlawson.keepscore,NamePlayersActivity,:id/column_1,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.3529877151413543
+com.nolanlawson.keepscore,NamePlayersActivity,:id/column_2,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.368515674896017
+com.nolanlawson.keepscore,NamePlayersActivity,:id/column_4,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.7976278097200031
+com.nolanlawson.keepscore,LandscapeGameActivity,:id/text_history,android.widget.TextView,,ACCESSIBILITY_SIZE_FLAW,40,239
+com.nolanlawson.keepscore,LandscapeGameActivity,:id/text_name,android.widget.TextView,Player 1,ACCESSIBILITY_SIZE_FLAW,85,33
+com.nolanlawson.keepscore,LandscapeGameActivity,:id/text_history,android.widget.TextView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,LandscapeGameActivity,:id/button_minus,android.widget.Button,-,ACCESSIBILITY_CONTRAST_FLAW,1.4534015443120838
+com.nolanlawson.keepscore,LandscapeGameActivity,:id/button_plus,android.widget.Button,+,ACCESSIBILITY_CONTRAST_FLAW,1.4534015443120838
+com.nolanlawson.keepscore,LandscapeGameActivity,android:id/button1,android.widget.Button,-10,ACCESSIBILITY_CONTRAST_FLAW,1.4534015443120838
+com.nolanlawson.keepscore,LandscapeGameActivity,android:id/button2,android.widget.Button,-5,ACCESSIBILITY_CONTRAST_FLAW,1.4534015443120838
+com.nolanlawson.keepscore,LandscapeGameActivity,android:id/button3,android.widget.Button,+5,ACCESSIBILITY_CONTRAST_FLAW,1.4534015443120838
+com.nolanlawson.keepscore,LandscapeGameActivity,android:id/edit,android.widget.EditText,0,ACCESSIBILITY_SIZE_FLAW,83,47
+com.nolanlawson.keepscore,LandscapeGameActivity,android:id/alertTitle,android.widget.TextView,Subtract Value,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.nolanlawson.keepscore,LandscapeGameActivity,android:id/edit,android.widget.EditText,0,ACCESSIBILITY_CONTRAST_FLAW,2.9963775951615235
+com.nolanlawson.keepscore,LandscapeGameActivity,:id/linear_layout_badge,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,40,36
+com.nolanlawson.keepscore,LandscapeGameActivity,:id/linear_layout_badge,android.widget.LinearLayout,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,LandscapeGameActivity,:id/text_history,android.widget.TextView, +0# -5,ACCESSIBILITY_CONTRAST_FLAW,1.259690935041431
+com.nolanlawson.keepscore,LandscapeGameActivity,android:id/text1,android.widget.TextView,Add Zero,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.nolanlawson.keepscore,LandscapeGameActivity,android:id/title,android.widget.TextView,Redo,ACCESSIBILITY_CONTRAST_FLAW,1.8440125419046784
+com.nolanlawson.keepscore,SettingsActivity,android:id/title,android.widget.TextView,Configuration,ACCESSIBILITY_SIZE_FLAW,379,32
+com.nolanlawson.keepscore,SettingsActivity,android:id/title,android.widget.TextView,On-Screen Button #1,ACCESSIBILITY_CONTRAST_FLAW,2.7454458936977137
+com.nolanlawson.keepscore,SettingsActivity,android:id/edit,android.widget.EditText,0,ACCESSIBILITY_SIZE_FLAW,348,38
+com.nolanlawson.keepscore,SettingsActivity,android:id/alertTitle,android.widget.TextView,Starting Score,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.nolanlawson.keepscore,SettingsActivity,android:id/edit,android.widget.EditText,0,ACCESSIBILITY_CONTRAST_FLAW,2.9963775951615235
+com.nolanlawson.keepscore,LandscapeGameActivity,:id/text_badge,android.widget.TextView,+1,ACCESSIBILITY_CONTRAST_FLAW,3.5349336129147666
+com.nolanlawson.keepscore,MainActivity,android:id/checkbox,android.widget.CheckBox,,ACCESSIBILITY_CONTRAST_FLAW,4.047111337968922
+com.nolanlawson.keepscore,HistoryActivity,:id/menu_zoom_out,android.widget.TextView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,HistoryActivity,:id/menu_zoom_in,android.widget.TextView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,HistoryActivity,android:id/action_bar_container,android.app.ActionBar$Tab,,ACCESSIBILITY_SIZE_FLAW,25,48
+com.nolanlawson.keepscore,HistoryActivity,:id/list_header_title,android.widget.TextView,Player 1,ACCESSIBILITY_CONTRAST_FLAW,1.425303290666865
+com.nolanlawson.keepscore,HistoryActivity,android:id/text1,android.widget.TextView,1,ACCESSIBILITY_CONTRAST_FLAW,1.6059285649300714
+com.nolanlawson.keepscore,OrganizePlayersActivity,:id/button_edit_player,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,OrganizePlayersActivity,:id/button_delete_player,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,OrganizePlayersActivity,:id/player_color_image,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,OrganizePlayersActivity,:id/player_color_image,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,33,33
+com.nolanlawson.keepscore,OrganizePlayersActivity,:id/button_edit_player,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.533587605787202
+com.nolanlawson.keepscore,OrganizePlayersActivity,:id/button_delete_player,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.533587605787202
+com.nolanlawson.keepscore,OrganizePlayersActivity,:id/player_color_image,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.2838524290206417
+com.nolanlawson.keepscore,SettingsActivity,android:id/list,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,379,19
+com.nolanlawson.keepscore,OrganizePlayersActivity,android:id/custom,android.widget.EditText,Player 5,ACCESSIBILITY_SIZE_FLAW,358,38
+com.nolanlawson.keepscore,OrganizePlayersActivity,android:id/alertTitle,android.widget.TextView,Enter Player Name,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.nolanlawson.keepscore,OrganizePlayersActivity,android:id/custom-child-0:android.widget.EditText,android.widget.EditText,Player 5,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.nolanlawson.keepscore,OrganizePlayersActivity,android:id/custom-child-0:android.widget.EditText,android.widget.EditText,Player 5,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,MainActivity,android:id/list,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,411,15
+com.nolanlawson.keepscore,MainActivity,:id/text_game_title,android.widget.TextView,Player 1- fettstein- honeyful,ACCESSIBILITY_CONTRAST_FLAW,1.284249763477129
+com.nolanlawson.keepscore,LandscapeGameActivity,:id/button4,android.widget.Button,+10,ACCESSIBILITY_CONTRAST_FLAW,1.4534015443120838
+com.nolanlawson.keepscore,LandscapeGameActivity,:id/text_name,android.widget.TextView,immeshed,ACCESSIBILITY_CONTRAST_FLAW,4.135039608879467
+com.nolanlawson.keepscore,AboutActivity,android:id/content,android.view.View,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.nolanlawson.keepscore,AboutActivity,android:id/content,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,AboutActivity,android:id/content,android.view.View,,ACCESSIBILITY_SIZE_FLAW,62,40
+com.nolanlawson.keepscore,HistoryActivity,:id/by_chart_scroll_view,android.widget.HorizontalScrollView,,ACCESSIBILITY_SIZE_FLAW,0,563
+com.nolanlawson.keepscore,HistoryActivity,:id/timeline_scroll_view,android.widget.HorizontalScrollView,,ACCESSIBILITY_SIZE_FLAW,0,563
+com.nolanlawson.keepscore,MainActivity,android:id/custom,android.widget.EditText,Game Name,ACCESSIBILITY_SIZE_FLAW,358,38
+com.nolanlawson.keepscore,MainActivity,android:id/custom-child-0:android.widget.EditText,android.widget.EditText,Game Name,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.nolanlawson.keepscore,MainActivity,android:id/custom-child-0:android.widget.EditText,android.widget.EditText,Game Name,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.nolanlawson.keepscore,NewGameActivity,android:id/text1,android.widget.TextView,20,ACCESSIBILITY_SIZE_FLAW,358,41
+com.nolanlawson.keepscore,NewGameActivity,android:id/alertTitle,android.widget.TextView,Number of players,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.nolanlawson.keepscore,NewGameActivity,android:id/text1,android.widget.TextView,9,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811

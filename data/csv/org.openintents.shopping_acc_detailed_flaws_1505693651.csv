@@ -1,0 +1,62 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+org.openintents.shopping,ui.LayoutChoiceActivity,:id/image_actionbar,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ui.LayoutChoiceActivity,:id/image_bottom,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,:id/autocomplete_add_item,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.openintents.shopping,ShoppingActivity,:id/autocomplete_add_item,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,303,44
+org.openintents.shopping,ShoppingActivity,:id/left_drawer,android.widget.TextView,List,ACCESSIBILITY_SIZE_FLAW,240,44
+org.openintents.shopping,ShoppingActivity,:id/button_add_item,android.widget.Button,Shopping,ACCESSIBILITY_CONTRAST_FLAW,2.7034748321061786
+org.openintents.shopping,ShoppingActivity,:id/edittext,android.widget.EditText,My shopping list,ACCESSIBILITY_SIZE_FLAW,348,44
+org.openintents.shopping,ShoppingActivity,:id/edittext,android.widget.EditText,My shopping list,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,:id/check1,android.widget.CheckBox,Use this theme for all lists,ACCESSIBILITY_SIZE_FLAW,358,32
+org.openintents.shopping,ShoppingActivity,:id/list_items,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,35
+org.openintents.shopping,ShoppingActivity,:id/check_surround,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,62,35
+org.openintents.shopping,ShoppingActivity,:id/description,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,349,35
+org.openintents.shopping,ShoppingActivity,:id/check,android.widget.CheckBox,,ACCESSIBILITY_SIZE_FLAW,32,32
+org.openintents.shopping,ShoppingActivity,:id/name,android.widget.TextView,strong-minded,ACCESSIBILITY_SIZE_FLAW,148,30
+org.openintents.shopping,ShoppingActivity,:id/check,android.widget.CheckBox,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,:id/title,android.widget.TextView,Privacy,ACCESSIBILITY_CONTRAST_FLAW,1.0434884496936805
+org.openintents.shopping,ShoppingActivity,:id/nocheck,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,:id/editquantity,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,:id/editunits,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,:id/editpriority,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,:id/note,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,:id/edittags,android.widget.MultiAutoCompleteTextView,Tags,ACCESSIBILITY_SIZE_FLAW,348,44
+org.openintents.shopping,ShoppingActivity,:id/editquantity,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,112,44
+org.openintents.shopping,ShoppingActivity,:id/editunits,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,113,44
+org.openintents.shopping,ShoppingActivity,:id/editprice,android.widget.EditText,0.00,ACCESSIBILITY_SIZE_FLAW,113,44
+org.openintents.shopping,ShoppingActivity,:id/editpriority,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,169,44
+org.openintents.shopping,ShoppingActivity,:id/editprice,android.widget.EditText,0.00,ACCESSIBILITY_CONTRAST_FLAW,3.889730750950177
+org.openintents.shopping,ShoppingActivity,:id/editprice,android.widget.EditText,0.00,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,:id/edittags,android.widget.MultiAutoCompleteTextView,Tags,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,:id/check,android.widget.CheckBox,,ACCESSIBILITY_CONTRAST_FLAW,2.6541913082691746
+org.openintents.shopping,ShoppingActivity,:id/price,android.widget.TextView,4-614-494-560.00,ACCESSIBILITY_SIZE_FLAW,107,33
+org.openintents.shopping,ShoppingActivity,:id/autocomplete_add_item,android.widget.EditText,vaginally,ACCESSIBILITY_CONTRAST_FLAW,2.1830122315392395
+org.openintents.shopping,ShoppingActivity,:id/quantity,android.widget.TextView,1318311487 ,ACCESSIBILITY_SIZE_FLAW,135,30
+org.openintents.shopping,ShoppingActivity,:id/units,android.widget.TextView,obol CIGS ,ACCESSIBILITY_SIZE_FLAW,106,30
+org.openintents.shopping,ShoppingActivity,:id/units,android.widget.TextView,obol CIGS ,ACCESSIBILITY_CONTRAST_FLAW,1.5911366887561762
+org.openintents.shopping,ShoppingActivity,:id/name,android.widget.TextView,ungain,ACCESSIBILITY_CONTRAST_FLAW,1.5911366887561762
+org.openintents.shopping,ShoppingActivity,:id/tags,android.widget.TextView,recommand,ACCESSIBILITY_SIZE_FLAW,75,19
+org.openintents.shopping,ShoppingActivity,:id/count,android.widget.TextView,#2,ACCESSIBILITY_CONTRAST_FLAW,1.5911366887561762
+org.openintents.shopping,ShoppingActivity,:id/labeleditnote,android.widget.TextView,Note,ACCESSIBILITY_CONTRAST_FLAW,1.4427361620859072
+org.openintents.shopping,ShoppingActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,1.8933926192357609
+org.openintents.shopping,ui.ItemStoresActivity,:id/list_stores,android.widget.ListView,,ACCESSIBILITY_SIZE_FLAW,294,0
+org.openintents.shopping,ShoppingActivity,:id/price,android.widget.TextView,92-233-720-368-547-800.00,ACCESSIBILITY_CONTRAST_FLAW,2.3778311801862744
+org.openintents.shopping,ShoppingActivity,:id/quantity,android.widget.TextView,8094012916 ,ACCESSIBILITY_CONTRAST_FLAW,1.1121078324840545
+org.openintents.shopping,ShoppingActivity,:id/tags,android.widget.TextView,recommand,ACCESSIBILITY_CONTRAST_FLAW,1.1121078324840545
+org.openintents.shopping,ShoppingActivity,:id/total_1,android.widget.TextView,Checked: -92-233-720-368-547-800.00,ACCESSIBILITY_CONTRAST_FLAW,2.4166039950280718
+org.openintents.shopping,ShoppingActivity,:id/total_2,android.widget.TextView,Total: -92-233-720-368-547-800.00,ACCESSIBILITY_CONTRAST_FLAW,2.3778311801862744
+org.openintents.shopping,ui.PreferenceActivity,android:id/title,android.widget.TextView,Application settings,ACCESSIBILITY_SIZE_FLAW,411,35
+org.openintents.shopping,ui.PreferenceActivity,android:id/title,android.widget.TextView,Extensions,ACCESSIBILITY_CONTRAST_FLAW,2.6265604525055526
+org.openintents.shopping,ui.PreferenceActivity,android:id/summary,android.widget.TextView,Search for extensions at Android Market.,ACCESSIBILITY_CONTRAST_FLAW,1.973722359466373
+org.openintents.shopping,ShoppingActivity,:id/priority,android.widget.TextView,-coversine- ,ACCESSIBILITY_SIZE_FLAW,71,19
+org.openintents.shopping,ShoppingActivity,:id/priority,android.widget.TextView,-Sheaff- ,ACCESSIBILITY_CONTRAST_FLAW,1.5911366887561762
+org.openintents.shopping,ShoppingActivity,android:id/search_src_text,android.widget.EditText,   ,ACCESSIBILITY_SIZE_FLAW,208,36
+org.openintents.shopping,ShoppingActivity,android:id/search_close_btn,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,36
+org.openintents.shopping,ShoppingActivity,android:id/search_go_btn,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,56,36
+org.openintents.shopping,ShoppingActivity,android:id/search_src_text,android.widget.EditText,   ,MISSING_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,android:id/search_src_text,android.widget.EditText,   ,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.openintents.shopping,ShoppingActivity,android:id/search_close_btn,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.7377890080220009
+org.openintents.shopping,ShoppingActivity,:id/action_bar-child-2:android.widget.TextView,android.widget.TextView,pigflower,ACCESSIBILITY_CONTRAST_FLAW,1.0
+org.openintents.shopping,ShoppingActivity,:id/action_bar-child-3:android.widget.TextView,android.widget.TextView,Shopping,ACCESSIBILITY_CONTRAST_FLAW,1.0
+org.openintents.shopping,ShoppingActivity,android:id/search_src_text,android.widget.EditText,   ,ACCESSIBILITY_CONTRAST_FLAW,1.370004402567594

@@ -1,0 +1,63 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.bottleworks.dailymoney,ui.LocalWebViewDlg,android:id/content,android.view.View,,ACCESSIBILITY_SIZE_FLAW,284,24
+com.bottleworks.dailymoney,ui.LocalWebViewDlg,android:id/content,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.LocalWebViewDlg,android.widget.Image-,android.widget.Image,,ACCESSIBILITY_CONTRAST_FLAW,3.5645886864857124
+com.bottleworks.dailymoney,ui.DesktopActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+com.bottleworks.dailymoney,ui.DesktopActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+com.bottleworks.dailymoney,ui.DesktopActivity,android:id/title,android.widget.TextView,Main,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+com.bottleworks.dailymoney,ui.DesktopActivity,:id/dt_info_weekly_expense,android.widget.TextView,Weekly : $0,ACCESSIBILITY_CONTRAST_FLAW,4.343852910807913
+com.bottleworks.dailymoney,ui.DesktopActivity,:id/dt_info_monthly_expense,android.widget.TextView,Monthly : $0,ACCESSIBILITY_CONTRAST_FLAW,4.343852910807913
+com.bottleworks.dailymoney,ui.DataMaintenanceActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+com.bottleworks.dailymoney,ui.DataMaintenanceActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+com.bottleworks.dailymoney,ui.PrefsActivity,android:id/title,android.widget.TextView,CSV,ACCESSIBILITY_SIZE_FLAW,411,24
+com.bottleworks.dailymoney,ui.PrefsActivity,android:id/list,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,30
+com.bottleworks.dailymoney,ui.PrefsActivity,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.PrefsActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+com.bottleworks.dailymoney,ui.PrefsActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_from,android.widget.Spinner,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_to,android.widget.Spinner,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_note,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_prev,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_today,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_next,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_datepicker,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_money,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_cal2,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_prev,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,38,48
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_today,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,38,48
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_next,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,38,48
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_datepicker,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,38,48
+com.bottleworks.dailymoney,ui.DetailEditorActivity,:id/deteditor_cal2,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,46,48
+com.bottleworks.dailymoney,ui.DetailEditorActivity,android:id/select_dialog_listview,android.widget.ListView,,ACCESSIBILITY_SIZE_FLAW,290,25
+com.bottleworks.dailymoney,ui.report.BalanceActivity,:id/report_balance_prev,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.report.BalanceActivity,:id/report_balance_today,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.report.BalanceActivity,:id/report_balance_next,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.report.BalanceActivity,:id/report_balance_mode,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.report.BalanceActivity,:id/report_balance_list,android.widget.ListView,,ACCESSIBILITY_SIZE_FLAW,411,0
+com.bottleworks.dailymoney,ui.DetailListActivity,:id/detlist_prev,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailListActivity,:id/detlist_today,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailListActivity,:id/detlist_next,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailListActivity,:id/detlist_mode,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailListActivity,android:id/title,android.widget.TextView,New,ACCESSIBILITY_CONTRAST_FLAW,2.3695633968880028
+com.bottleworks.dailymoney,ui.DetailEditorActivity,android:id/message,android.widget.TextView,From is empty,ACCESSIBILITY_CONTRAST_FLAW,3.3907685597669124
+com.bottleworks.dailymoney,calculator2.Calculator,android:id/title,android.widget.TextView,Clear history,ACCESSIBILITY_CONTRAST_FLAW,3.8021845108956667
+com.bottleworks.dailymoney,calculator2.Calculator,:id/cal2_display,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.DetailEditorActivity,android:id/increment,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,78,44
+com.bottleworks.dailymoney,ui.DetailEditorActivity,android:id/numberpicker_input,android.widget.EditText,Sep,ACCESSIBILITY_SIZE_FLAW,78,47
+com.bottleworks.dailymoney,ui.DetailEditorActivity,android:id/decrement,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,78,44
+com.bottleworks.dailymoney,ui.DetailEditorActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+com.bottleworks.dailymoney,ui.DetailEditorActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+com.bottleworks.dailymoney,ui.PrefsActivity,android:id/summary,android.widget.TextView,Set application password- empty means no protection,ACCESSIBILITY_CONTRAST_FLAW,2.1902247632596237
+com.bottleworks.dailymoney,ui.AccountMgntActivity,:id/accmgnt_list,android.widget.ListView,,ACCESSIBILITY_SIZE_FLAW,391,0
+com.bottleworks.dailymoney,ui.AccountMgntActivity,android:id/title,android.widget.TextView,Income,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+com.bottleworks.dailymoney,ui.AboutActivity,android:id/content,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.AboutActivity,android:id/content,android.view.View,,ACCESSIBILITY_SIZE_FLAW,401,24
+com.bottleworks.dailymoney,ui.AboutActivity,android.view.View-,android.view.View,,ACCESSIBILITY_CONTRAST_FLAW,1.0
+com.bottleworks.dailymoney,ui.BookMgntActivity,android:id/title,android.widget.TextView,New,ACCESSIBILITY_CONTRAST_FLAW,2.3695633968880028
+com.bottleworks.dailymoney,ui.AboutActivity,:id/about_whatsnew,android.webkit.WebView,,ACCESSIBILITY_CONTRAST_FLAW,1.0
+com.bottleworks.dailymoney,ui.AboutActivity,:id/about_app,android.webkit.WebView,,ACCESSIBILITY_CONTRAST_FLAW,1.0
+com.bottleworks.dailymoney,ui.BookEditorActivity,:id/bookeditor_note,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.BookEditorActivity,android:id/content-child-2:android.widget.TextView,android.widget.TextView,Symbol,ACCESSIBILITY_CONTRAST_FLAW,3.0448346617620263
+com.bottleworks.dailymoney,ui.BookEditorActivity,android:id/select_dialog_listview,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,290,39
+com.bottleworks.dailymoney,ui.BookEditorActivity,:id/bookeditor_name,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.bottleworks.dailymoney,ui.BookMgntActivity,:id/bookmgnt_item_note,android.widget.TextView,unarticulatory,ACCESSIBILITY_CONTRAST_FLAW,1.0

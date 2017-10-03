@@ -1,0 +1,40 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/toolbar,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,162,24
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/file_explorer_grid_view,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,130,3
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/grid_item_label,android.widget.TextView,Android,ACCESSIBILITY_CONTRAST_FLAW,1.1121078324840545
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/file_explorer_list_view,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,13
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/file_list_item_name,android.widget.TextView,Alarms,ACCESSIBILITY_CONTRAST_FLAW,1.392460214427922
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/file_list_item_size,android.widget.TextView,4KB,ACCESSIBILITY_CONTRAST_FLAW,1.392460214427922
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/file_list_item_date,android.widget.TextView,15 Sep 2017 12:51,ACCESSIBILITY_CONTRAST_FLAW,1.523058439315287
+org.documentfoundation.libreoffice,/org.libreoffice.SettingsActivity,android:id/title,android.widget.TextView,Explorer View Defaults,ACCESSIBILITY_SIZE_FLAW,411,35
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/file_explorer_grid_view,android.widget.GridView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/about_version,android.widget.TextView,,ACCESSIBILITY_SIZE_FLAW,318,24
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/about_vendor,android.widget.TextView,,ACCESSIBILITY_SIZE_FLAW,318,24
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/about_version,android.widget.TextView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/about_vendor,android.widget.TextView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,:id/about_credits,android.widget.TextView,http://www.libreoffice.org,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,android:id/button1,android.widget.Button,Show Notice,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,android:id/button2,android.widget.Button,Show License,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.documentfoundation.libreoffice,/org.libreoffice.ui.LibreOfficeUIActivity,android:id/button3,android.widget.Button,More Info,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.documentfoundation.libreoffice,/org.libreoffice.LibreOfficeMainActivity,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.documentfoundation.libreoffice,/org.libreoffice.LibreOfficeMainActivity,:id/toolbar,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.documentfoundation.libreoffice,/org.libreoffice.LibreOfficeMainActivity,:id/search_string,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.documentfoundation.libreoffice,/org.libreoffice.LibreOfficeMainActivity,:id/button_search_up,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.documentfoundation.libreoffice,/org.libreoffice.LibreOfficeMainActivity,:id/button_search_down,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.documentfoundation.libreoffice,/org.libreoffice.LibreOfficeMainActivity,:id/search_string,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,282,44
+org.documentfoundation.libreoffice,/org.libreoffice.LibreOfficeMainActivity,:id/button_search_up,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,56,44
+org.documentfoundation.libreoffice,/org.libreoffice.LibreOfficeMainActivity,:id/button_search_down,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,56,44
+org.documentfoundation.libreoffice,/org.libreoffice.storage.DocumentProviderSettingsActivity,android:id/title,android.widget.TextView,ownCloud settings,ACCESSIBILITY_SIZE_FLAW,411,35
+org.documentfoundation.libreoffice,/org.libreoffice.storage.DocumentProviderSettingsActivity,android:id/edit,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,318,44
+org.documentfoundation.libreoffice,/org.libreoffice.storage.DocumentProviderSettingsActivity,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.documentfoundation.libreoffice,/org.libreoffice.storage.DocumentProviderSettingsActivity,android:id/edit,android.widget.EditText,enhaemospore,ACCESSIBILITY_CONTRAST_FLAW,2.089605528848847
+org.documentfoundation.libreoffice,/org.libreoffice.storage.external.DirectoryBrowserActivity,:id/up_image,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,96,44
+org.documentfoundation.libreoffice,/org.libreoffice.storage.external.DirectoryBrowserActivity,:id/directory_header,android.widget.EditText,/storage/emulated/0,ACCESSIBILITY_SIZE_FLAW,227,44
+org.documentfoundation.libreoffice,/org.libreoffice.storage.external.DirectoryBrowserActivity,:id/directory_search_button,android.widget.Button,Go,ACCESSIBILITY_SIZE_FLAW,88,44
+org.documentfoundation.libreoffice,/org.libreoffice.storage.external.DirectoryBrowserActivity,android:id/text1,android.widget.TextView,Podcasts,ACCESSIBILITY_SIZE_FLAW,411,25
+org.documentfoundation.libreoffice,/org.libreoffice.storage.external.DirectoryBrowserActivity,:id/directory_search_button,android.widget.Button,Go,ACCESSIBILITY_CONTRAST_FLAW,3.1946913695279817
+org.documentfoundation.libreoffice,/org.libreoffice.storage.DocumentProviderSettingsActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,1.9073765480452778
+org.documentfoundation.libreoffice,com.android.documentsuiDocumentsActivity,com.android.documentsui:id/toolbar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.documentfoundation.libreoffice,com.android.documentsuiDocumentsActivity,com.android.documentsui:id/toolbar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.2867832605353338
+org.documentfoundation.libreoffice,com.android.documentsuiDocumentsActivity,android:id/title,android.widget.TextView,Recent,ACCESSIBILITY_CONTRAST_FLAW,3.0759739047798007
+org.documentfoundation.libreoffice,/org.libreoffice.storage.DocumentProviderSettingsActivity,android:id/alertTitle,android.widget.TextView,Server URL,ACCESSIBILITY_CONTRAST_FLAW,1.864093698433198

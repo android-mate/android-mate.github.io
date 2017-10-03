@@ -1,0 +1,7 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+org.opengemara.shiurim,MainActivity,:id/HebrewEd,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.opengemara.shiurim,MainActivity,:id/OpinionSpinner,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,295,24
+org.opengemara.shiurim,MainActivity,:id/HebrewEd,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,132,44
+org.opengemara.shiurim,MainActivity,:id/HebrewSpinner,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,246,24
+org.opengemara.shiurim,MainActivity,:id/SecularSpinner,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,246,24
+org.opengemara.shiurim,MainActivity,android:id/text1,android.widget.CheckedTextView,mi,ACCESSIBILITY_CONTRAST_FLAW,1.2528589632369886

@@ -1,0 +1,20 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+pt.isec.tp.am,About,:id/textView5,android.widget.TextView,(C) Carlos Pais,ACCESSIBILITY_CONTRAST_FLAW,4.317031217427146
+pt.isec.tp.am,Help,android:id/title,android.widget.TextView,Help,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+pt.isec.tp.am,Help,:id/textView3,android.widget.TextView,Destroy all visible barriers.,ACCESSIBILITY_CONTRAST_FLAW,2.903953364254217
+pt.isec.tp.am,Help,:id/textView5,android.widget.TextView,Slow down barriers' speed.,ACCESSIBILITY_CONTRAST_FLAW,3.4936448052427376
+pt.isec.tp.am,Help,:id/textView6,android.widget.TextView,You loose the game.,ACCESSIBILITY_CONTRAST_FLAW,1.113753290716912
+pt.isec.tp.am,TP_AMActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+pt.isec.tp.am,TP_AMActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+pt.isec.tp.am,GameActivity,android:id/content,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+pt.isec.tp.am,GameActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+pt.isec.tp.am,GameActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+pt.isec.tp.am,GameActivity,android:id/message,android.widget.TextView,Game Over!#Score: 0,ACCESSIBILITY_CONTRAST_FLAW,1.2632639919763577
+pt.isec.tp.am,MyPreferencesActivity,:id/seekBar1,android.widget.SeekBar,,MISSING_SPEAKABLE_TEXT_FLAW,
+pt.isec.tp.am,MyPreferencesActivity,android:id/title,android.widget.TextView,Settings,ACCESSIBILITY_SIZE_FLAW,411,24
+pt.isec.tp.am,Score,android:id/text1,android.widget.TextView,0,ACCESSIBILITY_SIZE_FLAW,411,25
+pt.isec.tp.am,Score,android:id/text1,android.widget.TextView,0,ACCESSIBILITY_CONTRAST_FLAW,1.3361475150577478
+pt.isec.tp.am,MyPreferencesActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+pt.isec.tp.am,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/list,android.support.v7.widget.RecyclerView,,MISSING_SPEAKABLE_TEXT_FLAW,
+pt.isec.tp.am,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,1.1918449557659243
+pt.isec.tp.am,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/button1,android.widget.Button,New message,ACCESSIBILITY_CONTRAST_FLAW,1.0639453036799522

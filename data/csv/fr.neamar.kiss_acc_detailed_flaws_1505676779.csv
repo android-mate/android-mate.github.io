@@ -1,0 +1,28 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+fr.neamar.kiss,MainActivity,:id/launcherButton,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,41,32
+fr.neamar.kiss,MainActivity,:id/searchEditText,android.widget.EditText,Search apps- contacts- …,ACCESSIBILITY_SIZE_FLAW,297,21
+fr.neamar.kiss,MainActivity,:id/menuButton,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,34,32
+fr.neamar.kiss,MainActivity,:id/main_empty-child-1:android.widget.TextView,android.widget.TextView,Apps- contacts- settings- …,ACCESSIBILITY_CONTRAST_FLAW,1.4969939561114844
+fr.neamar.kiss,MainActivity,:id/launcherButton,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.7795697203442264
+fr.neamar.kiss,MainActivity,:id/searchEditText,android.widget.EditText,Search apps- contacts- …,ACCESSIBILITY_CONTRAST_FLAW,1.4969939561114844
+fr.neamar.kiss,MainActivity,:id/searchEditText,android.widget.EditText,Search apps- contacts- …,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+fr.neamar.kiss,MainActivity,:id/menuButton,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.849027755287037
+fr.neamar.kiss,MainActivity,:id/whiteLauncherButton,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,37,32
+fr.neamar.kiss,MainActivity,android:id/list,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,391,33
+fr.neamar.kiss,MainActivity,:id/item_app_tag,android.widget.TextView,text message compose sms mms messaging,ACCESSIBILITY_CONTRAST_FLAW,1.4969939561114844
+fr.neamar.kiss,MainActivity,:id/whiteLauncherButton,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.7795697203442264
+fr.neamar.kiss,com.mattieapps.roommatesMainActivity,:id/whiteLauncherButton,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,37,32
+fr.neamar.kiss,com.mattieapps.roommatesMainActivity,:id/launcherButton,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,41,32
+fr.neamar.kiss,com.mattieapps.roommatesMainActivity,:id/searchEditText,android.widget.EditText,Search apps- contacts- …,ACCESSIBILITY_SIZE_FLAW,297,21
+fr.neamar.kiss,com.mattieapps.roommatesMainActivity,:id/menuButton,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,34,32
+fr.neamar.kiss,com.mattieapps.roommatesMainActivity,android:id/list,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,391,33
+fr.neamar.kiss,com.mattieapps.roommatesMainActivity,:id/item_app_tag,android.widget.TextView,text message compose sms mms messaging,ACCESSIBILITY_CONTRAST_FLAW,1.4969939561114844
+fr.neamar.kiss,com.mattieapps.roommatesMainActivity,:id/whiteLauncherButton,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.7795697203442264
+fr.neamar.kiss,com.mattieapps.roommatesMainActivity,:id/launcherButton,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.7795697203442264
+fr.neamar.kiss,com.mattieapps.roommatesMainActivity,:id/searchEditText,android.widget.EditText,Search apps- contacts- …,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+fr.neamar.kiss,MainActivity,:id/clearButton,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,34,32
+fr.neamar.kiss,com.google.android.gmsauth.uiflows.addaccount.PreAddAccountActivity,:id/item_app_tag,android.widget.TextView,dial call phone,ACCESSIBILITY_CONTRAST_FLAW,1.4969939561114844
+fr.neamar.kiss,com.google.android.gmsauth.uiflows.addaccount.PreAddAccountActivity,:id/launcherButton,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.7795697203442264
+fr.neamar.kiss,com.google.android.gmsauth.uiflows.addaccount.PreAddAccountActivity,:id/searchEditText,android.widget.EditText,Search apps- contacts- …,ACCESSIBILITY_CONTRAST_FLAW,1.4969939561114844
+fr.neamar.kiss,com.google.android.gmsauth.uiflows.addaccount.PreAddAccountActivity,:id/searchEditText,android.widget.EditText,Search apps- contacts- …,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+fr.neamar.kiss,com.google.android.gmsauth.uiflows.addaccount.PreAddAccountActivity,:id/menuButton,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.849027755287037

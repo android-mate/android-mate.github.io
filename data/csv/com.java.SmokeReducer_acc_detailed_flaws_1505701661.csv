@@ -1,0 +1,7 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.java.SmokeReducer,SmokeReducer,android:id/title,android.widget.TextView,Smoke Reducer,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+com.java.SmokeReducer,com.android.messagingui.conversation.ConversationActivity,android:id/title,android.widget.TextView,Smoke Reducer,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+com.java.SmokeReducer,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/list,android.support.v7.widget.RecyclerView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.java.SmokeReducer,com.android.messagingui.conversationlist.ShareIntentActivity,com.android.messaging:id/empty_text_hint,android.widget.TextView,Once you start a new conversation- you’ll see it listed here,ACCESSIBILITY_CONTRAST_FLAW,1.0
+com.java.SmokeReducer,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,1.0
+com.java.SmokeReducer,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/button1,android.widget.Button,New message,ACCESSIBILITY_CONTRAST_FLAW,1.0

@@ -1,0 +1,76 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/action_help,android.widget.TextView,Help,ACCESSIBILITY_CONTRAST_FLAW,4.115549037317528
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/action_settings,android.widget.TextView,Settings,ACCESSIBILITY_CONTRAST_FLAW,4.115549037317528
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/nosettings_text,android.widget.TextView,Transdroid allows you to monitor and manage the torrent client you run at home or on your seedbox. Setting things up can be a bit tricky- but we offer step-by-step guides and promise it'll be worth it!,ACCESSIBILITY_CONTRAST_FLAW,2.7795697203442264
+org.transdroid.full,/org.transdroid.core.gui.settings.MainSettingsActivity_,android:id/title,android.widget.TextView,Servers,ACCESSIBILITY_SIZE_FLAW,411,35
+org.transdroid.full,/org.transdroid.core.gui.navigation.DialogHelper_,android:id/expanded_menu,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.transdroid.full,/org.transdroid.core.gui.settings.MainSettingsActivity_,android:id/select_dialog_listview,android.widget.ListView,,ACCESSIBILITY_SIZE_FLAW,358,16
+org.transdroid.full,/org.transdroid.core.gui.settings.WebsearchSettingsActivity_,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.transdroid.full,/org.transdroid.core.gui.settings.WebsearchSettingsActivity_,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.transdroid.full,/org.transdroid.core.gui.settings.WebsearchSettingsActivity_,android:id/edit,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,318,44
+org.transdroid.full,/org.transdroid.core.gui.settings.ServerSettingsActivity_,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.transdroid.full,/org.transdroid.core.gui.settings.ServerSettingsActivity_,android:id/title,android.widget.TextView,Secret token,ACCESSIBILITY_CONTRAST_FLAW,2.6265604525055526
+org.transdroid.full,/org.transdroid.core.gui.settings.RssfeedSettingsActivity_,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.transdroid.full,/org.transdroid.core.gui.settings.RssfeedSettingsActivity_,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikSharedSettingsActivity_,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikSharedSettingsActivity_,android:id/title,android.widget.TextView,Folder,ACCESSIBILITY_CONTRAST_FLAW,2.6265604525055526
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikSharedSettingsActivity_,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikSharedSettingsActivity_,android:id/edit,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,318,44
+org.transdroid.full,/org.transdroid.core.gui.settings.WebsearchSettingsActivity_,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.transdroid.full,com.android.browserBrowserActivity,:id/action_help,android.widget.TextView,Help,ACCESSIBILITY_CONTRAST_FLAW,4.115549037317528
+org.transdroid.full,com.android.browserBrowserActivity,:id/action_settings,android.widget.TextView,Settings,ACCESSIBILITY_CONTRAST_FLAW,4.115549037317528
+org.transdroid.full,/org.transdroid.core.gui.settings.RssfeedSettingsActivity_,android:id/edit,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,318,44
+org.transdroid.full,/org.transdroid.core.gui.settings.RssfeedSettingsActivity_,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.transdroid.full,/org.transdroid.core.gui.settings.RssfeedSettingsActivity_,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.9964430978701095
+org.transdroid.full,/org.transdroid.core.gui.settings.ServerSettingsActivity_,android:id/edit,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,318,44
+org.transdroid.full,/org.transdroid.core.gui.settings.ServerSettingsActivity_,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.transdroid.full,/org.transdroid.core.gui.settings.ServerSettingsActivity_,android:id/summary,android.widget.TextView,Manually set absolute path for remote connections,ACCESSIBILITY_CONTRAST_FLAW,1.973722359466373
+org.transdroid.full,/org.transdroid.core.gui.settings.ServerSettingsActivity_,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.transdroid.full,/org.transdroid.core.gui.settings.ServerSettingsActivity_,android:id/text1,android.widget.CheckedTextView,Synology,ACCESSIBILITY_SIZE_FLAW,358,38
+org.transdroid.full,/org.transdroid.core.gui.settings.ServerSettingsActivity_,android:id/text1,android.widget.CheckedTextView,Aria2,ACCESSIBILITY_CONTRAST_FLAW,2.7974765421545467
+org.transdroid.full,/org.transdroid.core.gui.settings.ServerSettingsActivity_,android:id/list,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,10
+org.transdroid.full,/org.transdroid.core.seedbox.DediseedboxSettingsActivity_,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.transdroid.full,/org.transdroid.core.seedbox.DediseedboxSettingsActivity_,android:id/edit,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,318,44
+org.transdroid.full,/org.transdroid.core.seedbox.DediseedboxSettingsActivity_,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikDediSettingsActivity_,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikDediSettingsActivity_,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikSemiSettingsActivity_,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.transdroid.full,/org.transdroid.core.gui.settings.NotificationSettingsActivity_,android:id/title,android.widget.TextView,Interval,ACCESSIBILITY_CONTRAST_FLAW,2.6265604525055526
+org.transdroid.full,/org.transdroid.core.gui.settings.NotificationSettingsActivity_,android:id/summary,android.widget.TextView,How often to check RSS or torrents,ACCESSIBILITY_CONTRAST_FLAW,1.973722359466373
+org.transdroid.full,/org.transdroid.core.gui.settings.MainSettingsActivity_,android:id/list,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,18
+org.transdroid.full,/org.transdroid.core.gui.settings.MainSettingsActivity_,android:id/title,android.widget.TextView,Transdroid help,ACCESSIBILITY_CONTRAST_FLAW,1.5911366887561762
+org.transdroid.full,/org.transdroid.core.gui.settings.NotificationSettingsActivity_,:id/old_color_panel,android.view.View,,ACCESSIBILITY_SIZE_FLAW,157,40
+org.transdroid.full,/org.transdroid.core.gui.settings.NotificationSettingsActivity_,:id/new_color_panel,android.view.View,,ACCESSIBILITY_SIZE_FLAW,156,40
+org.transdroid.full,/org.transdroid.core.gui.settings.NotificationSettingsActivity_,:id/color_picker_view,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.transdroid.full,/org.transdroid.core.gui.settings.NotificationSettingsActivity_,:id/old_color_panel,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.transdroid.full,/org.transdroid.core.gui.settings.NotificationSettingsActivity_,:id/new_color_panel,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.transdroid.full,/org.transdroid.core.gui.settings.NotificationSettingsActivity_,:id/old_color_panel,android.view.View,,ACCESSIBILITY_CONTRAST_FLAW,4.3080310226151655
+org.transdroid.full,/org.transdroid.core.gui.settings.NotificationSettingsActivity_,:id/new_color_panel,android.view.View,,ACCESSIBILITY_CONTRAST_FLAW,4.3080310226151655
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikSharedSettingsActivity_,:id/sb__inner,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,47
+org.transdroid.full,/org.transdroid.core.gui.settings.RssfeedSettingsActivity_,android:id/summary,android.widget.TextView,unclearly,ACCESSIBILITY_CONTRAST_FLAW,1.5911366887561762
+org.transdroid.full,/org.transdroid.core.gui.settings.SystemSettingsActivity_,:id/sb__inner,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,47
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikSemiSettingsActivity_,android:id/edit,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,318,44
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikSemiSettingsActivity_,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikSemiSettingsActivity_,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.transdroid.full,/org.transdroid.core.seedbox.DediseedboxSettingsActivity_,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikDediSettingsActivity_,android:id/edit,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,318,44
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikDediSettingsActivity_,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikDediSettingsActivity_,android:id/title,android.widget.TextView,Exclude filter,ACCESSIBILITY_CONTRAST_FLAW,2.6265604525055526
+org.transdroid.full,/org.transdroid.core.seedbox.XirvikDediSettingsActivity_,android:id/summary,android.widget.TextView,Notify only if torrent name matches these |-separated words,ACCESSIBILITY_CONTRAST_FLAW,1.973722359466373
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/expanded_menu,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/torrents_toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/speedswrapper_layout,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,141,45
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/fab_expand_menu_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/torrents_toolbar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,4.115549037317528
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/filter_text,android.widget.TextView,All,ACCESSIBILITY_CONTRAST_FLAW,4.115549037317528
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/server_text,android.widget.TextView,butenyl,ACCESSIBILITY_CONTRAST_FLAW,4.115549037317528
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/torrents_toolbar-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,4.115549037317528
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/drawer_list,android.widget.FrameLayout,,ACCESSIBILITY_SIZE_FLAW,75,33
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/search_src_text,android.widget.EditText,Filter list,ACCESSIBILITY_SIZE_FLAW,164,36
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/error_text,android.widget.TextView,Access denied (please check your settings),ACCESSIBILITY_CONTRAST_FLAW,2.0286738351253133
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/addmenu_file_button,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.6325551738954918
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/addmenu_link_button,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.6325551738954918
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/addmenu_barcode_button,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.6325551738954918
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/fab_expand_menu_button,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.6325551738954918
+org.transdroid.full,/org.transdroid.core.gui.TorrentsActivity_,:id/search_src_text,android.widget.EditText,Filter list,DUPLICATE_SPEAKABLE_TEXT_FLAW,

@@ -1,0 +1,92 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+de.delusions.measure,activities.prefs.UserPreferences,android:id/title,android.widget.TextView,Basic Settings,ACCESSIBILITY_SIZE_FLAW,411,24
+de.delusions.measure,activities.prefs.UserPreferences,android:id/list,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,44
+de.delusions.measure,activities.prefs.UserPreferences,android:id/summary,android.widget.TextView,Set time for daily reminder,ACCESSIBILITY_CONTRAST_FLAW,1.1302418158518894
+de.delusions.measure,activities.prefs.UserPreferences,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+de.delusions.measure,activities.prefs.UserPreferences,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+de.delusions.measure,MeasureTabs,:id/minusminus,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,MeasureTabs,:id/minus,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,MeasureTabs,:id/plus,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,MeasureTabs,:id/plusplus,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,MeasureTabs,:id/set,android.widget.Button,Set Current Weight in kg,ACCESSIBILITY_SIZE_FLAW,371,30
+de.delusions.measure,MeasureTabs,:id/minusminus,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,41,60
+de.delusions.measure,MeasureTabs,:id/minus,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,41,60
+de.delusions.measure,MeasureTabs,:id/plus,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,41,60
+de.delusions.measure,MeasureTabs,:id/plusplus,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,41,60
+de.delusions.measure,MeasureTabs,android:id/title,android.widget.TextView,Tracking,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+de.delusions.measure,MeasureTabs,:id/minus,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.089605528848847
+de.delusions.measure,MeasureTabs,:id/plus,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.089605528848847
+de.delusions.measure,MeasureTabs,:id/calculator,android.widget.Button,BMI Calculator,ACCESSIBILITY_SIZE_FLAW,391,30
+de.delusions.measure,MeasureTabs,:id/label,android.widget.TextView,Statistics,ACCESSIBILITY_CONTRAST_FLAW,3.4886012204145596
+de.delusions.measure,MeasureTabs,:id/value,android.widget.TextView,0.9,ACCESSIBILITY_CONTRAST_FLAW,3.827683580717234
+de.delusions.measure,MeasureTabs,:id/unit,android.widget.TextView,kg,ACCESSIBILITY_CONTRAST_FLAW,3.5976722830060712
+de.delusions.measure,MeasureTabs,:id/calculator,android.widget.Button,BMI Calculator,ACCESSIBILITY_CONTRAST_FLAW,1.7377890080220009
+de.delusions.measure,activities.bmi.BmiCalcActivity,:id/userHeight,android.widget.EditText,Enter your height,ACCESSIBILITY_SIZE_FLAW,249,36
+de.delusions.measure,activities.bmi.BmiCalcActivity,:id/userWeight,android.widget.EditText,Enter your weight,ACCESSIBILITY_SIZE_FLAW,249,36
+de.delusions.measure,activities.bmi.BmiCalcActivity,:id/go,android.widget.Button,Go,ACCESSIBILITY_SIZE_FLAW,249,29
+de.delusions.measure,activities.bmi.BmiCalcActivity,:id/userHeight,android.widget.EditText,Enter your height,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,activities.bmi.BmiCalcActivity,:id/userWeight,android.widget.EditText,Enter your weight,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,activities.bmi.BmiCalcActivity,:id/go,android.widget.Button,Go,ACCESSIBILITY_CONTRAST_FLAW,2.9571839892482976
+de.delusions.measure,MeasureTabs,:id/all,android.widget.Button,All,ACCESSIBILITY_SIZE_FLAW,25,19
+de.delusions.measure,MeasureTabs,:id/year_1,android.widget.Button,1 year,ACCESSIBILITY_SIZE_FLAW,48,19
+de.delusions.measure,MeasureTabs,:id/months_6,android.widget.Button,6 months,ACCESSIBILITY_SIZE_FLAW,68,19
+de.delusions.measure,MeasureTabs,:id/months_3,android.widget.Button,3 months,ACCESSIBILITY_SIZE_FLAW,68,19
+de.delusions.measure,MeasureTabs,:id/months_1,android.widget.Button,1 month,ACCESSIBILITY_SIZE_FLAW,61,9
+de.delusions.measure,MeasureTabs,:id/week_2,android.widget.Button,2 weeks,ACCESSIBILITY_SIZE_FLAW,61,9
+de.delusions.measure,MeasureTabs,:id/showall,android.widget.ToggleButton,Show others,ACCESSIBILITY_SIZE_FLAW,88,9
+de.delusions.measure,MeasureTabs,:id/chart_title,android.widget.TextView,Weight,ACCESSIBILITY_CONTRAST_FLAW,3.6573664310763587
+de.delusions.measure,MeasureTabs,:id/all,android.widget.Button,All,ACCESSIBILITY_CONTRAST_FLAW,3.288707476539474
+de.delusions.measure,MeasureTabs,:id/year_1,android.widget.Button,1 year,ACCESSIBILITY_CONTRAST_FLAW,3.288707476539474
+de.delusions.measure,MeasureTabs,:id/months_6,android.widget.Button,6 months,ACCESSIBILITY_CONTRAST_FLAW,3.288707476539474
+de.delusions.measure,MeasureTabs,:id/months_3,android.widget.Button,3 months,ACCESSIBILITY_CONTRAST_FLAW,3.288707476539474
+de.delusions.measure,MeasureEdit,:id/entryTime,android.widget.Button,10:14,ACCESSIBILITY_SIZE_FLAW,72,29
+de.delusions.measure,MeasureEdit,:id/entryDate,android.widget.Button,17/09/2017,ACCESSIBILITY_SIZE_FLAW,108,29
+de.delusions.measure,MeasureEdit,:id/comment,android.widget.EditText,Comment,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,MeasureEdit,:id/ok,android.widget.Button,Go,ACCESSIBILITY_CONTRAST_FLAW,3.0923296818220836
+de.delusions.measure,MeasureEdit,:id/comment,android.widget.EditText,#,MISSING_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,MeasureEdit,:id/entryTime,android.widget.Button,10:14,ACCESSIBILITY_CONTRAST_FLAW,3.0448346617620263
+de.delusions.measure,MeasureEdit,android:id/increment,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,70,44
+de.delusions.measure,MeasureEdit,android:id/numberpicker_input,android.widget.EditText,10,ACCESSIBILITY_SIZE_FLAW,70,47
+de.delusions.measure,MeasureEdit,android:id/decrement,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,70,44
+de.delusions.measure,MeasureEdit,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+de.delusions.measure,MeasureEdit,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+de.delusions.measure,MeasureTabs,:id/label_measure,android.widget.TextView,Weight:,ACCESSIBILITY_CONTRAST_FLAW,1.0
+de.delusions.measure,MeasureTabs,:id/measure,android.widget.TextView,0.9 kg,ACCESSIBILITY_CONTRAST_FLAW,1.0
+de.delusions.measure,MeasureTabs,:id/label_bmi,android.widget.TextView,BMI:,ACCESSIBILITY_CONTRAST_FLAW,1.0
+de.delusions.measure,MeasureTabs,:id/bmi,android.widget.TextView,∞,ACCESSIBILITY_CONTRAST_FLAW,1.0
+de.delusions.measure,MeasureTabs,:id/date,android.widget.TextView,10:13- 17/09/2017,ACCESSIBILITY_CONTRAST_FLAW,1.0
+de.delusions.measure,MeasureTabs,:id/dialoginput,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,MeasureTabs,android:id/button1,android.widget.Button,Go,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+de.delusions.measure,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/list,android.support.v7.widget.RecyclerView,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/alertTitle,android.widget.TextView,Select conversation,ACCESSIBILITY_CONTRAST_FLAW,4.346619039231695
+de.delusions.measure,com.android.messagingui.conversationlist.ShareIntentActivity,com.android.messaging:id/empty_text_hint,android.widget.TextView,Once you start a new conversation- you’ll see it listed here,ACCESSIBILITY_CONTRAST_FLAW,1.0
+de.delusions.measure,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,1.0
+de.delusions.measure,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/button1,android.widget.Button,New message,ACCESSIBILITY_CONTRAST_FLAW,1.0
+de.delusions.measure,MeasureCreateActivity,:id/entryTime,android.widget.Button,10:20,ACCESSIBILITY_SIZE_FLAW,72,29
+de.delusions.measure,MeasureCreateActivity,:id/entryDate,android.widget.Button,17/09/2017,ACCESSIBILITY_SIZE_FLAW,108,29
+de.delusions.measure,MeasureCreateActivity,:id/input,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,MeasureCreateActivity,:id/comment,android.widget.EditText,Comment,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+de.delusions.measure,MeasureCreateActivity,:id/ok,android.widget.Button,Go,ACCESSIBILITY_CONTRAST_FLAW,3.1892342155659867
+de.delusions.measure,MeasureCreateActivity,android:id/increment,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,70,44
+de.delusions.measure,MeasureCreateActivity,android:id/numberpicker_input,android.widget.EditText,10,ACCESSIBILITY_SIZE_FLAW,70,47
+de.delusions.measure,MeasureCreateActivity,android:id/decrement,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,70,44
+de.delusions.measure,MeasureCreateActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+de.delusions.measure,MeasureCreateActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+de.delusions.measure,MeasureCreateActivity,android:id/text1,android.widget.CheckedTextView,Waist,ACCESSIBILITY_CONTRAST_FLAW,3.3190497783477215
+de.delusions.measure,MeasureTabs,:id/set,android.widget.Button,Set Current Waist in cm,ACCESSIBILITY_CONTRAST_FLAW,2.8168342236681534
+de.delusions.measure,activities.prefs.UserPreferences,android:id/increment,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,70,44
+de.delusions.measure,activities.prefs.UserPreferences,android:id/numberpicker_input,android.widget.EditText,07,ACCESSIBILITY_SIZE_FLAW,70,47
+de.delusions.measure,activities.prefs.UserPreferences,android:id/decrement,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,70,44
+de.delusions.measure,MeasureCreateActivity,android:id/alertTitle,android.widget.TextView,Choose measure,ACCESSIBILITY_CONTRAST_FLAW,1.4434776958677478
+de.delusions.measure,MeasureCreateActivity,:id/entryTime,android.widget.Button,10:44,ACCESSIBILITY_CONTRAST_FLAW,3.6573664310763587
+de.delusions.measure,MeasureTabs,android:id/button2,android.widget.Button,No,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+de.delusions.measure,MeasureTabs,:id/LinearLayout01,android.widget.TableLayout,,ACCESSIBILITY_SIZE_FLAW,391,8
+de.delusions.measure,MeasureTabs,:id/label_comment,android.widget.TextView,Comment,ACCESSIBILITY_CONTRAST_FLAW,1.0
+de.delusions.measure,MeasureTabs,:id/comment,android.widget.TextView,trop-,ACCESSIBILITY_CONTRAST_FLAW,1.0
+de.delusions.measure,MeasureEdit,:id/entryDate,android.widget.Button,17/09/2017,ACCESSIBILITY_CONTRAST_FLAW,3.6573664310763587
+de.delusions.measure,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/title,android.widget.TextView,History,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+de.delusions.measure,com.android.messagingui.conversationlist.ShareIntentActivity,:id/chart_title,android.widget.TextView,Body Fat,ACCESSIBILITY_CONTRAST_FLAW,3.6573664310763587
+de.delusions.measure,com.android.messagingui.conversationlist.ShareIntentActivity,:id/all,android.widget.Button,All,ACCESSIBILITY_CONTRAST_FLAW,3.288707476539474
+de.delusions.measure,com.android.messagingui.conversationlist.ShareIntentActivity,:id/year_1,android.widget.Button,1 year,ACCESSIBILITY_CONTRAST_FLAW,3.288707476539474
+de.delusions.measure,com.android.messagingui.conversationlist.ShareIntentActivity,:id/months_6,android.widget.Button,6 months,ACCESSIBILITY_CONTRAST_FLAW,3.288707476539474
+de.delusions.measure,com.android.messagingui.conversationlist.ShareIntentActivity,:id/months_3,android.widget.Button,3 months,ACCESSIBILITY_CONTRAST_FLAW,3.288707476539474

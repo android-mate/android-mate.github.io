@@ -1,0 +1,12 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+br.usp.ime.retrobreaker,MainActivity,:id/levelSpinner,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,411,24
+br.usp.ime.retrobreaker,MainActivity,:id/soundEffectsCheckBox,android.widget.CheckBox,Enable sound effects,ACCESSIBILITY_SIZE_FLAW,411,32
+br.usp.ime.retrobreaker,MainActivity,:id/newGameButton,android.widget.Button,New game,ACCESSIBILITY_CONTRAST_FLAW,1.8947143147843377
+br.usp.ime.retrobreaker,MainActivity,:id/container-child-9:android.widget.TextView,android.widget.TextView,Hard brick (need 2 hits to break it),ACCESSIBILITY_CONTRAST_FLAW,3.3417682087605907
+br.usp.ime.retrobreaker,GameActivity,:id/highScore,android.widget.TextView,High score: 00000000,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+br.usp.ime.retrobreaker,GameActivity,:id/score,android.widget.TextView,Score: 00000000,ACCESSIBILITY_CONTRAST_FLAW,1.9687325714873163
+br.usp.ime.retrobreaker,GameActivity,:id/scoreMultiplier,android.widget.TextView,Multiplier: 1x,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+br.usp.ime.retrobreaker,GameActivity,:id/ready,android.widget.TextView,Ready?,ACCESSIBILITY_CONTRAST_FLAW,1.9687325714873163
+br.usp.ime.retrobreaker,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/list,android.support.v7.widget.RecyclerView,,MISSING_SPEAKABLE_TEXT_FLAW,
+br.usp.ime.retrobreaker,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,1.5911366887561762
+br.usp.ime.retrobreaker,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/button1,android.widget.Button,New message,ACCESSIBILITY_CONTRAST_FLAW,1.5911366887561762

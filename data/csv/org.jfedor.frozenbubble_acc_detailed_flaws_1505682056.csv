@@ -1,0 +1,20 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.HomeScreen,android:id/content-child-2:android.widget.Button,android.widget.Button,Arcade,ACCESSIBILITY_CONTRAST_FLAW,2.3395877290655993
+org.jfedor.frozenbubble,FrozenBubble,android:id/content,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.PreferencesActivity,android:id/title,android.widget.TextView,Player information,ACCESSIBILITY_SIZE_FLAW,411,24
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.PreferencesActivity,android:id/widget_frame,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,411,20
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.PreferencesActivity,:id/seekBarPrefBarContainer,android.widget.SeekBar,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.PreferencesActivity,android:id/title,android.widget.TextView,Difficulty,ACCESSIBILITY_CONTRAST_FLAW,1.9037240877135109
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.PreferencesActivity,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.PreferencesActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.PreferencesActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.PreferencesActivity,android:id/list,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,21
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.HomeScreen,android:id/alertTitle,android.widget.TextView,Input Not Found,ACCESSIBILITY_CONTRAST_FLAW,3.5494377582721914
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.HomeScreen,android:id/message,android.widget.TextView,0 gamepads found- 1 or more needed.,ACCESSIBILITY_CONTRAST_FLAW,3.7835938011504475
+org.jfedor.frozenbubble,/com.efortin.frozenbubble.HomeScreen,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,3.76408746990417
+org.jfedor.frozenbubble,current_activity,android:id/content,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.jfedor.frozenbubble,FrozenBubble,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,1.424380207520071
+org.jfedor.frozenbubble,FrozenBubble,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.4388905452244845
+org.jfedor.frozenbubble,FrozenBubble,android:id/button3,android.widget.Button,Exit,ACCESSIBILITY_CONTRAST_FLAW,2.5734852280377845
+org.jfedor.frozenbubble,FrozenBubble,android:id/text1,android.widget.CheckedTextView,Point To Shoot,ACCESSIBILITY_CONTRAST_FLAW,1.424380207520071
+org.jfedor.frozenbubble,FrozenBubble,android:id/expanded_menu,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,249,38

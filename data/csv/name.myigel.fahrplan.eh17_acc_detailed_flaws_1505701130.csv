@@ -1,0 +1,124 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/roomScroller,android.widget.HorizontalScrollView,,ACCESSIBILITY_SIZE_FLAW,373,18
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/scrollContainer,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,0,155
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/toolbar-child-0:android.widget.TextView,android.widget.TextView,Schedule,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,android:id/text1,android.widget.TextView,Day 1,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/toolbar-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.85124334107348
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/time,android.widget.TextView,12:45,ACCESSIBILITY_CONTRAST_FLAW,1.0
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,Schedule,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/action_bar-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/date,android.widget.TextView,4/14/17 10:00 AM - Vortragssaal,ACCESSIBILITY_CONTRAST_FLAW,2.4555705322624255
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/lectureid,android.widget.TextView,ID: 8471,ACCESSIBILITY_CONTRAST_FLAW,2.4555705322624255
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/spinner,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,342,24
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/alertTitle,android.widget.TextView,Choose alarm time,ACCESSIBILITY_CONTRAST_FLAW,3.3259295224385714
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.3259295224385714
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,3.3259295224385714
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/toolbar-child-0:android.widget.TextView,android.widget.TextView,Favorites,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,android:id/empty,android.widget.TextView,No favorite lectures,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/conference_url,android.widget.TextView,https://eh17.easterhegg.eu/,ACCESSIBILITY_SIZE_FLAW,176,29
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/copyright_logo,android.widget.TextView,,ACCESSIBILITY_SIZE_FLAW,32,39
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/source_code,android.widget.TextView,Source code,ACCESSIBILITY_SIZE_FLAW,110,29
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/issues,android.widget.TextView,Issues or feature requests,ACCESSIBILITY_SIZE_FLAW,195,29
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/google_play_store,android.widget.TextView,Google PlayStore listing,ACCESSIBILITY_SIZE_FLAW,181,39
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/copyright_logo,android.widget.TextView,,MISSING_SPEAKABLE_TEXT_FLAW,
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/conference_url,android.widget.TextView,https://eh17.easterhegg.eu/,ACCESSIBILITY_CONTRAST_FLAW,2.0997680298511
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/source_code,android.widget.TextView,Source code,ACCESSIBILITY_CONTRAST_FLAW,2.0997680298511
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/issues,android.widget.TextView,Issues or feature requests,ACCESSIBILITY_CONTRAST_FLAW,2.0997680298511
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/google_play_store,android.widget.TextView,Google PlayStore listing,ACCESSIBILITY_CONTRAST_FLAW,2.0997680298511
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/roomScroller-child-0:android.widget.TextView,android.widget.TextView,Vortragssaal,ACCESSIBILITY_CONTRAST_FLAW,1.0
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/event_title,android.widget.TextView,Einführung in die Chaosvermittlung,ACCESSIBILITY_CONTRAST_FLAW,2.6043964062893665
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/event_subtitle,android.widget.TextView,2 Draht Technik nicht nur als Backupkommunikation,ACCESSIBILITY_CONTRAST_FLAW,2.6043964062893665
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/event_speakers,android.widget.TextView,PhilmacFLy,ACCESSIBILITY_CONTRAST_FLAW,2.6043964062893665
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/event_track,android.widget.TextView, [de],ACCESSIBILITY_CONTRAST_FLAW,2.6043964062893665
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,android:id/list,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,410,0
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/title,android.widget.TextView,Day 1 - 4/14/17,ACCESSIBILITY_CONTRAST_FLAW,2.356733378256854
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/time,android.widget.TextView,9:00 AM,ACCESSIBILITY_CONTRAST_FLAW,3.9494396480491156
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/duration,android.widget.TextView,30 min.,ACCESSIBILITY_CONTRAST_FLAW,3.9494396480491156
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/room,android.widget.TextView,Vortragssaal,ACCESSIBILITY_CONTRAST_FLAW,3.9494396480491156
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.AlarmList,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.AlarmList,:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.8931892711341027
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.AlarmList,:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,Alarms,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.AlarmList,:id/action_bar-child-0:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.AlarmList,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/subtitle,android.widget.TextView,Use your smartphone to relay NFC data,ACCESSIBILITY_CONTRAST_FLAW,3.9494396480491156
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/speakers,android.widget.TextView,DanielAW,ACCESSIBILITY_CONTRAST_FLAW,3.9494396480491156
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/lang,android.widget.TextView,en,ACCESSIBILITY_CONTRAST_FLAW,3.9494396480491156
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/item_delete,android.widget.TextView,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/action_mode_close_button,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/action_bar_title,android.widget.TextView,Select lectures,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/eventOnline,android.widget.TextView,https://eh17.easterhegg.eu/Fahrplan/events/7883.html,ACCESSIBILITY_CONTRAST_FLAW,2.356733378256854
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.ChangeListActivity,:id/toolbar-child-0:android.widget.TextView,android.widget.TextView,Schedule changes,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.ChangeListActivity,android:id/empty,android.widget.TextView,No schedule changes,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,android:id/text1,android.widget.CheckedTextView,5 minutes,ACCESSIBILITY_SIZE_FLAW,318,35
+name.myigel.fahrplan.eh17,com.android.messagingui.conversationlist.ShareIntentActivity,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+name.myigel.fahrplan.eh17,com.android.messagingui.conversationlist.ShareIntentActivity,:id/roomScroller,android.widget.HorizontalScrollView,,ACCESSIBILITY_SIZE_FLAW,373,18
+name.myigel.fahrplan.eh17,com.android.messagingui.conversationlist.ShareIntentActivity,:id/scrollContainer,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,0,155
+name.myigel.fahrplan.eh17,com.android.messagingui.conversationlist.ShareIntentActivity,:id/toolbar-child-0:android.widget.TextView,android.widget.TextView,Schedule,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/text1,android.widget.TextView,Day 1,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,com.android.messagingui.conversationlist.ShareIntentActivity,:id/toolbar-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.85124334107348
+name.myigel.fahrplan.eh17,com.android.messagingui.conversationlist.ShareIntentActivity,:id/time,android.widget.TextView,12:45,ACCESSIBILITY_CONTRAST_FLAW,1.0
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,:id/alertTitle,android.widget.TextView,Delete all favorites?,ACCESSIBILITY_CONTRAST_FLAW,3.3259295224385714
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.3259295224385714
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.StarredListActivity,android:id/button1,android.widget.Button,Delete all,ACCESSIBILITY_CONTRAST_FLAW,3.3259295224385714
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/abstractt,android.widget.TextView,NFC security analysis usually requires special hardware to relay and modify NFC traffic. We developed an app to do the same using two Android smartphones. Besides relaying and modifying traffic- our app can also clone the (supposedly) Unique ID of NFC tags. This alone is enough to fool a depressing number of NFC systems.,ACCESSIBILITY_SIZE_FLAW,363,41
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/abstractt,android.widget.TextView,NFC security analysis usually requires special hardware to relay and modify NFC traffic. We developed an app to do the same using two Android smartphones. Besides relaying and modifying traffic- our app can also clone the (supposedly) Unique ID of NFC tags. This alone is enough to fool a depressing number of NFC systems.,ACCESSIBILITY_CONTRAST_FLAW,2.0895602502129633
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.SettingsActivity,android:id/title,android.widget.TextView,General,ACCESSIBILITY_SIZE_FLAW,411,35
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.SettingsActivity,:id/toolbar-child-0:android.widget.TextView,android.widget.TextView,Settings,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.SettingsActivity,android:id/title,android.widget.TextView,General,ACCESSIBILITY_CONTRAST_FLAW,3.3259295224385714
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.SettingsActivity,android:id/edit,android.widget.EditText,https://yourhost/schedule.xml,ACCESSIBILITY_SIZE_FLAW,318,44
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.SettingsActivity,android:id/edit,android.widget.EditText,https://yourhost/schedule.xml,ACCESSIBILITY_CONTRAST_FLAW,3.889730750950177
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.SettingsActivity,android:id/edit,android.widget.EditText,https://yourhost/schedule.xml,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.SettingsActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,4.145298610777794
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.SettingsActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,4.145298610777794
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/spinner,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,342,24
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,:id/alertTitle,android.widget.TextView,Choose alarm time,ACCESSIBILITY_CONTRAST_FLAW,3.3259295224385714
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.3259295224385714
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,3.3259295224385714
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.MainActivity,android:id/text1,android.widget.CheckedTextView,5 minutes,ACCESSIBILITY_SIZE_FLAW,318,35
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/eventOnline,android.widget.TextView,https://eh17.easterhegg.eu/Fahrplan/events/8485.html,ACCESSIBILITY_SIZE_FLAW,363,15
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/links,android.widget.TextView,The website,ACCESSIBILITY_SIZE_FLAW,86,37
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/links,android.widget.TextView,The website,ACCESSIBILITY_CONTRAST_FLAW,2.356733378256854
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/speakers,android.widget.TextView,michaela,ACCESSIBILITY_CONTRAST_FLAW,2.0895602502129633
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/linksSection,android.widget.TextView,Links,ACCESSIBILITY_CONTRAST_FLAW,2.356733378256854
+name.myigel.fahrplan.eh17,unkonwn,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+name.myigel.fahrplan.eh17,unkonwn,:id/roomScroller,android.widget.HorizontalScrollView,,ACCESSIBILITY_SIZE_FLAW,373,18
+name.myigel.fahrplan.eh17,unkonwn,:id/scrollContainer,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,0,115
+name.myigel.fahrplan.eh17,unkonwn,:id/toolbar-child-0:android.widget.TextView,android.widget.TextView,Schedule,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,unkonwn,android:id/text1,android.widget.TextView,Day 2,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,unkonwn,:id/toolbar-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.85124334107348
+name.myigel.fahrplan.eh17,unkonwn,:id/time,android.widget.TextView,10:45,ACCESSIBILITY_CONTRAST_FLAW,1.0
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/eventOnlineSection,android.widget.TextView,Event online,ACCESSIBILITY_CONTRAST_FLAW,2.356733378256854
+name.myigel.fahrplan.eh17,com.android.messagingui.conversationlist.ShareIntentActivity,:id/roomScroller-child-0:android.widget.TextView,android.widget.TextView,Vortragssaal,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,com.android.messagingui.conversationlist.ShareIntentActivity,:id/roomScroller-child-1:android.widget.TextView,android.widget.TextView,Hackcenter,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,com.android.browser:id/iconcombo,android.widget.FrameLayout,,ACCESSIBILITY_SIZE_FLAW,44,52
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,com.android.browser:id/webview_wrapper,android.view.View,,ACCESSIBILITY_SIZE_FLAW,370,37
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,com.android.browser:id/webview_wrapper,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,com.android.browser:id/url,android.widget.EditText,https://ae-dir.com/,ACCESSIBILITY_CONTRAST_FLAW,2.484271367602992
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,com.android.browser:id/url,android.widget.EditText,https://ae-dir.com/,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,com.android.browser:id/tab_switcher,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.484271367602992
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,com.android.browser:id/more,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.0
+name.myigel.fahrplan.eh17,/org.ligi.fahrplan.EventDetail,:id/description,android.widget.TextView,Am 25.05.2018 gilt die EU-DSGVO als unmittelbares Recht und (nicht nur) das BDSG hat ausgedient. Die zahlreichen Öffnungsklauseln lassen jedoch Raum für vielerlei Gestaltungsmöglichkeiten. Wie die Bundesregierung dies nutzen will- offenbart sie in einem Kabinettentwurf mit dem klangvollen Namen "DSAnpUG-EU - Datenschutz-Anpassungs- und -Umsetzungsgesetz EU ". Ob Offenbarung oder Offenbarungseid wollen wir klären.,ACCESSIBILITY_CONTRAST_FLAW,2.356733378256854
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/eventOnline,android.widget.TextView,https://eh17.easterhegg.eu/Fahrplan/events/8505.html,ACCESSIBILITY_SIZE_FLAW,363,46
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,Schedule,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/action_bar-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/date,android.widget.TextView,4/16/17 11:15 AM - Vortragssaal,ACCESSIBILITY_CONTRAST_FLAW,2.4555705322624255
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/lectureid,android.widget.TextView,ID: 8505,ACCESSIBILITY_CONTRAST_FLAW,2.4555705322624255
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/eventOnline,android.widget.TextView,https://eh17.easterhegg.eu/Fahrplan/events/8505.html,ACCESSIBILITY_CONTRAST_FLAW,2.356733378256854
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/conference_url,android.widget.TextView,https://eh17.easterhegg.eu/,ACCESSIBILITY_CONTRAST_FLAW,2.0997680298511
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/source_code,android.widget.TextView,Source code,ACCESSIBILITY_CONTRAST_FLAW,2.0997680298511
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/issues,android.widget.TextView,Issues or feature requests,ACCESSIBILITY_CONTRAST_FLAW,2.0997680298511
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/google_play_store,android.widget.TextView,Google PlayStore listing,ACCESSIBILITY_CONTRAST_FLAW,2.0997680298511
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/toolbar-child-0:android.widget.TextView,android.widget.TextView,Schedule,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,android:id/text1,android.widget.TextView,Day 3,ACCESSIBILITY_CONTRAST_FLAW,2.424371473344037
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/toolbar-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.85124334107348
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/time,android.widget.TextView,08:45,ACCESSIBILITY_CONTRAST_FLAW,1.0
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/links,android.widget.TextView,Æ-DIR,ACCESSIBILITY_SIZE_FLAW,48,37
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/links,android.widget.TextView,Æ-DIR,ACCESSIBILITY_CONTRAST_FLAW,2.356733378256854
+name.myigel.fahrplan.eh17,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/list,android.support.v7.widget.RecyclerView,,MISSING_SPEAKABLE_TEXT_FLAW,
+name.myigel.fahrplan.eh17,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/alertTitle,android.widget.TextView,Select conversation,ACCESSIBILITY_CONTRAST_FLAW,1.8890498116862404
+name.myigel.fahrplan.eh17,com.android.browserBrowserActivity,:id/abstractt,android.widget.TextView,Why actually distributing fixes is important,ACCESSIBILITY_SIZE_FLAW,309,29

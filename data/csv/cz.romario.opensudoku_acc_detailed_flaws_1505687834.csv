@@ -1,0 +1,32 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+cz.romario.opensudoku,gui.FolderListActivity,android:id/custom,android.view.View,,ACCESSIBILITY_SIZE_FLAW,366,14
+cz.romario.opensudoku,gui.FolderListActivity,android:id/custom,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+cz.romario.opensudoku,gui.FolderListActivity,android.view.View-,android.view.View,,ACCESSIBILITY_CONTRAST_FLAW,1.8616116683257742
+cz.romario.opensudoku,gui.FolderListActivity,android:id/button1,android.widget.Button,Close,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+cz.romario.opensudoku,gui.SudokuPlayActivity,android:id/button1,android.widget.Button,Close,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+cz.romario.opensudoku,gui.SudokuPlayActivity,:id/sudoku_board,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+cz.romario.opensudoku,gui.SudokuPlayActivity,android:id/title,android.widget.TextView,00:15,ACCESSIBILITY_CONTRAST_FLAW,1.0
+cz.romario.opensudoku,gui.GameSettingsActivity,android:id/title,android.widget.TextView,Game Helpers,ACCESSIBILITY_SIZE_FLAW,411,24
+cz.romario.opensudoku,gui.GameSettingsActivity,android:id/list,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,3
+cz.romario.opensudoku,gui.GameSettingsActivity,android:id/title,android.widget.TextView,Fill in notes,ACCESSIBILITY_CONTRAST_FLAW,1.0
+cz.romario.opensudoku,gui.SudokuListActivity,:id/state,android.widget.TextView,Playing,ACCESSIBILITY_CONTRAST_FLAW,1.0
+cz.romario.opensudoku,gui.SudokuListActivity,:id/time,android.widget.TextView,00:32,ACCESSIBILITY_CONTRAST_FLAW,1.0
+cz.romario.opensudoku,gui.SudokuListActivity,:id/last_played,android.widget.TextView,Last played at 7:41 PM,ACCESSIBILITY_CONTRAST_FLAW,1.0
+cz.romario.opensudoku,gui.SudokuPlayActivity,:id/switch_num_note,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+cz.romario.opensudoku,gui.SudokuListActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+cz.romario.opensudoku,gui.SudokuListActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+cz.romario.opensudoku,gui.FolderListActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+cz.romario.opensudoku,gui.SudokuExportActivity,android:id/content-child-2:android.widget.TextView,android.widget.TextView,Directory,ACCESSIBILITY_CONTRAST_FLAW,2.861179256933749
+cz.romario.opensudoku,gui.SudokuExportActivity,:id/directory,android.widget.EditText,/sdcard/opensudoku,ACCESSIBILITY_CONTRAST_FLAW,3.3394133551702163
+cz.romario.opensudoku,gui.SudokuPlayActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+cz.romario.opensudoku,gui.SudokuEditActivity,:id/sudoku_board,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+cz.romario.opensudoku,gui.SudokuEditActivity,:id/switch_num_note,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+cz.romario.opensudoku,gui.SudokuEditActivity,android:id/title,android.widget.TextView,Edit sudoku,ACCESSIBILITY_CONTRAST_FLAW,1.0
+cz.romario.opensudoku,gui.SudokuPlayActivity,android:id/alertTitle,android.widget.TextView,Help,ACCESSIBILITY_CONTRAST_FLAW,2.687524230882976
+cz.romario.opensudoku,gui.SudokuPlayActivity,android:id/message,android.widget.TextView,Keyboard controls##Use trackball to navigate to the desired cell and then press number on keyboard to fill in value. If you want to edit cell's note- press number with shift or alt.##Input modes##You can switch between several input modes using button in the lower right corner of the screen. You can also disable any input mode in game settings - it will be completely hidden then.##Popup input mode##Popup dialog is shown when you tap the cell. You can edit cell's content using this dialog.##Single Number input mode##First select any number button by pressing it. Then just tap on cells in which you want to have selected number filled.##Use Pencil button to toggle between cell's value and note editing.##Numpad input mode##Buttons act as a standard numeric keyboard.##Use Pencil button to toggle between cell's value and note editing.#,ACCESSIBILITY_CONTRAST_FLAW,3.448051119963421
+cz.romario.opensudoku,gui.SudokuListActivity,:id/created,android.widget.TextView,Created at 8:19 PM,ACCESSIBILITY_CONTRAST_FLAW,1.0
+cz.romario.opensudoku,gui.FolderListActivity,android:id/title,android.widget.TextView,Import,ACCESSIBILITY_CONTRAST_FLAW,2.4454370136463495
+cz.romario.opensudoku,gui.SudokuListActivity,:id/note,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+cz.romario.opensudoku,gui.GameSettingsActivity,:id/seek_bar,android.widget.SeekBar,,MISSING_SPEAKABLE_TEXT_FLAW,
+cz.romario.opensudoku,gui.GameSettingsActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+cz.romario.opensudoku,gui.GameSettingsActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454

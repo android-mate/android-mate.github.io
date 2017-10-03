@@ -1,0 +1,16 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+raele.concurseiro,ui.activity.RecordStudyActivity,:id/RecordStudy_StudyList,android.widget.ListView,,ACCESSIBILITY_SIZE_FLAW,379,0
+raele.concurseiro,ui.activity.RecordStudyActivity,:id/RecordStudy_AddStudy,android.widget.Button,+,ACCESSIBILITY_CONTRAST_FLAW,1.373295049118723
+raele.concurseiro,ui.activity.RecordStudyActivity,:id/Study_Time,android.widget.EditText,1,ACCESSIBILITY_SIZE_FLAW,63,28
+raele.concurseiro,ui.activity.RecordStudyActivity,:id/RecordStudy_StudyList,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+raele.concurseiro,ui.activity.RecordStudyActivity,:id/Study_Time,android.widget.EditText,1,ACCESSIBILITY_CONTRAST_FLAW,1.385770632336024
+raele.concurseiro,ui.activity.RecordStudyActivity,,android.widget.ListView,,ACCESSIBILITY_SIZE_FLAW,232,36
+raele.concurseiro,ui.activity.RecordStudyActivity,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+raele.concurseiro,ui.activity.TopicSelectionActivity,:id/TopicSelection_TopicList,android.widget.ListView,,ACCESSIBILITY_SIZE_FLAW,411,0
+raele.concurseiro,ui.activity.TopicSelectionActivity,android:id/custom,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,358,38
+raele.concurseiro,ui.activity.TopicSelectionActivity,android:id/custom,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+raele.concurseiro,ui.activity.TopicSelectionActivity,android:id/alertTitle,android.widget.TextView,Assunto,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+raele.concurseiro,ui.activity.TopicSelectionActivity,android:id/custom-child-0:android.widget.EditText,android.widget.EditText,prepanic,ACCESSIBILITY_CONTRAST_FLAW,2.9963775951615235
+raele.concurseiro,ui.activity.RecordStudyActivity,android:id/alertTitle,android.widget.TextView,Aviso,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+raele.concurseiro,ui.activity.TopicSelectionActivity,android:id/message,android.widget.TextView,Qual assunto você estudou?,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+raele.concurseiro,ui.activity.RecordStudyActivity,:id/SubjectSpinner_Name,android.widget.TextView,Escolha uma matéria,ACCESSIBILITY_CONTRAST_FLAW,1.0088986350087497

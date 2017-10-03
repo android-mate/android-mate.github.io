@@ -1,0 +1,16 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.luk.timetable2,activities.MainActivity,:id/day,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,122,24
+com.luk.timetable2,activities.MainActivity,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.luk.timetable2,activities.MainActivity,:id/pager,android.support.v4.view.ViewPager,,ACCESSIBILITY_CONTRAST_FLAW,1.028917705827437
+com.luk.timetable2,activities.MainActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,1.6226835701544438
+com.luk.timetable2,activities.SettingsActivity,android:id/title,android.widget.TextView,App settings,ACCESSIBILITY_SIZE_FLAW,411,35
+com.luk.timetable2,activities.SettingsActivity,android:id/list,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,32
+com.luk.timetable2,activities.SettingsActivity,android:id/title,android.widget.TextView,App settings,ACCESSIBILITY_CONTRAST_FLAW,1.3132784528287977
+com.luk.timetable2,activities.SettingsActivity,android:id/summary,android.widget.TextView,250,ACCESSIBILITY_CONTRAST_FLAW,1.973722359466373
+com.luk.timetable2,activities.SettingsActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,1.6226835701544438
+com.luk.timetable2,activities.SettingsActivity,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.luk.timetable2,activities.SettingsActivity,android:id/edit,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,318,44
+com.luk.timetable2,activities.SettingsActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,1.6226835701544438
+com.luk.timetable2,activities.SettingsActivity,:id/toolbar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.846198229264547
+com.luk.timetable2,activities.SettingsActivity,android:id/edit,android.widget.EditText,0,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+com.luk.timetable2,activities.SettingsActivity,:id/toolbar-child-1:android.widget.TextView,android.widget.TextView,Settings,ACCESSIBILITY_CONTRAST_FLAW,3.12434068505182

@@ -1,0 +1,32 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.repay.android,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/action_bar,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.repay.android,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/action_bar-child-1:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.9573440691319952
+com.repay.android,settings.SettingsActivity,android:id/title,android.widget.TextView,General,ACCESSIBILITY_SIZE_FLAW,379,32
+com.repay.android,settings.SettingsActivity,android:id/title,android.widget.TextView,General,ACCESSIBILITY_CONTRAST_FLAW,3.6439734396341854
+com.repay.android,adddebt.AddDebtActivity,android:id/action_bar_title,android.widget.TextView,Add Debt,ACCESSIBILITY_CONTRAST_FLAW,3.442976221920797
+com.repay.android,adddebt.AddDebtActivity,android:id/action_bar_subtitle,android.widget.TextView,Choose one or more people,ACCESSIBILITY_CONTRAST_FLAW,2.0554381078693686
+com.repay.android,adddebt.AddDebtActivity,android:id/action_bar-child-1:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.9573440691319952
+com.repay.android,adddebt.AddDebtActivity,:id/activity_friendchooser_helpbtn,android.widget.Button,Add Someone,ACCESSIBILITY_CONTRAST_FLAW,3.820397458848053
+com.repay.android,adddebt.AddDebtActivity,:id/activity_friendchooser_donebtn,android.widget.Button,Next,ACCESSIBILITY_CONTRAST_FLAW,3.788022672585766
+com.repay.android,MainActivity,android:id/action_bar,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.repay.android,MainActivity,android:id/action_bar-child-1:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.9573440691319952
+com.repay.android,adddebt.AddDebtActivity,android:id/alertTitle,android.widget.TextView,Add By Name,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.repay.android,adddebt.AddDebtActivity,:id/name_entry,android.widget.EditText,Enter Their Name,ACCESSIBILITY_SIZE_FLAW,342,38
+com.repay.android,adddebt.AddDebtActivity,:id/name_entry,android.widget.EditText,Enter Their Name,ACCESSIBILITY_CONTRAST_FLAW,3.6225714289291226
+com.repay.android,adddebt.AddDebtActivity,:id/name_entry,android.widget.EditText,Enter Their Name,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.repay.android,adddebt.AddDebtActivity,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.repay.android,adddebt.AddDebtActivity,:id/name_entry,android.widget.EditText,#,MISSING_SPEAKABLE_TEXT_FLAW,
+com.repay.android,frienddetails.FriendActivity,:id/activity_frienddetails_tabView,android.support.v4.view.ViewPager,,ACCESSIBILITY_CONTRAST_FLAW,3.386453508071646
+com.repay.android,frienddetails.FriendActivity,:id/repaid,android.widget.Button,Debt Repaid,ACCESSIBILITY_CONTRAST_FLAW,2.802180095611566
+com.repay.android,frienddetails.FriendActivity,:id/fragment_debtHistory_noDebts,android.widget.TextView,There's no debts between you,ACCESSIBILITY_CONTRAST_FLAW,2.728760648694342
+com.repay.android,adddebt.AddDebtActivity,:id/fragment_enterdebtamount_backspace,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.8286706070066177
+com.repay.android,adddebt.AddDebtActivity,:id/fragment_enterdebtamount_clear,android.widget.Button,C,ACCESSIBILITY_CONTRAST_FLAW,3.2927918670038996
+com.repay.android,adddebt.AddDebtActivity,:id/fragment_enterdebtamount_zero,android.widget.Button,0,ACCESSIBILITY_CONTRAST_FLAW,3.2927918670038996
+com.repay.android,adddebt.AddDebtActivity,:id/fragment_enterdebtamount_donebtn,android.widget.Button,Next,ACCESSIBILITY_CONTRAST_FLAW,2.361692373822958
+com.repay.android,frienddetails.FriendActivity,:id/repaid,android.widget.Button,Debt Repaid,ACCESSIBILITY_SIZE_FLAW,0,48
+com.repay.android,frienddetails.FriendActivity,:id/share,android.widget.Button,Share,ACCESSIBILITY_SIZE_FLAW,0,48
+com.repay.android,frienddetails.FriendActivity,:id/owe_status,android.widget.TextView,You're Even,ACCESSIBILITY_CONTRAST_FLAW,1.008868321674964
+com.repay.android,frienddetails.FriendActivity,:id/amount,android.widget.TextView,$0,ACCESSIBILITY_CONTRAST_FLAW,1.0088082404311112
+com.repay.android,frienddetails.FriendActivity,:id/share,android.widget.Button,Share,ACCESSIBILITY_CONTRAST_FLAW,1.0171949045327755
+com.repay.android,settings.SettingsActivity,android:id/alertTitle,android.widget.TextView,Sort Order,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.repay.android,settings.SettingsActivity,android:id/text1,android.widget.CheckedTextView,31/01/2013,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811

@@ -1,0 +1,18 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.serwylo.lexica,Lexica,:id/new_game,android.widget.Button,New Game,ACCESSIBILITY_CONTRAST_FLAW,1.591928325760716
+com.serwylo.lexica,Lexica,:id/restore_game,android.widget.Button,Restore Game,ACCESSIBILITY_CONTRAST_FLAW,1.591928325760716
+com.serwylo.lexica,Lexica,:id/preferences,android.widget.Button,Preferences,ACCESSIBILITY_CONTRAST_FLAW,1.591928325760716
+com.serwylo.lexica,Lexica,:id/about,android.widget.Button,About,ACCESSIBILITY_CONTRAST_FLAW,1.591928325760716
+com.serwylo.lexica,LexicaConfig,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+com.serwylo.lexica,PlayLexica,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.serwylo.lexica,PlayLexica,android:id/content,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.serwylo.lexica,PlayLexica,:id/action_bar-child-0:android.widget.TextView,android.widget.TextView,Lexica,ACCESSIBILITY_CONTRAST_FLAW,4.31198770795403
+com.serwylo.lexica,PlayLexica,:id/action_bar-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,4.31198770795403
+com.serwylo.lexica,PlayLexica,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.serwylo.lexica,ScoreActivity,:id/found_scroll-child-0:android.widget.TextView,android.widget.TextView,R,ACCESSIBILITY_CONTRAST_FLAW,1.7415378835914337
+com.serwylo.lexica,ScoreActivity,:id/found_scroll-child-1:android.widget.TextView,android.widget.TextView,0 ,ACCESSIBILITY_CONTRAST_FLAW,1.7415378835914337
+com.serwylo.lexica,ScoreActivity,:id/close_score,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,1.591928325760716
+com.serwylo.lexica,ScoreActivity,:id/missed_scroll,android.widget.TextView,View,ACCESSIBILITY_SIZE_FLAW,34,21
+com.serwylo.lexica,ScoreActivity,:id/missed_close_score,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,1.591928325760716
+com.serwylo.lexica,com.android.browserBrowserActivity,:id/new_game,android.widget.Button,New Game,ACCESSIBILITY_CONTRAST_FLAW,1.5858773288202834
+com.serwylo.lexica,ScoreActivity,:id/found_scroll,android.widget.TextView,Define ,ACCESSIBILITY_SIZE_FLAW,48,21

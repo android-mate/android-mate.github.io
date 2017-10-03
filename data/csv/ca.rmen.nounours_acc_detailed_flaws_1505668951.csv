@@ -1,0 +1,7 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+ca.rmen.nounours,android.handheld.MainActivity,:id/btn_stop_recording,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,47,43
+ca.rmen.nounours,android.handheld.MainActivity,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+ca.rmen.nounours,android.handheld.MainActivity,android:id/title,android.widget.TextView,Start recording,ACCESSIBILITY_CONTRAST_FLAW,2.6265604525055526
+ca.rmen.nounours,android.handheld.settings.SettingsActivity,android:id/title,android.widget.TextView,Background color,ACCESSIBILITY_CONTRAST_FLAW,2.6265604525055526
+ca.rmen.nounours,android.handheld.MainActivity,,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,196,31
+ca.rmen.nounours,android.handheld.MainActivity,:id/fullscreen_hint,android.widget.TextView,Tap the four corners to exit full-screen mode.,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024

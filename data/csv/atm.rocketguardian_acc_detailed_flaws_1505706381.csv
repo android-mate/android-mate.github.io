@@ -1,0 +1,9 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+atm.rocketguardian,AndroidLauncher,android:id/content,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+atm.rocketguardian,com.android.browserBrowserActivity,com.android.browser:id/webview_wrapper,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+atm.rocketguardian,com.android.browserBrowserActivity,com.android.browser:id/iconcombo,android.widget.FrameLayout,,ACCESSIBILITY_SIZE_FLAW,44,52
+atm.rocketguardian,com.android.browserBrowserActivity,com.android.browser:id/webview_wrapper,android.view.View,,ACCESSIBILITY_SIZE_FLAW,0,0
+atm.rocketguardian,com.android.browserBrowserActivity,com.android.browser:id/url,android.widget.EditText,https://touch.facebook.com/profile.php?id=100393240038469,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+atm.rocketguardian,com.android.browserBrowserActivity,com.android.browser:id/more,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.668142702867791
+atm.rocketguardian,com.android.browserBrowserActivity,android.view.View-,android.view.View,,ACCESSIBILITY_CONTRAST_FLAW,1.1499806408645235
+atm.rocketguardian,com.android.browserBrowserActivity,android.widget.Button-,android.widget.Button,,ACCESSIBILITY_CONTRAST_FLAW,3.7437589748116693

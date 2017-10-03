@@ -1,0 +1,44 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/imgView_ShowPassword,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,43,56
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/cb_AllowAllSSLCertificates,android.widget.CheckBox,Disable Hostname Verification,ACCESSIBILITY_SIZE_FLAW,331,32
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/username,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,331,44
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/password,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,331,45
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/text_input_password_toggle,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,31,44
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/edt_owncloudRootPath,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,331,44
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/username,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/password,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/text_input_password_toggle,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/edt_owncloudRootPath,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,android:id/button1,android.widget.Button,Sign in,ACCESSIBILITY_CONTRAST_FLAW,3.40925118101649
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/password,android.widget.EditText,untopographically,ACCESSIBILITY_CONTRAST_FLAW,3.40925118101649
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/ll_podcast_header,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,265,0
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/fl_playPausePodcastWrapper,android.widget.FrameLayout,,ACCESSIBILITY_SIZE_FLAW,64,0
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/btn_previousPodcastSlider,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,601
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/btn_playPausePodcastSlider,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,44,598
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/btn_nextPodcastSlider,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,601
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/list,android.support.v7.widget.RecyclerView,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/title,android.widget.TextView,Download more items,ACCESSIBILITY_CONTRAST_FLAW,1.973722359466373
+de.luhmer.owncloudnewsreader,SettingsActivity,android:id/title,android.widget.TextView,Display,ACCESSIBILITY_SIZE_FLAW,411,35
+de.luhmer.owncloudnewsreader,SettingsActivity,:id/toolbar,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+de.luhmer.owncloudnewsreader,SettingsActivity,android:id/text1,android.widget.CheckedTextView,2,ACCESSIBILITY_CONTRAST_FLAW,3.40925118101649
+de.luhmer.owncloudnewsreader,SettingsActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.40925118101649
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/list_item_layout,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/toolbar-child-1:android.widget.TextView,android.widget.TextView,All unread items,ACCESSIBILITY_CONTRAST_FLAW,1.047343550916453
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/toolbar-child-0:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.199565228153919
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/urlTextView,android.widget.TextView,ownCloud News,ACCESSIBILITY_CONTRAST_FLAW,1.4386708810185902
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/tV_feedsCount,android.widget.TextView,0,ACCESSIBILITY_CONTRAST_FLAW,1.1650317621894808
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/username,android.widget.EditText,clime's,ACCESSIBILITY_CONTRAST_FLAW,3.40925118101649
+de.luhmer.owncloudnewsreader,NewFeedActivity,:id/et_feed_url,android.widget.EditText,Feed URL,ACCESSIBILITY_SIZE_FLAW,379,44
+de.luhmer.owncloudnewsreader,NewFeedActivity,:id/sp_folder,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,379,44
+de.luhmer.owncloudnewsreader,NewFeedActivity,:id/et_feed_url,android.widget.EditText,Feed URL,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+de.luhmer.owncloudnewsreader,NewFeedActivity,:id/btn_addFeed,android.widget.Button,Add feed,ACCESSIBILITY_CONTRAST_FLAW,2.3116225600636957
+de.luhmer.owncloudnewsreader,NewFeedActivity,:id/btn_import_opml,android.widget.Button,Import OPML,ACCESSIBILITY_CONTRAST_FLAW,2.3116225600636957
+de.luhmer.owncloudnewsreader,NewFeedActivity,:id/btn_export_opml,android.widget.Button,Export OPML,ACCESSIBILITY_CONTRAST_FLAW,2.3116225600636957
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/tv_no_items_available,android.widget.TextView,No items here,ACCESSIBILITY_CONTRAST_FLAW,1.773907974691296
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/edt_owncloudRootPath,android.widget.EditText,Sanetch,ACCESSIBILITY_CONTRAST_FLAW,3.40925118101649
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/chg_row,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,358,3
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/chg_text,android.widget.TextView,Several other fixes and improvements,ACCESSIBILITY_SIZE_FLAW,323,3
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/chg_textbullet,android.widget.TextView,•,ACCESSIBILITY_CONTRAST_FLAW,2.089605528848847
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/chg_text,android.widget.TextView,Several other fixes and improvements,ACCESSIBILITY_CONTRAST_FLAW,2.089605528848847
+de.luhmer.owncloudnewsreader,NewsReaderListActivity,:id/chg_rowheader,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,358,25

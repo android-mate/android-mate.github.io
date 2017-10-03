@@ -1,0 +1,174 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+org.dmfs.tasks,TaskListActivity,:id/floating_action_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,TaskListActivity,android:id/list,android.widget.ExpandableListView,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.dmfs.tasks,TaskListActivity,android:id/list,android.widget.ExpandableListView,,ACCESSIBILITY_SIZE_FLAW,0,555
+org.dmfs.tasks,TaskListActivity,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.dmfs.tasks,TaskListActivity,:id/toolbar-child-0:android.widget.TextView,android.widget.TextView,Tasks,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,TaskListActivity,:id/toolbar-child-0:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,TaskListActivity,:id/tabs-child-0:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,TaskListActivity,:id/tabs-child-1:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,TaskListActivity,:id/tabs-child-2:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,TaskListActivity,:id/tabs-child-3:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,TaskListActivity,:id/tabs-child-4:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,TaskListActivity,:id/tabs-child-5:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,TaskListActivity,:id/pager,android.support.v4.view.ViewPager,,ACCESSIBILITY_CONTRAST_FLAW,2.775880814644327
+org.dmfs.tasks,TaskListActivity,:id/floating_action_button,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.775880814644327
+org.dmfs.tasks,TaskListActivity,android:id/title,android.widget.TextView,Already Started,ACCESSIBILITY_CONTRAST_FLAW,3.2226601534228987
+org.dmfs.tasks,TaskListActivity,android:id/text2,android.widget.TextView,0 tasks,ACCESSIBILITY_CONTRAST_FLAW,2.038523043192234
+org.dmfs.tasks,TaskListActivity,:id/search_src_text,android.widget.EditText,Search,ACCESSIBILITY_SIZE_FLAW,299,36
+org.dmfs.tasks,TaskListActivity,:id/toolbar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,TaskListActivity,:id/search_src_text,android.widget.EditText,Search,ACCESSIBILITY_CONTRAST_FLAW,1.9687325714873163
+org.dmfs.tasks,TaskListActivity,:id/search_src_text,android.widget.EditText,Search,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,SyncSettingsActivity,:id/btn_settings,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,SyncSettingsActivity,:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.5185868622496472
+org.dmfs.tasks,SyncSettingsActivity,:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,Displayed Lists,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,SyncSettingsActivity,:id/btn_settings,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.84518674838884
+org.dmfs.tasks,ManageListActivity,android:id/input,android.widget.EditText,list name,ACCESSIBILITY_SIZE_FLAW,247,44
+org.dmfs.tasks,ManageListActivity,android:id/input,android.widget.EditText,list name,ACCESSIBILITY_CONTRAST_FLAW,3.5185868622496472
+org.dmfs.tasks,ManageListActivity,android:id/input,android.widget.EditText,list name,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,ManageListActivity,android:id/button2,android.widget.TextView,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.5185868622496472
+org.dmfs.tasks,ManageListActivity,android:id/button1,android.widget.TextView,OK,ACCESSIBILITY_CONTRAST_FLAW,3.5185868622496472
+org.dmfs.tasks,EditTaskActivity,:id/content,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,25
+org.dmfs.tasks,EditTaskActivity,android:id/text1,android.widget.EditText,Title,ACCESSIBILITY_SIZE_FLAW,387,44
+org.dmfs.tasks,EditTaskActivity,:id/integer_choices_spinner,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,387,38
+org.dmfs.tasks,EditTaskActivity,android:id/checkbox,android.widget.CheckBox,,ACCESSIBILITY_SIZE_FLAW,32,37
+org.dmfs.tasks,EditTaskActivity,:id/task_time_picker_remove,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,40
+org.dmfs.tasks,EditTaskActivity,:id/task_date_picker,android.widget.Button,,ACCESSIBILITY_SIZE_FLAW,192,38
+org.dmfs.tasks,EditTaskActivity,:id/task_time_picker,android.widget.Button,,ACCESSIBILITY_SIZE_FLAW,154,38
+org.dmfs.tasks,EditTaskActivity,:id/text,android.widget.TextView,0%,ACCESSIBILITY_SIZE_FLAW,22,290
+org.dmfs.tasks,EditTaskActivity,:id/task_date_picker,android.widget.Button,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,EditTaskActivity,:id/task_time_picker,android.widget.Button,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,EditTaskActivity,:id/task_time_picker_remove,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,EditTaskActivity,android:id/checkbox,android.widget.CheckBox,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,EditTaskActivity,android:id/text1,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,EditTaskActivity,:id/task_list_account_name,android.widget.TextView,Local,ACCESSIBILITY_CONTRAST_FLAW,2.8070664118795325
+org.dmfs.tasks,EditTaskActivity,android:id/text1,android.widget.EditText,Title,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/text1,android.widget.EditText,Title,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,EditTaskActivity,android:id/title,android.widget.TextView,STATUS,ACCESSIBILITY_CONTRAST_FLAW,2.3231230535045992
+org.dmfs.tasks,EditTaskActivity,:id/task_date_picker,android.widget.Button,,ACCESSIBILITY_CONTRAST_FLAW,1.8001756847703523
+org.dmfs.tasks,EditTaskActivity,:id/task_time_picker,android.widget.Button,,ACCESSIBILITY_CONTRAST_FLAW,3.6900293509358773
+org.dmfs.tasks,EditTaskActivity,android:id/checkbox,android.widget.CheckBox,,ACCESSIBILITY_CONTRAST_FLAW,2.3231230535045992
+org.dmfs.tasks,EditTaskActivity,android:id/am_label,android.widget.CheckedTextView,AM,ACCESSIBILITY_SIZE_FLAW,24,25
+org.dmfs.tasks,EditTaskActivity,android:id/pm_label,android.widget.CheckedTextView,PM,ACCESSIBILITY_SIZE_FLAW,24,25
+org.dmfs.tasks,EditTaskActivity,android:id/hours,android.widget.TextView,12,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/separator,android.widget.TextView,:,ACCESSIBILITY_CONTRAST_FLAW,2.555496376450409
+org.dmfs.tasks,EditTaskActivity,android:id/minutes,android.widget.TextView,00,ACCESSIBILITY_CONTRAST_FLAW,2.555496376450409
+org.dmfs.tasks,EditTaskActivity,android:id/am_label,android.widget.CheckedTextView,AM,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/pm_label,android.widget.CheckedTextView,PM,ACCESSIBILITY_CONTRAST_FLAW,2.555496376450409
+org.dmfs.tasks,EditTaskActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,ViewTaskActivity,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.dmfs.tasks,ViewTaskActivity,android:id/icon,android.widget.TextView,,ACCESSIBILITY_SIZE_FLAW,36,24
+org.dmfs.tasks,ViewTaskActivity,:id/text,android.widget.TextView,in process,ACCESSIBILITY_SIZE_FLAW,82,24
+org.dmfs.tasks,ViewTaskActivity,:id/add_item,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,88,40
+org.dmfs.tasks,ViewTaskActivity,android:id/text1,android.widget.TextView,Mon- September 18- 2017- 12:00 AM,ACCESSIBILITY_SIZE_FLAW,286,24
+org.dmfs.tasks,ViewTaskActivity,android:id/checkbox,android.widget.CheckBox,,ACCESSIBILITY_SIZE_FLAW,36,40
+org.dmfs.tasks,ViewTaskActivity,android:id/title,android.widget.EditText,reacclimate,ACCESSIBILITY_SIZE_FLAW,278,21
+org.dmfs.tasks,ViewTaskActivity,:id/floating_action_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,ViewTaskActivity,android:id/icon,android.widget.TextView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,ViewTaskActivity,android:id/checkbox,android.widget.CheckBox,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,ViewTaskActivity,android:id/title,android.widget.EditText,reacclimate,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,ViewTaskActivity,android:id/checkbox,android.widget.CheckBox,,ACCESSIBILITY_CONTRAST_FLAW,3.163423997495252
+org.dmfs.tasks,ViewTaskActivity,android:id/title,android.widget.EditText,ireos,ACCESSIBILITY_CONTRAST_FLAW,3.9494396480491156
+org.dmfs.tasks,ViewTaskActivity,:id/floating_action_button,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.4031225876110116
+org.dmfs.tasks,EditTaskActivity,android:id/date_picker_header_year,android.widget.TextView,2017,ACCESSIBILITY_SIZE_FLAW,240,37
+org.dmfs.tasks,EditTaskActivity,android:id/date_picker_header_date,android.widget.TextView,Mon- Sep 18,ACCESSIBILITY_SIZE_FLAW,189,45
+org.dmfs.tasks,EditTaskActivity,android:id/month_view,android.view.View,1,ACCESSIBILITY_SIZE_FLAW,35,40
+org.dmfs.tasks,EditTaskActivity,android:id/date_picker_header_year,android.widget.TextView,2017,ACCESSIBILITY_CONTRAST_FLAW,3.8806237466228057
+org.dmfs.tasks,EditTaskActivity,android:id/date_picker_header_date,android.widget.TextView,Mon- Sep 18,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/day_picker_view_pager,com.android.internal.widget.ViewPager,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-0:android.view.View,android.view.View,5,ACCESSIBILITY_CONTRAST_FLAW,1.8340649860805518
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-1:android.view.View,android.view.View,12,ACCESSIBILITY_CONTRAST_FLAW,3.6573664310763587
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-2:android.view.View,android.view.View,19,ACCESSIBILITY_CONTRAST_FLAW,1.8340649860805518
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-3:android.view.View,android.view.View,26,ACCESSIBILITY_CONTRAST_FLAW,1.6962811727546023
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-10:android.view.View,android.view.View,11,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-16:android.view.View,android.view.View,17,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-17:android.view.View,android.view.View,18,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-18:android.view.View,android.view.View,19,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-4:android.view.View,android.view.View,29,ACCESSIBILITY_CONTRAST_FLAW,1.0306059068447981
+org.dmfs.tasks,EditTaskActivity,android:id/next,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.9984767707539985
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-5:android.view.View,android.view.View,6,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-6:android.view.View,android.view.View,7,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,TaskListActivity,:id/quick_add_task,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,TaskListActivity,:id/quick_add_task,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,40
+org.dmfs.tasks,TaskListActivity,:id/search_close_btn,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.dmfs.tasks,unkonwn,android:id/list,android.widget.ExpandableListView,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.dmfs.tasks,unkonwn,android:id/list,android.widget.ExpandableListView,,ACCESSIBILITY_SIZE_FLAW,0,555
+org.dmfs.tasks,unkonwn,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.dmfs.tasks,unkonwn,:id/floating_action_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,unkonwn,:id/toolbar-child-0:android.widget.TextView,android.widget.TextView,Task progress,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,unkonwn,:id/toolbar-child-0:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,unkonwn,:id/tabs-child-0:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,unkonwn,:id/tabs-child-1:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,unkonwn,:id/tabs-child-2:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,unkonwn,:id/tabs-child-3:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,unkonwn,:id/tabs-child-4:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,unkonwn,:id/tabs-child-5:android.support.v7.app.ActionBar$Tab,android.support.v7.app.ActionBar$Tab,,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,unkonwn,:id/pager,android.support.v4.view.ViewPager,,ACCESSIBILITY_CONTRAST_FLAW,3.2226601534228987
+org.dmfs.tasks,unkonwn,android:id/title,android.widget.TextView,Almost done,ACCESSIBILITY_CONTRAST_FLAW,3.2226601534228987
+org.dmfs.tasks,unkonwn,android:id/text2,android.widget.TextView,0 tasks,ACCESSIBILITY_CONTRAST_FLAW,2.038523043192234
+org.dmfs.tasks,unkonwn,:id/floating_action_button,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.775880814644327
+org.dmfs.tasks,TaskListActivity,android:id/text1,android.widget.TextView,Local,ACCESSIBILITY_CONTRAST_FLAW,2.038523043192234
+org.dmfs.tasks,TaskListActivity,:id/quick_add_task,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,3.8742079183642906
+org.dmfs.tasks,ManageListActivity,android:id/button3,android.widget.TextView,save,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.dmfs.tasks,ViewTaskActivity,:id/expanded_menu,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.dmfs.tasks,ViewTaskActivity,:id/toolbar_title,android.widget.TextView,linenman,ACCESSIBILITY_CONTRAST_FLAW,0.8487075817865437
+org.dmfs.tasks,ViewTaskActivity,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.dmfs.tasks,ViewTaskActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.163423997495252
+org.dmfs.tasks,ViewTaskActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,3.163423997495252
+org.dmfs.tasks,ViewTaskActivity,:id/remove_item,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,40
+org.dmfs.tasks,ViewTaskActivity,:id/remove_item,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,ViewTaskActivity,:id/remove_item,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-25:android.view.View,android.view.View,26,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-26:android.view.View,android.view.View,27,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-27:android.view.View,android.view.View,28,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-20:android.view.View,android.view.View,21,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-21:android.view.View,android.view.View,22,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,android:id/month_view-child-22:android.view.View,android.view.View,23,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,TaskListActivity,:id/task_list_spinner,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,256,24
+org.dmfs.tasks,TaskListActivity,android:id/input,android.widget.EditText,Title,ACCESSIBILITY_SIZE_FLAW,262,44
+org.dmfs.tasks,TaskListActivity,android:id/button1,android.widget.TextView,Save,ACCESSIBILITY_SIZE_FLAW,153,35
+org.dmfs.tasks,TaskListActivity,android:id/button2,android.widget.TextView,Save and continue,ACCESSIBILITY_SIZE_FLAW,153,35
+org.dmfs.tasks,TaskListActivity,android:id/edit,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,TaskListActivity,:id/task_list_name,android.widget.TextView,My tasks,ACCESSIBILITY_CONTRAST_FLAW,3.368301581271026
+org.dmfs.tasks,TaskListActivity,android:id/input,android.widget.EditText,Title,ACCESSIBILITY_CONTRAST_FLAW,3.163423997495252
+org.dmfs.tasks,TaskListActivity,android:id/input,android.widget.EditText,Title,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,TaskListActivity,android:id/button1,android.widget.TextView,Save,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.dmfs.tasks,EditTaskActivity,:id/percentage_seek_bar,android.widget.SeekBar,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,EditTaskActivity,:id/task_time_picker_remove,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.8886562859962863
+org.dmfs.tasks,EditTaskActivity,:id/text,android.widget.EditText,URL,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,EditTaskActivity,,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,362,25
+org.dmfs.tasks,EditTaskActivity,:id/integer_choice_item_text,android.widget.TextView,(GMT-02:00) Greenland,ACCESSIBILITY_CONTRAST_FLAW,1.892895964946571
+org.dmfs.tasks,ViewTaskActivity,android:id/text1,android.widget.TextView,Mon- September 18- 2017- 1:24 AM,ACCESSIBILITY_CONTRAST_FLAW,2.3400975722094053
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,android:id/icon,android.widget.TextView,,ACCESSIBILITY_SIZE_FLAW,36,24
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,:id/text,android.widget.TextView,in process,ACCESSIBILITY_SIZE_FLAW,82,24
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,:id/add_item,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,88,40
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,android:id/checkbox,android.widget.CheckBox,,ACCESSIBILITY_SIZE_FLAW,36,40
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,android:id/title,android.widget.EditText,lid,ACCESSIBILITY_SIZE_FLAW,278,21
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,:id/floating_action_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,android:id/icon,android.widget.TextView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,android:id/checkbox,android.widget.CheckBox,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,android:id/checkbox,android.widget.CheckBox,,ACCESSIBILITY_CONTRAST_FLAW,3.163423997495252
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,android:id/title,android.widget.EditText,lid,ACCESSIBILITY_CONTRAST_FLAW,3.9494396480491156
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,android:id/title,android.widget.EditText,lid,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,com.google.android.apps.maps/com.google.android.maps.MapsActivity,:id/floating_action_button,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.4031225876110116
+org.dmfs.tasks,/org.dmfs.android.colorpicker.ColorPickerActivity,android:id/content,android.widget.GridView,,ACCESSIBILITY_SIZE_FLAW,22,243
+org.dmfs.tasks,/org.dmfs.android.colorpicker.ColorPickerActivity,:id/pager_title_strip,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,32,32
+org.dmfs.tasks,/org.dmfs.android.colorpicker.ColorPickerActivity,:id/pager_title_strip,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.dmfs.tasks,/org.dmfs.android.colorpicker.ColorPickerActivity,:id/pager,org.dmfs.android.view.ViewPager,,ACCESSIBILITY_CONTRAST_FLAW,3.12434068505182
+org.dmfs.tasks,/org.dmfs.android.colorpicker.ColorPickerActivity,:id/pager_title_strip-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,3.9984767707539985
+org.dmfs.tasks,/org.dmfs.android.colorpicker.ColorPickerActivity,:id/pager_title_strip-child-5:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.875891530948359
+org.dmfs.tasks,/org.dmfs.android.colorpicker.ColorPickerActivity,:id/pager_title_strip-child-6:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,3.0250654124089245
+org.dmfs.tasks,ViewTaskActivity,:id/text,android.widget.TextView,stonemint,ACCESSIBILITY_CONTRAST_FLAW,3.9850652903439348
+org.dmfs.tasks,ViewTaskActivity,:id/toolbar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.9850652903439348
+org.dmfs.tasks,ViewTaskActivity,:id/toolbar-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,3.9850652903439348
+org.dmfs.tasks,ViewTaskActivity,:id/button_add_one_day,android.widget.TextView,+1 day,ACCESSIBILITY_SIZE_FLAW,73,32
+org.dmfs.tasks,ViewTaskActivity,:id/button_add_one_day,android.widget.TextView,+1 day,ACCESSIBILITY_CONTRAST_FLAW,2.1295152833378332
+org.dmfs.tasks,ViewTaskActivity,:id/floating_action_button,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,0,0
+org.dmfs.tasks,ViewTaskActivity,:id/button_add_one_hour,android.widget.TextView,+1 hour,ACCESSIBILITY_SIZE_FLAW,79,32
+org.dmfs.tasks,ViewTaskActivity,:id/button_add_one_hour,android.widget.TextView,+1 hour,ACCESSIBILITY_CONTRAST_FLAW,2.52994487096179
+org.dmfs.tasks,TaskListActivity,:id/task_due_date,android.widget.TextView,Tomorrow,ACCESSIBILITY_CONTRAST_FLAW,3.9494396480491156
+org.dmfs.tasks,EditTaskActivity,:id/task_list_name,android.widget.TextView,My tasks,ACCESSIBILITY_CONTRAST_FLAW,3.9850652903439348
+org.dmfs.tasks,EditTaskActivity,:id/text,android.widget.TextView,0%,ACCESSIBILITY_CONTRAST_FLAW,3.6900293509358773

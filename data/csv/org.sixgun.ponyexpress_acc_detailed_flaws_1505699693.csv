@@ -1,0 +1,49 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+org.sixgun.ponyexpress,activity.PonyExpressActivity,:id/settings_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,activity.PonyExpressActivity,:id/refresh_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,activity.PonyExpressActivity,:id/refresh_button,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.631865150838201
+org.sixgun.ponyexpress,activity.PonyExpressActivity,android:id/message,android.widget.TextView,Checking for new Episodes. Please wait...,ACCESSIBILITY_CONTRAST_FLAW,2.287931111012324
+org.sixgun.ponyexpress,activity.EpisodesActivity,:id/episode_text,android.widget.TextView,Angels of Death 28 – The Ten Grand Episode,ACCESSIBILITY_SIZE_FLAW,342,41
+org.sixgun.ponyexpress,activity.EpisodesActivity,:id/comment_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,activity.EpisodesActivity,:id/episode_text,android.widget.TextView,Angels of Death 27 – The Taliban Bring Heldrakes,ACCESSIBILITY_CONTRAST_FLAW,2.405872039340206
+org.sixgun.ponyexpress,activity.EpisodeTabs,android:id/title,android.widget.TextView,Play,ACCESSIBILITY_CONTRAST_FLAW,2.560580214264619
+org.sixgun.ponyexpress,activity.PreferencesActivity,android:id/title,android.widget.TextView,Settings,ACCESSIBILITY_SIZE_FLAW,411,24
+org.sixgun.ponyexpress,activity.PreferencesActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.573352682508454
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/dent_entry,android.widget.EditText,#aod24 ,ACCESSIBILITY_SIZE_FLAW,335,36
+org.sixgun.ponyexpress,activity.EpisodeTabs,android:id/empty,android.widget.TextView,Searching for dents...,ACCESSIBILITY_CONTRAST_FLAW,2.405872039340206
+org.sixgun.ponyexpress,activity.IdenticaAccountSetupActivity,:id/username_entry,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,activity.IdenticaAccountSetupActivity,:id/password_entry,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,activity.IdenticaAccountSetupActivity,:id/username_entry,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,411,36
+org.sixgun.ponyexpress,activity.IdenticaAccountSetupActivity,:id/password_entry,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,411,36
+org.sixgun.ponyexpress,activity.IdenticaAccountSetupActivity,:id/ok,android.widget.Button,OK,ACCESSIBILITY_SIZE_FLAW,40,48
+org.sixgun.ponyexpress,activity.PreferencesActivity,android:id/text1,android.widget.CheckedTextView,24,ACCESSIBILITY_CONTRAST_FLAW,2.270061113053618
+org.sixgun.ponyexpress,activity.IdenticaActivity,:id/back_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,activity.IdenticaActivity,:id/settings_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,activity.IdenticaActivity,:id/dent_entry,android.widget.EditText,!aod ,ACCESSIBILITY_SIZE_FLAW,355,36
+org.sixgun.ponyexpress,activity.IdenticaActivity,android:id/empty,android.widget.TextView,Searching for dents...,ACCESSIBILITY_CONTRAST_FLAW,2.405872039340206
+org.sixgun.ponyexpress,activity.PonyExpressActivity,android:id/button1,android.widget.Button,Dismiss,ACCESSIBILITY_CONTRAST_FLAW,2.727411014321566
+org.sixgun.ponyexpress,activity.PonyExpressActivity,:id/pony_footer,android.widget.Button,Pony Express is free software:# Tap here for more information.# #New media. New rules.,ACCESSIBILITY_CONTRAST_FLAW,2.4454370136463495
+org.sixgun.ponyexpress,activity.EpisodesActivity,:id/unlistened_eps,android.widget.TextView,2 new episodes,ACCESSIBILITY_CONTRAST_FLAW,1.0
+org.sixgun.ponyexpress,current_activity,:id/episode_text,android.widget.TextView,Steel Rain 6 – Exit Fee ,ACCESSIBILITY_SIZE_FLAW,184,41
+org.sixgun.ponyexpress,current_activity,:id/comment_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/PlayerSeekBar,android.widget.SeekBar,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/rewind,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/PlayButton,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/fastforward,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,current_activity,:id/dent_entry,android.widget.EditText,#sr6 ,ACCESSIBILITY_SIZE_FLAW,335,36
+org.sixgun.ponyexpress,current_activity,android:id/title,android.widget.TextView,Comments,ACCESSIBILITY_CONTRAST_FLAW,2.560580214264619
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/dent_content,android.widget.TextView,Connection error! Cannot get dents.,ACCESSIBILITY_CONTRAST_FLAW,2.405872039340206
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/notes_body,android.view.View,,ACCESSIBILITY_SIZE_FLAW,376,37
+org.sixgun.ponyexpress,activity.IdenticaAccountSetupActivity,:id/cancel,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,1.0
+org.sixgun.ponyexpress,activity.IdenticaAccountSetupActivity,:id/ok,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,1.0
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/CancelButton,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,1.0
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/elapsed_time,android.widget.TextView,0:00:00,ACCESSIBILITY_CONTRAST_FLAW,1.0
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/rewind,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.0
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/PlayButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.0
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/fastforward,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.0
+org.sixgun.ponyexpress,activity.EpisodeTabs,:id/length,android.widget.TextView,1:48:13,ACCESSIBILITY_CONTRAST_FLAW,1.0
+org.sixgun.ponyexpress,current_activity,:id/username_entry,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,411,36
+org.sixgun.ponyexpress,current_activity,:id/password_entry,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,411,36
+org.sixgun.ponyexpress,current_activity,:id/ok,android.widget.Button,OK,ACCESSIBILITY_SIZE_FLAW,40,48
+org.sixgun.ponyexpress,current_activity,:id/username_entry,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.sixgun.ponyexpress,current_activity,:id/password_entry,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,

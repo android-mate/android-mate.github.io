@@ -1,0 +1,12 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.agateau.catgenerator,MainActivity,:id/shareButton,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.agateau.catgenerator,MainActivity,:id/infoButton,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.agateau.catgenerator,MainActivity,:id/nameEditText,android.widget.EditText,Cat name,ACCESSIBILITY_CONTRAST_FLAW,2.6767878242915786
+com.agateau.catgenerator,MainActivity,:id/nameEditText,android.widget.EditText,Cat name,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.agateau.catgenerator,android/com.android.internal.app.ChooserActivity,:id/nameEditText,android.widget.EditText,Cat name,ACCESSIBILITY_CONTRAST_FLAW,2.6767878242915786
+com.agateau.catgenerator,android/com.android.internal.app.ChooserActivity,:id/nameEditText,android.widget.EditText,Cat name,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.agateau.catgenerator,android/com.android.internal.app.ChooserActivity,android:id/resolver_list,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.agateau.catgenerator,android/com.android.internal.app.ChooserActivity,:id/shareButton,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.agateau.catgenerator,android/com.android.internal.app.ChooserActivity,:id/infoButton,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.agateau.catgenerator,android/com.android.internal.app.ChooserActivity,:id/shareButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.485959036877996
+com.agateau.catgenerator,android/com.android.internal.app.ChooserActivity,:id/infoButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.485959036877996

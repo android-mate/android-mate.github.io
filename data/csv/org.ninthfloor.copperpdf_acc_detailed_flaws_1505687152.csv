@@ -1,0 +1,7 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+org.ninthfloor.copperpdf,/co.copperhead.pdfviewer.PdfViewer,android:id/content,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.ninthfloor.copperpdf,/co.copperhead.pdfviewer.PdfViewer,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.ninthfloor.copperpdf,/co.copperhead.pdfviewer.PdfViewer,android:id/custom-child-0:android.widget.NumberPicker,android.widget.NumberPicker,,ACCESSIBILITY_CONTRAST_FLAW,3.5448862152994005
+org.ninthfloor.copperpdf,/co.copperhead.pdfviewer.PdfViewer,android:id/numberpicker_input,android.widget.EditText,0,ACCESSIBILITY_CONTRAST_FLAW,3.5448862152994005
+org.ninthfloor.copperpdf,/co.copperhead.pdfviewer.PdfViewer,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+org.ninthfloor.copperpdf,/co.copperhead.pdfviewer.PdfViewer,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024

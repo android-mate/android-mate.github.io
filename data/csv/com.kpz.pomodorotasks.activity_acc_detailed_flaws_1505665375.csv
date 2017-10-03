@@ -1,0 +1,47 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/pomodoro_clear,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/pomodoro_clear,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,51,21
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,android:id/title,android.widget.TextView,Pomodoro Tasks,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/pomodoro_clear,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.5576477079596818
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/quick_start_title,android.widget.TextView,Based on the Pomodoro Technique™ by Francesco Cirillo,ACCESSIBILITY_CONTRAST_FLAW,3.781317638687644
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/first_step,android.widget.TextView,* Eliminate the anxiety of time,ACCESSIBILITY_CONTRAST_FLAW,4.135965740106309
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/second_step,android.widget.TextView,* Enhance focus and concentration,ACCESSIBILITY_CONTRAST_FLAW,4.21750165965019
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/list_empty-child-0:android.widget.TextView,android.widget.TextView,To get started- see,ACCESSIBILITY_CONTRAST_FLAW,4.341678945326528
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/go_to_help,android.widget.TextView, Help,ACCESSIBILITY_CONTRAST_FLAW,3.4238797100184555
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/add_task_input_box,android.widget.EditText,New Task,ACCESSIBILITY_CONTRAST_FLAW,3.6217305806715783
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/add_task_input_box,android.widget.EditText,New Task,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,android:id/button1,android.widget.Button,Yes,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,android:id/button2,android.widget.Button,No,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+com.kpz.pomodorotasks.activity,PreferencesActivity,android:id/title,android.widget.TextView,Task Settings,ACCESSIBILITY_SIZE_FLAW,411,30
+com.kpz.pomodorotasks.activity,PreferencesActivity,android:id/title,android.widget.TextView,Pomodoro Tasks,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+com.kpz.pomodorotasks.activity,PreferencesActivity,:id/task_duration_seekbar,android.widget.SeekBar,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.kpz.pomodorotasks.activity,PreferencesActivity,:id/task_duration_info,android.widget.TextView,25 min,ACCESSIBILITY_CONTRAST_FLAW,3.140462059565352
+com.kpz.pomodorotasks.activity,PreferencesActivity,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+com.kpz.pomodorotasks.activity,PreferencesActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+com.kpz.pomodorotasks.activity,HelpActivity,:id/visitText,android.widget.TextView,Visit www.pomodorotechnique.com to learn more about the technique.,ACCESSIBILITY_SIZE_FLAW,373,43
+com.kpz.pomodorotasks.activity,HelpActivity,android:id/title,android.widget.TextView,Pomodoro Tasks,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+com.kpz.pomodorotasks.activity,HelpActivity,:id/back,android.widget.Button,Back,ACCESSIBILITY_CONTRAST_FLAW,1.5520625284783711
+com.kpz.pomodorotasks.activity,HelpActivity,:id/title,android.widget.TextView,Help,ACCESSIBILITY_CONTRAST_FLAW,2.082436067311886
+com.kpz.pomodorotasks.activity,HelpActivity,android:id/content-child-0:android.widget.TextView,android.widget.TextView,What is Pomodoro Technique?,ACCESSIBILITY_CONTRAST_FLAW,3.781317638687644
+com.kpz.pomodorotasks.activity,HelpActivity,android:id/content-child-1:android.widget.TextView,android.widget.TextView,The Pomodoro Technique™ is a way to get the most out of time management. Turn time into a valuable ally to accomplish what we want to do and chart continuous improvement in the way we do it.,ACCESSIBILITY_CONTRAST_FLAW,3.8973145030778498
+com.kpz.pomodorotasks.activity,HelpActivity,android:id/content-child-2:android.widget.TextView,android.widget.TextView,Francesco Cirillo created the Pomodoro Technique™ in 1992. It is now practiced by professional teams and individuals around the world. (Text taken from www.pomodorotechnique.com),ACCESSIBILITY_CONTRAST_FLAW,4.015526561982132
+com.kpz.pomodorotasks.activity,HelpActivity,android:id/content-child-3:android.widget.TextView,android.widget.TextView,How can I start?,ACCESSIBILITY_CONTRAST_FLAW,4.055424910881205
+com.kpz.pomodorotasks.activity,HelpActivity,android:id/content-child-4:android.widget.TextView,android.widget.TextView,1 - Add a task,ACCESSIBILITY_CONTRAST_FLAW,4.135965740106309
+com.kpz.pomodorotasks.activity,HelpActivity,android:id/content-child-5:android.widget.TextView,android.widget.TextView,2 - Select task to start the Pomodoro (the Pomodoro is the timer and is for 25 minutes),ACCESSIBILITY_CONTRAST_FLAW,4.176609095532961
+com.kpz.pomodorotasks.activity,HelpActivity,android:id/content-child-6:android.widget.TextView,android.widget.TextView,3 - Work on the task until the Pomodoro rings. A tomato icon is added to the shelf to keep track of the Pomodoros you have earned.,ACCESSIBILITY_CONTRAST_FLAW,4.2586438671415126
+com.kpz.pomodorotasks.activity,HelpActivity,android:id/content-child-7:android.widget.TextView,android.widget.TextView,4 - Take a short break (5 min) after each task- and a long one after every four.,ACCESSIBILITY_CONTRAST_FLAW,4.300036151558086
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/control_icon,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,57,38
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/control_icon,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/task_description,android.widget.TextView,protend,ACCESSIBILITY_CONTRAST_FLAW,2.7676334596803787
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/control_icon,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.4638985221452456
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/time_left,android.widget.TextView,24:58,ACCESSIBILITY_CONTRAST_FLAW,2.635476332667284
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/hide_panel_button,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,51,27
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/hide_panel_button,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.kpz.pomodorotasks.activity,TaskBrowserActivity,:id/hide_panel_button,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.5918406232491924
+com.kpz.pomodorotasks.activity,HelpActivity,android:id/content-child-8:android.widget.TextView,android.widget.TextView,5 - Swipe right to complete a task (swipe left to undo),ACCESSIBILITY_CONTRAST_FLAW,4.21750165965019
+com.kpz.pomodorotasks.activity,HelpActivity,:id/visitText,android.widget.TextView,Visit www.pomodorotechnique.com to learn more about the technique.,ACCESSIBILITY_CONTRAST_FLAW,3.1354045780032056
+com.kpz.pomodorotasks.activity,HelpActivity,android:id/content-child-10:android.widget.TextView,android.widget.TextView,To get back to this page- press the Menu button and choose Help,ACCESSIBILITY_CONTRAST_FLAW,2.2629500031480965
+com.kpz.pomodorotasks.activity,TaskEditActivity,android:id/title,android.widget.TextView,Pomodoro Tasks,ACCESSIBILITY_CONTRAST_FLAW,4.0041069566148515
+com.kpz.pomodorotasks.activity,TaskEditActivity,:id/revert,android.widget.Button,Revert,ACCESSIBILITY_CONTRAST_FLAW,2.4721776584272286
+com.kpz.pomodorotasks.activity,TaskEditActivity,:id/title,android.widget.TextView,Task,ACCESSIBILITY_CONTRAST_FLAW,1.451411912478796
+com.kpz.pomodorotasks.activity,TaskEditActivity,:id/done,android.widget.Button,Done,ACCESSIBILITY_CONTRAST_FLAW,2.4721776584272286

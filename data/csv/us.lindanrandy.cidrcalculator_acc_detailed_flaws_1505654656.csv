@@ -1,0 +1,33 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+us.lindanrandy.cidrcalculator,CIDRCalculator,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+us.lindanrandy.cidrcalculator,CIDRCalculator,:id/ipaddress,android.widget.EditText,oversuds,ACCESSIBILITY_SIZE_FLAW,188,44
+us.lindanrandy.cidrcalculator,CIDRCalculator,:id/bitlength,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,222,24
+us.lindanrandy.cidrcalculator,CIDRCalculator,:id/subnetmask,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,411,24
+us.lindanrandy.cidrcalculator,CIDRCalculator,:id/keyboardview,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+us.lindanrandy.cidrcalculator,CIDRCalculator,:id/ipaddress,android.widget.EditText,oversuds,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+us.lindanrandy.cidrcalculator,CIDRCalculator,android:id/text1,android.widget.CheckedTextView,255.255.252.0,ACCESSIBILITY_SIZE_FLAW,387,35
+us.lindanrandy.cidrcalculator,CIDRCalculator,android:id/text1,android.widget.CheckedTextView,/22,ACCESSIBILITY_CONTRAST_FLAW,1.0434884496936805
+us.lindanrandy.cidrcalculator,Converter,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+us.lindanrandy.cidrcalculator,Converter,:id/converter_ipaddress,android.widget.EditText,Put IP here,ACCESSIBILITY_SIZE_FLAW,188,44
+us.lindanrandy.cidrcalculator,Converter,:id/ipbinary,android.widget.EditText,00000000.00000000.00000000.00000000,ACCESSIBILITY_SIZE_FLAW,411,40
+us.lindanrandy.cidrcalculator,Converter,:id/iphex,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,188,44
+us.lindanrandy.cidrcalculator,Converter,:id/keyboardview,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+us.lindanrandy.cidrcalculator,Converter,:id/iphex,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+us.lindanrandy.cidrcalculator,Converter,:id/converter_ipaddress,android.widget.EditText,Put IP here,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+us.lindanrandy.cidrcalculator,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+us.lindanrandy.cidrcalculator,com.android.messagingui.conversationlist.ShareIntentActivity,:id/ipaddress,android.widget.EditText,Put IP here,ACCESSIBILITY_SIZE_FLAW,188,44
+us.lindanrandy.cidrcalculator,com.android.messagingui.conversationlist.ShareIntentActivity,:id/bitlength,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,222,24
+us.lindanrandy.cidrcalculator,com.android.messagingui.conversationlist.ShareIntentActivity,:id/subnetmask,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,411,24
+us.lindanrandy.cidrcalculator,com.android.messagingui.conversationlist.ShareIntentActivity,:id/ipaddress,android.widget.EditText,Put IP here,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+us.lindanrandy.cidrcalculator,Preferences,android:id/title,android.widget.TextView,Preferences,ACCESSIBILITY_SIZE_FLAW,411,35
+us.lindanrandy.cidrcalculator,Preferences,android:id/list,android.widget.ListView,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+us.lindanrandy.cidrcalculator,Preferences,android:id/title,android.widget.TextView,Auto Complete,ACCESSIBILITY_CONTRAST_FLAW,2.6265604525055526
+us.lindanrandy.cidrcalculator,Preferences,android:id/summary,android.widget.TextView,Use the history to auto complete the IP address.,ACCESSIBILITY_CONTRAST_FLAW,1.973722359466373
+us.lindanrandy.cidrcalculator,HistoryList,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+us.lindanrandy.cidrcalculator,HistoryList,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+us.lindanrandy.cidrcalculator,IPv6Calculator,:id/keyboardview,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+us.lindanrandy.cidrcalculator,IPv6Calculator,:id/ipv6address,android.widget.EditText,Put IP here,ACCESSIBILITY_SIZE_FLAW,411,44
+us.lindanrandy.cidrcalculator,IPv6Calculator,:id/ipv6subnetmasks,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,411,24
+us.lindanrandy.cidrcalculator,IPv6Calculator,:id/ipv6address,android.widget.EditText,Put IP here,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+us.lindanrandy.cidrcalculator,IPv6Calculator,android:id/text1,android.widget.CheckedTextView,ffff:ffff:ffff:ffff:ffc0:: = /74,ACCESSIBILITY_SIZE_FLAW,387,35
+us.lindanrandy.cidrcalculator,Converter,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,

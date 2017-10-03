@@ -1,0 +1,134 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/tool_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,36,48
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/pager_header,android.widget.TextView,,ACCESSIBILITY_SIZE_FLAW,0,19
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/commit_cards,android.widget.ListView,,ACCESSIBILITY_SIZE_FLAW,0,571
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/refine_search_container,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,0
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/commit_card_commit_owner,android.widget.TextView,doc HD,ACCESSIBILITY_SIZE_FLAW,64,27
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/commit_card_settings,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,44,44
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/commit_card_committer_image,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,20,48
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/commit_card_committer_image,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/tool_bar-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.3231230535045992
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/pager_header-child-2:android.widget.TextView,android.widget.TextView,Merged,ACCESSIBILITY_CONTRAST_FLAW,2.5142725384493976
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/commit_card_committer_image,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,3.1315743843019344
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/commit_card_last_updated,android.widget.TextView,08:40 PM,ACCESSIBILITY_CONTRAST_FLAW,3.6900293509358773
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/commit_card_project_name,android.widget.TextView,AICP/build,ACCESSIBILITY_CONTRAST_FLAW,1.7625598210034286
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/commit_card_settings,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.3231230535045992
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/header,android.widget.TextView,Sunday- September 17 2017,ACCESSIBILITY_CONTRAST_FLAW,1.3713058806238527
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/lv_gerrit_switcher,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,395,46
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/txtGerritName,android.widget.TextView,AICP,ACCESSIBILITY_CONTRAST_FLAW,4.284813567788539
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/chk_gerrit_selected,android.widget.RadioButton,,ACCESSIBILITY_CONTRAST_FLAW,1.9502150416025161
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/chk_gerrit_selected,android.widget.RadioButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/chk_gerrit_selected,android.widget.RadioButton,,ACCESSIBILITY_SIZE_FLAW,32,89
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/add_team_name_edittext,android.widget.EditText,New Gerrit team name,ACCESSIBILITY_SIZE_FLAW,351,44
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/add_team_url_edittext,android.widget.EditText,https://,ACCESSIBILITY_SIZE_FLAW,351,44
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/add_team_name_edittext,android.widget.EditText,New Gerrit team name,ACCESSIBILITY_CONTRAST_FLAW,4.284813567788539
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/add_team_name_edittext,android.widget.EditText,New Gerrit team name,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/add_team_url_edittext,android.widget.EditText,https://,ACCESSIBILITY_CONTRAST_FLAW,4.284813567788539
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/add_team_url_edittext,android.widget.EditText,https://,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/tool_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.689276817599431
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/tool_bar-child-1:android.widget.TextView,android.widget.TextView,AOSP,ACCESSIBILITY_CONTRAST_FLAW,1.5477999070098158
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/txtHeaderLine1,android.widget.TextView,AOSP,ACCESSIBILITY_CONTRAST_FLAW,2.276098239349868
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/material_drawer_name,android.widget.TextView,View Changes,ACCESSIBILITY_CONTRAST_FLAW,2.101121873377451
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/tool_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,36,48
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/pager_header,android.widget.TextView,,ACCESSIBILITY_SIZE_FLAW,0,19
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/commit_cards,android.widget.ListView,,ACCESSIBILITY_SIZE_FLAW,0,571
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/refine_search_container,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,0
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/commit_card_commit_owner,android.widget.TextView,Jae Shin,ACCESSIBILITY_SIZE_FLAW,64,27
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/commit_card_settings,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,44,44
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/commit_card_committer_image,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/tool_bar-child-2:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,2.3231230535045992
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/pager_header-child-2:android.widget.TextView,android.widget.TextView,Merged,ACCESSIBILITY_CONTRAST_FLAW,2.5142725384493976
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/commit_card_last_updated,android.widget.TextView,12:14 AM,ACCESSIBILITY_CONTRAST_FLAW,2.4632730504708715
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/commit_card_project_name,android.widget.TextView,platform/frameworks/native,ACCESSIBILITY_CONTRAST_FLAW,3.9494396480491156
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/commit_card_settings,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.3231230535045992
+com.jbirdvegas.mgerrit,com.android.messagingui.conversationlist.ShareIntentActivity,:id/header,android.widget.TextView,Sunday- September 17 2017,ACCESSIBILITY_CONTRAST_FLAW,1.3493331394335433
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/commit_cards,android.widget.ExpandableListView,,ACCESSIBILITY_SIZE_FLAW,0,603
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/commit_card_committer_image,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,4.145460935624636
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/commit_card_project_name,android.widget.TextView,platform/cts,ACCESSIBILITY_CONTRAST_FLAW,3.8448810049535913
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/commit_card_starred,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.4844104385898933
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/commit_card_title,android.widget.TextView,Fix extracting 32-bit uuid error via calling method uuidToBytes,ACCESSIBILITY_CONTRAST_FLAW,1.1377769909555424
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,android:id/title,android.widget.TextView,View change details,ACCESSIBILITY_CONTRAST_FLAW,1.2647322470553344
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/txtRefineSearchKeywordCount,android.widget.TextView,(1 filters active),ACCESSIBILITY_CONTRAST_FLAW,1.9407754808254007
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/commit_card_committer_image,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/expand_activities_button,android.widget.FrameLayout,,ACCESSIBILITY_SIZE_FLAW,56,35
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/default_activity_button,android.widget.FrameLayout,,ACCESSIBILITY_SIZE_FLAW,56,35
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/commit_card_commit_owner,android.widget.TextView,Ting Zheng,ACCESSIBILITY_SIZE_FLAW,64,35
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/commit_card_project_name,android.widget.TextView,platform/frameworks/base,ACCESSIBILITY_SIZE_FLAW,269,19
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/commit_card_starred,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,32,32
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,:id/lv_search_categories,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,395,36
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,:id/search_src_text,android.widget.EditText,Search #no or subject,ACCESSIBILITY_SIZE_FLAW,339,36
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,:id/search_src_text,android.widget.EditText,Search #no or subject,ACCESSIBILITY_CONTRAST_FLAW,3.943775821870012
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,:id/search_src_text,android.widget.EditText,Search #no or subject,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,:id/txtCategoryName,android.widget.TextView,Branch,ACCESSIBILITY_CONTRAST_FLAW,2.9209757321164957
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/text1,android.widget.EditText,Search…,ACCESSIBILITY_SIZE_FLAW,358,44
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/text1,android.widget.EditText,Search…,ACCESSIBILITY_CONTRAST_FLAW,2.5744467644518627
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/text1,android.widget.EditText,Search…,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/button2,android.widget.Button,Clear,ACCESSIBILITY_CONTRAST_FLAW,3.430560191498449
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/button1,android.widget.Button,Apply,ACCESSIBILITY_CONTRAST_FLAW,3.430560191498449
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,:id/autoComplete,android.widget.EditText,Ting Zheng <ting.zheng@mediatek.com>,ACCESSIBILITY_SIZE_FLAW,358,44
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,:id/autoComplete,android.widget.EditText,Ting Zheng <ting.zheng@mediatek.com>,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/commit_card_wrapper,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,7,99
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/commit_card_committer_image,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,28,48
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/commit_cards,android.widget.ExpandableListView,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/header,android.widget.TextView,Properties,ACCESSIBILITY_CONTRAST_FLAW,1.363683159598655
+com.jbirdvegas.mgerrit,activities.SigninActivity,:id/txtUser,android.widget.EditText,Username,ACCESSIBILITY_SIZE_FLAW,395,43
+com.jbirdvegas.mgerrit,activities.SigninActivity,:id/txtPass,android.widget.EditText,Password,ACCESSIBILITY_SIZE_FLAW,395,44
+com.jbirdvegas.mgerrit,activities.SigninActivity,:id/txtSigninHelp,android.widget.TextView,This Gerrit is protected and requires you to sign in before you can view changes. If you do not know your username/password- you can generate one on your account settings page.,ACCESSIBILITY_CONTRAST_FLAW,4.284813567788539
+com.jbirdvegas.mgerrit,activities.SigninActivity,:id/txtUser,android.widget.EditText,Username,ACCESSIBILITY_CONTRAST_FLAW,1.9502150416025161
+com.jbirdvegas.mgerrit,activities.SigninActivity,:id/txtUser,android.widget.EditText,Username,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.SigninActivity,:id/txtPass,android.widget.EditText,Password,ACCESSIBILITY_CONTRAST_FLAW,4.284813567788539
+com.jbirdvegas.mgerrit,activities.SigninActivity,:id/txtPass,android.widget.EditText,Password,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.SigninActivity,:id/btnSignin,android.widget.Button,Error,ACCESSIBILITY_CONTRAST_FLAW,2.912836840606881
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/pager_header-child-0:android.widget.TextView,android.widget.TextView,Review,ACCESSIBILITY_CONTRAST_FLAW,2.5142725384493976
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,:id/txtSearchDate,android.widget.TextView,Monday- September 18 2017,ACCESSIBILITY_SIZE_FLAW,203,21
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,:id/txtSearchTime,android.widget.TextView,01:06,ACCESSIBILITY_SIZE_FLAW,40,21
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/refine_search_wrapper-child-0:android.widget.TextView,android.widget.TextView,Refine Your Search,ACCESSIBILITY_CONTRAST_FLAW,2.5767501402854087
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,:id/search_close_btn,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,36
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/hours,android.widget.TextView,00,ACCESSIBILITY_CONTRAST_FLAW,3.430560191498449
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/separator,android.widget.TextView,:,ACCESSIBILITY_CONTRAST_FLAW,2.4719770612533094
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/minutes,android.widget.TextView,00,ACCESSIBILITY_CONTRAST_FLAW,2.4719770612533094
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/date_picker_header_year,android.widget.TextView,2017,ACCESSIBILITY_SIZE_FLAW,240,37
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/date_picker_header_date,android.widget.TextView,Mon- Sep 18,ACCESSIBILITY_SIZE_FLAW,189,45
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/month_view,android.view.View,1,ACCESSIBILITY_SIZE_FLAW,35,40
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/date_picker_header_year,android.widget.TextView,2017,ACCESSIBILITY_CONTRAST_FLAW,3.430560191498449
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/date_picker_header_date,android.widget.TextView,Mon- Sep 18,ACCESSIBILITY_CONTRAST_FLAW,3.430560191498449
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/day_picker_view_pager,com.android.internal.widget.ViewPager,,ACCESSIBILITY_CONTRAST_FLAW,2.5744467644518627
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/month_view-child-0:android.view.View,android.view.View,5,ACCESSIBILITY_CONTRAST_FLAW,1.2390514843934626
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/month_view-child-1:android.view.View,android.view.View,12,ACCESSIBILITY_CONTRAST_FLAW,1.2390514843934626
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/month_view-child-2:android.view.View,android.view.View,19,ACCESSIBILITY_CONTRAST_FLAW,2.265648857193612
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/month_view-child-3:android.view.View,android.view.View,26,ACCESSIBILITY_CONTRAST_FLAW,2.104609025717842
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/month_view-child-10:android.view.View,android.view.View,11,ACCESSIBILITY_CONTRAST_FLAW,2.5744467644518627
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/month_view-child-16:android.view.View,android.view.View,17,ACCESSIBILITY_CONTRAST_FLAW,2.5744467644518627
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/month_view-child-17:android.view.View,android.view.View,18,ACCESSIBILITY_CONTRAST_FLAW,2.5744467644518627
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,android:id/month_view-child-4:android.view.View,android.view.View,29,ACCESSIBILITY_CONTRAST_FLAW,2.104609025717842
+com.jbirdvegas.mgerrit,activities.RefineSearchActivity,:id/autoComplete,android.widget.EditText,Search…,ACCESSIBILITY_CONTRAST_FLAW,2.5744467644518627
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,android:id/custom-child-0:android.widget.TextView,android.widget.TextView,Review,ACCESSIBILITY_CONTRAST_FLAW,2.5744467644518627
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,android:id/custom-child-2:android.widget.TextView,android.widget.TextView,Merged,ACCESSIBILITY_CONTRAST_FLAW,3.430560191498449
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,android:id/button3,android.widget.Button,Gerrit help,ACCESSIBILITY_CONTRAST_FLAW,3.430560191498449
+com.jbirdvegas.mgerrit,activities.PrefsActivity,android:id/title,android.widget.TextView,Services,ACCESSIBILITY_SIZE_FLAW,411,35
+com.jbirdvegas.mgerrit,activities.PrefsActivity,android:id/summary,android.widget.TextView,https://gerrit.omnirom.org/,ACCESSIBILITY_CONTRAST_FLAW,4.284813567788539
+com.jbirdvegas.mgerrit,activities.PrefsActivity,android:id/title,android.widget.TextView,Services,ACCESSIBILITY_CONTRAST_FLAW,2.598744778475756
+com.jbirdvegas.mgerrit,activities.PrefsActivity,android:id/list,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,411,25
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/search_src_text,android.widget.EditText,   Search #no or subject,ACCESSIBILITY_SIZE_FLAW,355,36
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/search_close_btn,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,36
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/search_src_text,android.widget.EditText,   Search #no or subject,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/search_close_btn,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.3845378872067404
+com.jbirdvegas.mgerrit,activities.GerritSwitcher,:id/txtGerritURL,android.widget.TextView,http://gerrit.aicp-rom.com/,ACCESSIBILITY_CONTRAST_FLAW,4.284813567788539
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/search_src_text,android.widget.EditText,   Search #no or subject,ACCESSIBILITY_CONTRAST_FLAW,3.927903893440724
+com.jbirdvegas.mgerrit,activities.PrefsActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.430560191498449
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/tabs,android.support.v4.view.ViewPager,,ACCESSIBILITY_CONTRAST_FLAW,3.430560191498449
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/tabs,android.support.v4.view.ViewPager,,ACCESSIBILITY_CONTRAST_FLAW,3.4903231307620617
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/tool_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.8308200809188357
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/prop_card_change_id,android.widget.TextView,Ic08c00b15b1fd3d50f88711a7d4057dd13d1d850,ACCESSIBILITY_CONTRAST_FLAW,4.059746003770842
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/prop_card_created,android.widget.TextView,September 14- 2017 at 12:07:26 AM,ACCESSIBILITY_CONTRAST_FLAW,4.059746003770842
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/prop_card_last_update,android.widget.TextView,September 18- 2017 at 12:55:54 AM,ACCESSIBILITY_CONTRAST_FLAW,4.059746003770842
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/prop_card_branch,android.widget.TextView,master,ACCESSIBILITY_CONTRAST_FLAW,3.9494396480491156
+com.jbirdvegas.mgerrit,activities.PatchSetViewerActivity,:id/prop_card_topic,android.widget.TextView,bug/1717144,ACCESSIBILITY_CONTRAST_FLAW,4.059746003770842
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/pager_header-child-1:android.widget.TextView,android.widget.TextView,Abandoned,ACCESSIBILITY_CONTRAST_FLAW,4.269827882774955
+com.jbirdvegas.mgerrit,activities.ProjectsList,android:id/text1,android.widget.TextView,RunningStat,ACCESSIBILITY_SIZE_FLAW,395,17
+com.jbirdvegas.mgerrit,activities.ProjectsList,:id/search_src_text,android.widget.EditText,Search projects,ACCESSIBILITY_SIZE_FLAW,339,36
+com.jbirdvegas.mgerrit,activities.ProjectsList,:id/search_src_text,android.widget.EditText,Search projects,ACCESSIBILITY_CONTRAST_FLAW,3.943775821870012
+com.jbirdvegas.mgerrit,activities.ProjectsList,:id/search_src_text,android.widget.EditText,Search projects,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.jbirdvegas.mgerrit,activities.ProjectsList,:id/search_close_btn,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,36
+com.jbirdvegas.mgerrit,activities.GerritControllerActivity,:id/commit_card_commit_owner,android.widget.TextView,Huji,ACCESSIBILITY_CONTRAST_FLAW,3.6900293509358773
+com.jbirdvegas.mgerrit,activities.ProjectsList,android:id/text1,android.widget.TextView,3d2png,ACCESSIBILITY_CONTRAST_FLAW,1.9428444088106975

@@ -1,0 +1,4 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+io.github.engsergiu.react,org.sixgun.ponyexpressactivity.EpisodeTabs,:id/message,android.widget.TextView,Messaging isn't responding. Do you want to close it?,ACCESSIBILITY_CONTRAST_FLAW,1.0
+io.github.engsergiu.react,org.sixgun.ponyexpressactivity.EpisodeTabs,:id/button2,android.widget.Button,Wait,ACCESSIBILITY_CONTRAST_FLAW,1.0
+io.github.engsergiu.react,org.sixgun.ponyexpressactivity.EpisodeTabs,:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,1.0

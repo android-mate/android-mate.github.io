@@ -1,0 +1,43 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.mattieapps.roommates,MainActivity,:id/rentPriceText,android.widget.EditText,0,ACCESSIBILITY_SIZE_FLAW,379,44
+com.mattieapps.roommates,MainActivity,:id/peopleAmountText,android.widget.EditText,1166153091,ACCESSIBILITY_SIZE_FLAW,379,44
+com.mattieapps.roommates,MainActivity,:id/rentUpBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,44,40
+com.mattieapps.roommates,MainActivity,:id/peopleUpBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,44,40
+com.mattieapps.roommates,MainActivity,:id/rentDownBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,44,40
+com.mattieapps.roommates,MainActivity,:id/peopleDownBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,44,40
+com.mattieapps.roommates,MainActivity,:id/rentUpBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,MainActivity,:id/peopleUpBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,MainActivity,:id/rentDownBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,MainActivity,:id/peopleDownBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,MainActivity,:id/rentPriceText,android.widget.EditText,0,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,MainActivity,:id/peopleAmountText,android.widget.EditText,1166153091,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,MainActivity,:id/toolbar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.791080780794159
+com.mattieapps.roommates,MainActivity,:id/calculateFabButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.773111725715459
+com.mattieapps.roommates,MainActivity,:id/textView4,android.widget.TextView,People # Controller,ACCESSIBILITY_CONTRAST_FLAW,2.294821964339292
+com.mattieapps.roommates,MainActivity,:id/peopleUpBtn,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.548753608712949
+com.mattieapps.roommates,MainActivity,:id/peopleDownBtn,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.548753608712949
+com.mattieapps.roommates,MainActivity,:id/priceEditText,android.widget.EditText,0,ACCESSIBILITY_SIZE_FLAW,379,44
+com.mattieapps.roommates,MainActivity,:id/gratuityEditText,android.widget.EditText,0,ACCESSIBILITY_SIZE_FLAW,366,44
+com.mattieapps.roommates,Settings,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+com.mattieapps.roommates,MainActivity,:id/textView6,android.widget.TextView,Gratuity:,ACCESSIBILITY_CONTRAST_FLAW,3.791080780794159
+com.mattieapps.roommates,MainActivity,:id/textView7,android.widget.TextView,%,ACCESSIBILITY_CONTRAST_FLAW,2.294821964339292
+com.mattieapps.roommates,MainActivity,:id/tipsCalFabButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.773111725715459
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/toolbar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,4.042823183132061
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/rentPriceText,android.widget.EditText,-1.0,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/peopleAmountText,android.widget.EditText,6544725193,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/list,android.support.v7.widget.RecyclerView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/rentUpBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/peopleUpBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/rentDownBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/peopleDownBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/rentPriceText,android.widget.EditText,fitified,ACCESSIBILITY_SIZE_FLAW,379,44
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/peopleAmountText,android.widget.EditText,9.552024701E9,ACCESSIBILITY_SIZE_FLAW,379,44
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/rentUpBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,44,40
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/peopleUpBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,44,40
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/rentDownBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,44,40
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/peopleDownBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,44,40
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/toolbar-child-1:android.widget.TextView,android.widget.TextView,Tip Calculator,ACCESSIBILITY_CONTRAST_FLAW,2.7795697203442264
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/calculateFabButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.86003584691752
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/textView4,android.widget.TextView,People # Controller,ACCESSIBILITY_CONTRAST_FLAW,2.294821964339292
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/peopleUpBtn,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.548753608712949
+com.mattieapps.roommates,com.android.messagingui.conversationlist.ShareIntentActivity,:id/peopleDownBtn,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.548753608712949

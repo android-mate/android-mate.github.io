@@ -1,0 +1,185 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.eleybourn.bookcatalogue,Help,:id/helpinstructions,android.widget.TextView,Help,ACCESSIBILITY_SIZE_FLAW,406,29
+com.eleybourn.bookcatalogue,Help,:id/helppage,android.widget.TextView,https://github.com/eleybourn/Book-Catalogue/wiki/Help,ACCESSIBILITY_CONTRAST_FLAW,3.340252881490264
+com.eleybourn.bookcatalogue,MainMenu,:id/hide_hint_checkbox,android.widget.CheckBox,Do not show again,ACCESSIBILITY_SIZE_FLAW,164,32
+com.eleybourn.bookcatalogue,BooksOnBookshelf,:id/hide_hint_checkbox,android.widget.CheckBox,Do not show again,ACCESSIBILITY_SIZE_FLAW,164,32
+com.eleybourn.bookcatalogue,BooksOnBookshelf,:id/bookshelf_name,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,91,31
+com.eleybourn.bookcatalogue,BooksOnBookshelf,:id/bookshelf_down,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,54,32
+com.eleybourn.bookcatalogue,BooksOnBookshelf,:id/bookshelf_down,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BooksOnBookshelf,android:id/empty,android.widget.TextView,There are no books in this Bookshelf. Please add some using the menu at the bottom of this screen.,ACCESSIBILITY_CONTRAST_FLAW,1.7065859540859585
+com.eleybourn.bookcatalogue,BooksOnBookshelf,android:id/title,android.widget.TextView,Hint,ACCESSIBILITY_CONTRAST_FLAW,1.4072941377363481
+com.eleybourn.bookcatalogue,BooksOnBookshelf,:id/confirm,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,1.5045878959221466
+com.eleybourn.bookcatalogue,BooksOnBookshelf,:id/menu,android.widget.TextView,Show more…,ACCESSIBILITY_SIZE_FLAW,358,43
+com.eleybourn.bookcatalogue,BooksOnBookshelf,:id/radio,android.widget.RadioButton,Author then Series,ACCESSIBILITY_SIZE_FLAW,172,32
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/author,android.widget.EditText,Author,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/title,android.widget.EditText,Title,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/row_img,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,41,41
+com.eleybourn.bookcatalogue,BookEdit,:id/title,android.widget.EditText,Not Set,ACCESSIBILITY_SIZE_FLAW,391,38
+com.eleybourn.bookcatalogue,BookEdit,:id/isbn,android.widget.EditText,Not Set,ACCESSIBILITY_SIZE_FLAW,360,38
+com.eleybourn.bookcatalogue,BookEdit,:id/publisher,android.widget.EditText,Not Set,ACCESSIBILITY_SIZE_FLAW,391,38
+com.eleybourn.bookcatalogue,BookEdit,:id/pages,android.widget.EditText,Not Set,ACCESSIBILITY_SIZE_FLAW,391,19
+com.eleybourn.bookcatalogue,BookEdit,:id/list_price,android.widget.EditText,Not Set,ACCESSIBILITY_SIZE_FLAW,391,39
+com.eleybourn.bookcatalogue,BookEdit,:id/row_img,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/title,android.widget.EditText,Not Set,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/isbn,android.widget.EditText,Not Set,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/publisher,android.widget.EditText,Not Set,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/pages,android.widget.EditText,Not Set,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/anthology,android.widget.CheckBox,Is this book an Anthology?,ACCESSIBILITY_SIZE_FLAW,218,32
+com.eleybourn.bookcatalogue,BookEdit,:id/descriptionLabel,android.widget.TextView,Description (edit…),ACCESSIBILITY_SIZE_FLAW,391,41
+com.eleybourn.bookcatalogue,BookEdit,:id/format,android.widget.EditText,Not Set,ACCESSIBILITY_SIZE_FLAW,343,38
+com.eleybourn.bookcatalogue,BookEdit,:id/genre,android.widget.EditText,Not Set,ACCESSIBILITY_SIZE_FLAW,391,38
+com.eleybourn.bookcatalogue,BookEdit,:id/language,android.widget.EditText,Not Set,ACCESSIBILITY_SIZE_FLAW,391,38
+com.eleybourn.bookcatalogue,BookEdit,:id/format_button,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/list_price,android.widget.EditText,Not Set,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/format,android.widget.EditText,Not Set,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/genre,android.widget.EditText,Not Set,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/language,android.widget.EditText,Not Set,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/year,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/month,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,66,36
+com.eleybourn.bookcatalogue,BookEdit,:id/day,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,54,36
+com.eleybourn.bookcatalogue,BookEdit,:id/year,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,62,38
+com.eleybourn.bookcatalogue,BookEdit,android:id/text1,android.widget.CheckedTextView,25,ACCESSIBILITY_SIZE_FLAW,50,8
+com.eleybourn.bookcatalogue,BookEdit,android:id/text1,android.widget.CheckedTextView,25,ACCESSIBILITY_CONTRAST_FLAW,1.5740574062458632
+com.eleybourn.bookcatalogue,BookEdit,:id/text,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/selector,android.widget.RadioButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/selector,android.widget.RadioButton,,ACCESSIBILITY_SIZE_FLAW,32,32
+com.eleybourn.bookcatalogue,BookEdit,:id/selector,android.widget.RadioButton,,ACCESSIBILITY_CONTRAST_FLAW,1.8388934157712187
+com.eleybourn.bookcatalogue,BookEdit,:id/bookshelf_dialog_root,android.widget.CheckBox,Default,ACCESSIBILITY_SIZE_FLAW,304,32
+com.eleybourn.bookcatalogue,AdministrationFunctions,:id/import_all_from_goodreads_label,android.widget.TextView,Import all from goodreads,ACCESSIBILITY_SIZE_FLAW,406,34
+com.eleybourn.bookcatalogue,AdministrationFunctions,:id/send_books_to_goodreads_label,android.widget.TextView,Send books to goodreads,ACCESSIBILITY_SIZE_FLAW,406,13
+com.eleybourn.bookcatalogue,filechooser.BackupChooser,:id/file_name,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,filechooser.BackupChooser,:id/file_name,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,406,43
+com.eleybourn.bookcatalogue,filechooser.BackupChooser,:id/row,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,398,30
+com.eleybourn.bookcatalogue,AdministrationFunctions,:id/backup_catalogue_label,android.widget.TextView,Backup to Archive,ACCESSIBILITY_SIZE_FLAW,406,37
+com.eleybourn.bookcatalogue,AdministrationFunctions,:id/restore_catalogue_label,android.widget.TextView,Import from Archive,ACCESSIBILITY_SIZE_FLAW,406,10
+com.eleybourn.bookcatalogue,AdministrationFunctions,:id/backup_label,android.widget.TextView,Copy Database (for tech support),ACCESSIBILITY_SIZE_FLAW,406,24
+com.eleybourn.bookcatalogue,goodreads.GoodreadsRegister,:id/goodreads_url,android.widget.TextView,http://www.goodreads.com,ACCESSIBILITY_SIZE_FLAW,406,33
+com.eleybourn.bookcatalogue,goodreads.GoodreadsRegister,:id/goodreads_url,android.widget.TextView,http://www.goodreads.com,ACCESSIBILITY_CONTRAST_FLAW,3.340252881490264
+com.eleybourn.bookcatalogue,OtherPreferences,:id/dynamic_properties,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,406,25
+com.eleybourn.bookcatalogue,OtherPreferences,:id/frame,android.widget.CheckBox,,ACCESSIBILITY_SIZE_FLAW,32,32
+com.eleybourn.bookcatalogue,OtherPreferences,:id/image,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,OtherPreferences,:id/frame,android.widget.CheckBox,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,OtherPreferences,:id/frame-child-0:android.widget.CheckBox,android.widget.CheckBox,,ACCESSIBILITY_CONTRAST_FLAW,1.1806054384112215
+com.eleybourn.bookcatalogue,OtherPreferences,:id/name,android.widget.TextView,ADVANCED OPTIONS,ACCESSIBILITY_CONTRAST_FLAW,3.46026509573834
+com.eleybourn.bookcatalogue,OtherPreferences,:id/selector,android.widget.RadioButton,,ACCESSIBILITY_SIZE_FLAW,32,32
+com.eleybourn.bookcatalogue,OtherPreferences,:id/selector,android.widget.RadioButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,OtherPreferences,:id/selector,android.widget.RadioButton,,ACCESSIBILITY_CONTRAST_FLAW,2.6065137478764053
+com.eleybourn.bookcatalogue,BookshelfEdit,:id/bookshelf,android.widget.EditText,Default,ACCESSIBILITY_SIZE_FLAW,391,38
+com.eleybourn.bookcatalogue,BookshelfEdit,:id/bookshelf,android.widget.EditText,Default,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,AdministrationFunctions,:id/export_label,android.widget.TextView,Export to CSV File,ACCESSIBILITY_SIZE_FLAW,406,34
+com.eleybourn.bookcatalogue,TaskListActivity,:id/hide_hint_checkbox,android.widget.CheckBox,Do not show again,ACCESSIBILITY_SIZE_FLAW,164,32
+com.eleybourn.bookcatalogue,com.android.browserBrowserActivity,com.android.browser:id/iconcombo,android.widget.FrameLayout,,ACCESSIBILITY_SIZE_FLAW,44,52
+com.eleybourn.bookcatalogue,com.android.browserBrowserActivity,com.android.browser:id/webview_wrapper,android.view.View,,ACCESSIBILITY_SIZE_FLAW,182,40
+com.eleybourn.bookcatalogue,com.android.browserBrowserActivity,com.android.browser:id/webview_wrapper,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,com.android.browserBrowserActivity,com.android.browser:id/url,android.widget.EditText,www.goodreads.com,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,AdministrationAbout,:id/sourcecode,android.widget.TextView,https://github.com/eleybourn/Book-Catalogue,ACCESSIBILITY_SIZE_FLAW,406,28
+com.eleybourn.bookcatalogue,AdministrationAbout,:id/contact1,android.widget.TextView,eleybourn@gmail.com,ACCESSIBILITY_SIZE_FLAW,406,28
+com.eleybourn.bookcatalogue,AdministrationAbout,:id/contact2,android.widget.TextView,philip.warner@rhyme.com.au,ACCESSIBILITY_SIZE_FLAW,406,28
+com.eleybourn.bookcatalogue,AdministrationAbout,:id/webpage,android.widget.TextView,https://wiki.github.com/eleybourn/Book-Catalogue/,ACCESSIBILITY_CONTRAST_FLAW,3.340252881490264
+com.eleybourn.bookcatalogue,AdministrationAbout,:id/sourcecode,android.widget.TextView,https://github.com/eleybourn/Book-Catalogue,ACCESSIBILITY_CONTRAST_FLAW,3.340252881490264
+com.eleybourn.bookcatalogue,AdministrationAbout,:id/contact1,android.widget.TextView,eleybourn@gmail.com,ACCESSIBILITY_CONTRAST_FLAW,3.320218977084996
+com.eleybourn.bookcatalogue,AdministrationAbout,:id/contact2,android.widget.TextView,philip.warner@rhyme.com.au,ACCESSIBILITY_CONTRAST_FLAW,3.340252881490264
+com.eleybourn.bookcatalogue,AdministrationDonate,:id/donate_url_image,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,406,46
+com.eleybourn.bookcatalogue,AdministrationDonate,:id/donate_url_image,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,com.android.messagingui.conversationlist.ShareIntentActivity,:id/webpage,android.widget.TextView,https://wiki.github.com/eleybourn/Book-Catalogue/,ACCESSIBILITY_CONTRAST_FLAW,3.340252881490264
+com.eleybourn.bookcatalogue,com.android.messagingui.conversationlist.ShareIntentActivity,:id/sourcecode,android.widget.TextView,https://github.com/eleybourn/Book-Catalogue,ACCESSIBILITY_CONTRAST_FLAW,3.340252881490264
+com.eleybourn.bookcatalogue,com.android.messagingui.conversationlist.ShareIntentActivity,:id/contact1,android.widget.TextView,eleybourn@gmail.com,ACCESSIBILITY_CONTRAST_FLAW,3.320218977084996
+com.eleybourn.bookcatalogue,com.android.messagingui.conversationlist.ShareIntentActivity,:id/contact2,android.widget.TextView,philip.warner@rhyme.com.au,ACCESSIBILITY_CONTRAST_FLAW,3.340252881490264
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/isbn_del,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/asinCheckbox,android.widget.CheckBox,Allow ASIN,ACCESSIBILITY_SIZE_FLAW,110,32
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/isbn,android.widget.EditText,ISBN,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/isbn_del,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.2281810092687648
+com.eleybourn.bookcatalogue,/org.acra.CrashReportDialog,android:id/content,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,booklist.BooklistPreferencesActivity,:id/hide_hint_checkbox,android.widget.CheckBox,Do not show again,ACCESSIBILITY_SIZE_FLAW,164,32
+com.eleybourn.bookcatalogue,booklist.BooklistPreferencesActivity,:id/image,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,booklist.BooklistPreferencesActivity,:id/frame,android.widget.CheckBox,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,booklist.BooklistPreferencesActivity,:id/dynamic_properties,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,401,41
+com.eleybourn.bookcatalogue,booklist.BooklistPreferencesActivity,:id/frame,android.widget.CheckBox,,ACCESSIBILITY_SIZE_FLAW,32,32
+com.eleybourn.bookcatalogue,booklist.BooklistPreferencesActivity,:id/frame-child-0:android.widget.CheckBox,android.widget.CheckBox,,ACCESSIBILITY_CONTRAST_FLAW,1.2347585101384202
+com.eleybourn.bookcatalogue,booklist.BooklistPreferencesActivity,:id/selector,android.widget.RadioButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,booklist.BooklistPreferencesActivity,:id/selector,android.widget.RadioButton,,ACCESSIBILITY_SIZE_FLAW,32,32
+com.eleybourn.bookcatalogue,booklist.BooklistPreferencesActivity,:id/selector,android.widget.RadioButton,,ACCESSIBILITY_CONTRAST_FLAW,2.6065137478764053
+com.eleybourn.bookcatalogue,booklist.BooklistStylesActivity,:id/hide_hint_checkbox,android.widget.CheckBox,Do not show again,ACCESSIBILITY_SIZE_FLAW,164,32
+com.eleybourn.bookcatalogue,booklist.BooklistStylesActivity,:id/preferred,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,booklist.BooklistStylesActivity,:id/preferred,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,44,25
+com.eleybourn.bookcatalogue,booklist.BooklistStylesActivity,android:id/text1,android.widget.TextView,Clone style,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/hide_hint_checkbox,android.widget.CheckBox,Do not show again,ACCESSIBILITY_SIZE_FLAW,164,32
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/body,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,401,6
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/value,android.widget.EditText,Title first letter,ACCESSIBILITY_SIZE_FLAW,386,38
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/frame,android.widget.CheckBox,,ACCESSIBILITY_SIZE_FLAW,32,32
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/image,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/frame,android.widget.CheckBox,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/value,android.widget.EditText,Title first letter,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/frame-child-0:android.widget.CheckBox,android.widget.CheckBox,,ACCESSIBILITY_CONTRAST_FLAW,1.2065846065986057
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/name,android.widget.TextView,Bookshelves,ACCESSIBILITY_CONTRAST_FLAW,3.361159242503682
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/selector,android.widget.RadioButton,,ACCESSIBILITY_SIZE_FLAW,32,32
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/selector,android.widget.RadioButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/selector,android.widget.RadioButton,,ACCESSIBILITY_CONTRAST_FLAW,2.6065137478764053
+com.eleybourn.bookcatalogue,booklist.BooklistStyleGroupsActivity,:id/hide_hint_checkbox,android.widget.CheckBox,Do not show again,ACCESSIBILITY_SIZE_FLAW,164,32
+com.eleybourn.bookcatalogue,booklist.BooklistStyleGroupsActivity,:id/row,android.widget.LinearLayout,,ACCESSIBILITY_SIZE_FLAW,406,21
+com.eleybourn.bookcatalogue,booklist.BooklistStyleGroupsActivity,:id/present,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,44,25
+com.eleybourn.bookcatalogue,booklist.BooklistStyleGroupsActivity,:id/row_details,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,323,47
+com.eleybourn.bookcatalogue,booklist.BooklistStyleGroupsActivity,:id/present,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,booklist.BooklistStyleGroupsActivity,:id/present,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.9832124180928612
+com.eleybourn.bookcatalogue,EditAuthorList,:id/author,android.widget.EditText,Author,ACCESSIBILITY_SIZE_FLAW,342,33
+com.eleybourn.bookcatalogue,EditAuthorList,:id/add,android.widget.Button,Add,ACCESSIBILITY_SIZE_FLAW,64,38
+com.eleybourn.bookcatalogue,EditAuthorList,:id/author,android.widget.EditText,Author,ACCESSIBILITY_CONTRAST_FLAW,3.487096527395216
+com.eleybourn.bookcatalogue,EditAuthorList,:id/author,android.widget.EditText,Author,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/read,android.widget.CheckBox,Have you read this book?,ACCESSIBILITY_SIZE_FLAW,391,32
+com.eleybourn.bookcatalogue,BookEdit,:id/signed,android.widget.CheckBox,Has this book been signed,ACCESSIBILITY_SIZE_FLAW,391,32
+com.eleybourn.bookcatalogue,BookEdit,:id/notes,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,391,38
+com.eleybourn.bookcatalogue,BookEdit,:id/location,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,391,38
+com.eleybourn.bookcatalogue,BookEdit,:id/rating,android.widget.RatingBar,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/notes,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/location,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,EditSeriesList,:id/series,android.widget.EditText,Series,ACCESSIBILITY_SIZE_FLAW,264,33
+com.eleybourn.bookcatalogue,EditSeriesList,:id/series_num,android.widget.EditText,#,ACCESSIBILITY_SIZE_FLAW,78,38
+com.eleybourn.bookcatalogue,EditSeriesList,:id/add,android.widget.Button,Add,ACCESSIBILITY_SIZE_FLAW,64,38
+com.eleybourn.bookcatalogue,EditSeriesList,:id/series,android.widget.EditText,Series,ACCESSIBILITY_CONTRAST_FLAW,3.487096527395216
+com.eleybourn.bookcatalogue,EditSeriesList,:id/series,android.widget.EditText,Series,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,EditSeriesList,:id/series_num,android.widget.EditText,#,ACCESSIBILITY_CONTRAST_FLAW,3.487096527395216
+com.eleybourn.bookcatalogue,EditSeriesList,:id/series_num,android.widget.EditText,#,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,Bookshelf,android:id/select_dialog_listview,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.eleybourn.bookcatalogue,BooksOnBookshelf,android:id/search_src_text,android.widget.EditText,   Search Author or Title,ACCESSIBILITY_SIZE_FLAW,343,36
+com.eleybourn.bookcatalogue,BooksOnBookshelf,android:id/search_src_text,android.widget.EditText,   Search Author or Title,ACCESSIBILITY_CONTRAST_FLAW,3.6410314886605417
+com.eleybourn.bookcatalogue,BooksOnBookshelf,android:id/search_src_text,android.widget.EditText,   Search Author or Title,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BooksOnBookshelf,android:id/search_close_btn,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,37,36
+com.eleybourn.bookcatalogue,BooksOnBookshelf,:id/radio,android.widget.RadioButton,Language,ACCESSIBILITY_CONTRAST_FLAW,1.3505908685015906
+com.eleybourn.bookcatalogue,BooksOnBookshelf,:id/bookshelf_count,android.widget.TextView,(displaying 0 books),ACCESSIBILITY_CONTRAST_FLAW,1.036639111808363
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/title,android.widget.EditText,Arpa Con Alma Latina,ACCESSIBILITY_SIZE_FLAW,391,38
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/isbn,android.widget.EditText,0801655343425,ACCESSIBILITY_SIZE_FLAW,360,38
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/publisher,android.widget.EditText,Audio & Video Labs- Inc,ACCESSIBILITY_SIZE_FLAW,391,38
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/bookshelf,android.widget.Button,Default,ACCESSIBILITY_SIZE_FLAW,391,20
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/pages,android.widget.EditText,Not Set,ACCESSIBILITY_SIZE_FLAW,391,46
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/row_img,android.widget.ImageView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/row_img,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.905891104832624
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/author,android.widget.Button,lizary,ACCESSIBILITY_CONTRAST_FLAW,2.362717598346001
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/series,android.widget.Button,Set Series…,ACCESSIBILITY_CONTRAST_FLAW,2.362717598346001
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/publisher,android.widget.EditText,Audio & Video Labs- Inc,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/bookshelf,android.widget.Button,Default,ACCESSIBILITY_CONTRAST_FLAW,1.8763991354177274
+com.eleybourn.bookcatalogue,BookISBNSearch,:id/pages,android.widget.EditText,Not Set,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.eleybourn.bookcatalogue,BooksOnBookshelf,:id/row,android.widget.RelativeLayout,,ACCESSIBILITY_SIZE_FLAW,406,43
+com.eleybourn.bookcatalogue,BooksOnBookshelf,:id/title,android.widget.TextView,Arpa Con Alma Latina,ACCESSIBILITY_CONTRAST_FLAW,1.524824437896998
+com.eleybourn.bookcatalogue,BooksOnBookshelf,android:id/select_dialog_listview,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.eleybourn.bookcatalogue,BookEdit,:id/bookshelf,android.widget.Button,Default,ACCESSIBILITY_SIZE_FLAW,391,20
+com.eleybourn.bookcatalogue,BookEdit,:id/author,android.widget.Button,Set Authors…,ACCESSIBILITY_CONTRAST_FLAW,2.362717598346001
+com.eleybourn.bookcatalogue,BookEdit,:id/title,android.widget.EditText,Not Set,ACCESSIBILITY_CONTRAST_FLAW,3.487096527395216
+com.eleybourn.bookcatalogue,BookEdit,:id/isbn,android.widget.EditText,Not Set,ACCESSIBILITY_CONTRAST_FLAW,3.487096527395216
+com.eleybourn.bookcatalogue,BookEdit,:id/series,android.widget.Button,Set Series…,ACCESSIBILITY_CONTRAST_FLAW,2.362717598346001
+com.eleybourn.bookcatalogue,BookEdit,:id/publisher,android.widget.EditText,Not Set,ACCESSIBILITY_CONTRAST_FLAW,3.487096527395216
+com.eleybourn.bookcatalogue,BookEdit,:id/date_published,android.widget.Button,Not Set,ACCESSIBILITY_CONTRAST_FLAW,2.362717598346001
+com.eleybourn.bookcatalogue,BookEdit,:id/bookshelf,android.widget.Button,Default,ACCESSIBILITY_CONTRAST_FLAW,2.362717598346001
+com.eleybourn.bookcatalogue,BookEdit,:id/dayLabel,android.widget.TextView,Day,ACCESSIBILITY_CONTRAST_FLAW,1.424380207520071
+com.eleybourn.bookcatalogue,BookEdit,:id/minus,android.widget.Button,-,ACCESSIBILITY_CONTRAST_FLAW,1.6296684243669957
+com.eleybourn.bookcatalogue,BookEdit,android:id/title,android.widget.TextView,Share,ACCESSIBILITY_CONTRAST_FLAW,3.1424701966289628
+com.eleybourn.bookcatalogue,BookEdit,:id/series,android.widget.Button,Set Series…,ACCESSIBILITY_SIZE_FLAW,391,28
+com.eleybourn.bookcatalogue,BookEdit,:id/pages,android.widget.EditText,Not Set,ACCESSIBILITY_CONTRAST_FLAW,3.487096527395216
+com.eleybourn.bookcatalogue,BookEdit,:id/list_price,android.widget.EditText,Not Set,ACCESSIBILITY_CONTRAST_FLAW,3.487096527395216
+com.eleybourn.bookcatalogue,BookEdit,:id/format,android.widget.EditText,Not Set,ACCESSIBILITY_CONTRAST_FLAW,3.487096527395216
+com.eleybourn.bookcatalogue,BookEdit,:id/genre,android.widget.EditText,Not Set,ACCESSIBILITY_CONTRAST_FLAW,3.487096527395216
+com.eleybourn.bookcatalogue,BookEdit,:id/language,android.widget.EditText,Not Set,ACCESSIBILITY_CONTRAST_FLAW,3.487096527395216
+com.eleybourn.bookcatalogue,BookEdit,:id/anthology,android.widget.CheckBox,Is this book an Anthology?,ACCESSIBILITY_CONTRAST_FLAW,1.524824437896998
+com.eleybourn.bookcatalogue,BookEdit,:id/row_img,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,3.804941830255196
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/edit_button,android.widget.Button,Edit,ACCESSIBILITY_SIZE_FLAW,48,4
+com.eleybourn.bookcatalogue,booklist.BooklistStylePropertiesActivity,:id/edit_button,android.widget.Button,Edit,ACCESSIBILITY_CONTRAST_FLAW,1.155234908006127

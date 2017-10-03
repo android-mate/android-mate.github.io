@@ -1,0 +1,33 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+info.frangor.laicare,view.PetList,:id/action_bar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+info.frangor.laicare,view.PetList,:id/add_pet,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+info.frangor.laicare,view.PetList,:id/add_pet,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.1923732843746406
+info.frangor.laicare,view.TreatmentList,:id/add_treatment,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+info.frangor.laicare,view.TreatmentList,:id/add_treatment,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.1923732843746406
+info.frangor.laicare,view.TreatmentList,:id/treatment_species,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,240,40
+info.frangor.laicare,view.TreatmentList,:id/treatment_places,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,240,40
+info.frangor.laicare,view.TreatmentList,:id/treatment_form_delete,android.widget.Button,Delete,ACCESSIBILITY_SIZE_FLAW,72,36
+info.frangor.laicare,view.TreatmentList,:id/treatment_form_cancel,android.widget.Button,Cancel,ACCESSIBILITY_SIZE_FLAW,76,36
+info.frangor.laicare,view.TreatmentList,:id/treatment_form_ok,android.widget.Button,OK,ACCESSIBILITY_SIZE_FLAW,64,36
+info.frangor.laicare,view.TreatmentList,:id/treatment_name,android.widget.EditText,Deworming,ACCESSIBILITY_CONTRAST_FLAW,3.3320882086652337
+info.frangor.laicare,view.TreatmentList,:id/treatment_form_delete,android.widget.Button,Delete,ACCESSIBILITY_CONTRAST_FLAW,3.3320882086652337
+info.frangor.laicare,view.TreatmentList,:id/treatment_form_cancel,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.3320882086652337
+info.frangor.laicare,view.TreatmentList,:id/treatment_form_ok,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,3.3320882086652337
+info.frangor.laicare,view.TreatmentList,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,3.3320882086652337
+info.frangor.laicare,view.PetList,:id/pet_name,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+info.frangor.laicare,view.PetList,:id/pet_birthday,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+info.frangor.laicare,view.PetList,:id/pet_species,android.widget.Spinner,,ACCESSIBILITY_SIZE_FLAW,240,40
+info.frangor.laicare,view.PetList,:id/pet_form_cancel,android.widget.Button,Cancel,ACCESSIBILITY_SIZE_FLAW,76,36
+info.frangor.laicare,view.PetList,:id/pet_form_ok,android.widget.Button,OK,ACCESSIBILITY_SIZE_FLAW,64,36
+info.frangor.laicare,view.PetList,:id/pet_form_cancel,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.3320882086652337
+info.frangor.laicare,view.PetList,:id/pet_form_ok,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,3.3320882086652337
+info.frangor.laicare,view.PetList,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,3.3320882086652337
+info.frangor.laicare,view.SettingsActivity,android:id/title,android.widget.TextView,Notification,ACCESSIBILITY_SIZE_FLAW,411,35
+info.frangor.laicare,view.TreatmentList,:id/treatment_name,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+info.frangor.laicare,view.TreatmentList,:id/treatment_period,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+info.frangor.laicare,view.TreatmentList,:id/treatment_term,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+info.frangor.laicare,view.TreatmentList,android:id/text1,android.widget.TextView,Training center,ACCESSIBILITY_CONTRAST_FLAW,1.0152960619925686
+info.frangor.laicare,view.TreatmentList,:id/treatment_period,android.widget.EditText,Sinclare,ACCESSIBILITY_CONTRAST_FLAW,3.3320882086652337
+info.frangor.laicare,view.PetList,:id/pet_name,android.widget.EditText,chorous,ACCESSIBILITY_CONTRAST_FLAW,3.3320882086652337
+info.frangor.laicare,view.AboutActivity,android:id/content-child-1:android.widget.TextView,android.widget.TextView,LaiCare,ACCESSIBILITY_CONTRAST_FLAW,3.055563348850343
+info.frangor.laicare,view.AboutActivity,:id/version,android.widget.TextView,version 0.0.2,ACCESSIBILITY_CONTRAST_FLAW,4.034862533012823

@@ -1,0 +1,56 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+org.lumicall.android,sip.RegisterAccount,android:id/title,android.widget.TextView,About,ACCESSIBILITY_CONTRAST_FLAW,3.0448346617620263
+org.lumicall.android,sip.RegisterAccount,:id/OtherProviderSetup,android.widget.TextView,Other SIP service setup,ACCESSIBILITY_SIZE_FLAW,118,24
+org.lumicall.android,sip.RegisterOtherAccount,:id/OtherAccountPassword,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,sip.RegisterOtherAccount,:id/AdvancedSetup,android.widget.TextView,Custom SIP account setup (experts only),ACCESSIBILITY_SIZE_FLAW,204,24
+org.lumicall.android,sip.RegisterOtherAccount,:id/OtherAccountID,android.widget.EditText,Your SIP address,ACCESSIBILITY_CONTRAST_FLAW,2.1385624455943337
+org.lumicall.android,sip.RegisterOtherAccount,:id/OtherAccountID,android.widget.EditText,Your SIP address,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/sms_button,android.widget.Button,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/contacts_button,android.widget.Button,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/ButtonIdentityMenu,android.widget.Button,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/ButtonCallSend,android.widget.Button,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/txt_callee,android.widget.EditText,user@domain,ACCESSIBILITY_SIZE_FLAW,292,46
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/sms_button,android.widget.Button,,ACCESSIBILITY_CONTRAST_FLAW,3.443945960154755
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/contacts_button,android.widget.Button,,ACCESSIBILITY_CONTRAST_FLAW,3.443945960154755
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/txt_callee,android.widget.EditText,user@domain,ACCESSIBILITY_CONTRAST_FLAW,2.53021490107188
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/txt_callee,android.widget.EditText,user@domain,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/ButtonCallSend,android.widget.Button,,ACCESSIBILITY_CONTRAST_FLAW,3.443945960154755
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/ButtonIdentityMenu,android.widget.Button,,ACCESSIBILITY_CONTRAST_FLAW,3.443945960154755
+org.lumicall.android,sip.MessageIndex,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.lumicall.android,sip.NewMessage,:id/sms_send,android.widget.Button,Send,ACCESSIBILITY_SIZE_FLAW,52,41
+org.lumicall.android,sip.NewMessage,:id/sms_body,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,sip.NewMessage,:id/sms_send,android.widget.Button,Send,ACCESSIBILITY_CONTRAST_FLAW,3.092916860282562
+org.lumicall.android,/org.sipdroid.sipua.ui.Settings,android:id/title,android.widget.TextView,Import,ACCESSIBILITY_CONTRAST_FLAW,3.0448346617620263
+org.lumicall.android,/org.sipdroid.sipua.ui.Settings,android:id/text1,android.widget.CheckedTextView,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.lumicall.android,/org.sipdroid.sipua.ui.Settings,android:id/text1,android.widget.CheckedTextView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,/org.sipdroid.sipua.ui.Settings,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+org.lumicall.android,/org.sipdroid.sipua.ui.Settings,android:id/text1,android.widget.CheckedTextView,Always ask,ACCESSIBILITY_CONTRAST_FLAW,2.813933027204481
+org.lumicall.android,preferences.SIPIdentitySettings,android:id/summary,android.widget.TextView,Allows selection of preferred SIP account,ACCESSIBILITY_CONTRAST_FLAW,1.8183039381370638
+org.lumicall.android,preferences.ENUMSuffixSettings,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+org.lumicall.android,preferences.ENUMSuffixSettings,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+org.lumicall.android,preferences.ENUMSuffixesSettings,android:id/select_dialog_listview,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.lumicall.android,preferences.SIPIdentitiesSettings,android:id/title,android.widget.TextView,Add,ACCESSIBILITY_CONTRAST_FLAW,3.0448346617620263
+org.lumicall.android,preferences.SIPIdentitySettings,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,preferences.SIPIdentitySettings,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+org.lumicall.android,preferences.SIPIdentitySettings,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+org.lumicall.android,/org.sipdroid.codecs.Codecs$CodecSettings,android:id/summary,android.widget.TextView,Never,ACCESSIBILITY_CONTRAST_FLAW,3.288707476539474
+org.lumicall.android,/org.sipdroid.codecs.Codecs$CodecSettings,android:id/text1,android.widget.CheckedTextView,Never,ACCESSIBILITY_CONTRAST_FLAW,2.813933027204481
+org.lumicall.android,/org.sipdroid.codecs.Codecs$CodecSettings,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+org.lumicall.android,preferences.SIPIdentitiesSettings,android:id/select_dialog_listview,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.lumicall.android,/org.sipdroid.sipua.ui.Settings,android:id/alertTitle,android.widget.TextView,Headset Mic,ACCESSIBILITY_CONTRAST_FLAW,3.6573664310763587
+org.lumicall.android,preferences.ENUMSuffixesSettings,android:id/title,android.widget.TextView,Add,ACCESSIBILITY_CONTRAST_FLAW,3.0448346617620263
+org.lumicall.android,preferences.PTTChannelsSettings,android:id/select_dialog_listview,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+org.lumicall.android,preferences.PTTChannelSettings,android:id/button1,android.widget.Button,OK,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+org.lumicall.android,preferences.PTTChannelSettings,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,2.623560939368976
+org.lumicall.android,preferences.PTTChannelSettings,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,sip.RegisterOtherAccount,android:id/title,android.widget.TextView,About,ACCESSIBILITY_CONTRAST_FLAW,3.0448346617620263
+org.lumicall.android,sip.MessageIndex,:id/sms_index_item_peer,android.widget.TextView,<sip:>,ACCESSIBILITY_CONTRAST_FLAW,2.64377666311024
+org.lumicall.android,sip.MessageIndex,:id/sms_index_item_date,android.widget.TextView,21:21,ACCESSIBILITY_CONTRAST_FLAW,2.53021490107188
+org.lumicall.android,sip.NewMessage,:id/sms_body,android.widget.EditText,lappered,ACCESSIBILITY_CONTRAST_FLAW,2.1675450851721667
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,android:id/select_dialog_listview,android.widget.TextView,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,android:id/select_dialog_listview,android.widget.TextView,,ACCESSIBILITY_SIZE_FLAW,305,36
+org.lumicall.android,sip.MessageIndex,:id/sms_index_item_body,android.widget.TextView,lappered,ACCESSIBILITY_CONTRAST_FLAW,2.53021490107188
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/ButtonPTTChannelMenu,android.widget.Button,No PTT channel selected/configured,ACCESSIBILITY_CONTRAST_FLAW,3.443945960154755
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,:id/ButtonPTTSend,android.widget.Button,Send/PTT,ACCESSIBILITY_CONTRAST_FLAW,3.443945960154755
+org.lumicall.android,preferences.ENUMSuffixSettings,android:id/edit,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+org.lumicall.android,/org.sipdroid.sipua.ui.Sipdroid,android:id/alertTitle,android.widget.TextView,About,ACCESSIBILITY_CONTRAST_FLAW,1.8912997553023825

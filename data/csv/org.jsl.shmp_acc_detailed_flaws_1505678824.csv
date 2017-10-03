@@ -1,0 +1,13 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+org.jsl.shmp,MainActivity,:id/listViewGames,android.widget.ListView,,ACCESSIBILITY_SIZE_FLAW,411,19
+org.jsl.shmp,MainActivity,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+org.jsl.shmp,MainActivity,:id/checkBoxNeverAskAgain,android.widget.CheckBox,Never ask again,ACCESSIBILITY_SIZE_FLAW,132,32
+org.jsl.shmp,MainActivity,:id/editTextPlayerName,android.widget.EditText,Android SDK built for x86,ACCESSIBILITY_SIZE_FLAW,339,33
+org.jsl.shmp,MainActivity,:id/checkBoxCheckWiFiStatusOnStart,android.widget.CheckBox,Check WiFi status on start,ACCESSIBILITY_SIZE_FLAW,195,39
+org.jsl.shmp,MainActivity,:id/checkBoxRenderShadows,android.widget.CheckBox,Render shadows,ACCESSIBILITY_SIZE_FLAW,136,32
+org.jsl.shmp,MainActivity,android:id/alertTitle,android.widget.TextView,Settings,ACCESSIBILITY_CONTRAST_FLAW,2.089605528848847
+org.jsl.shmp,MainActivity,android:id/button1,android.widget.Button,Set,ACCESSIBILITY_CONTRAST_FLAW,1.8933926192357609
+org.jsl.shmp,MainActivity,:id/checkBoxRenderShadows,android.widget.CheckBox,Render shadows,ACCESSIBILITY_CONTRAST_FLAW,2.089605528848847
+org.jsl.shmp,MainActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,1.864093698433198
+org.jsl.shmp,MainActivity,:id/textView,android.widget.TextView,Player name,ACCESSIBILITY_CONTRAST_FLAW,1.864093698433198
+org.jsl.shmp,MainActivity,:id/editTextPlayerName,android.widget.EditText,wheaty,ACCESSIBILITY_CONTRAST_FLAW,2.089605528848847

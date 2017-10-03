@@ -1,0 +1,69 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/checkmark_gray,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/checkmark_green,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/checkmark_orange,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/checkmark_red,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/addBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/reminderAddBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/voiceBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/reminderAddBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,32,32
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/entryText,android.widget.EditText,Add a new reminder...,ACCESSIBILITY_SIZE_FLAW,233,37
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/voiceBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,32,32
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/toolbar-child-0:android.widget.TextView,android.widget.TextView,Notable Plus,ACCESSIBILITY_CONTRAST_FLAW,3.2667437225262015
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/toolbar-child-1:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,3.2667437225262015
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/checkmark_gray,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.8040845506762644
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/checkmark_green,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.579930450359841
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/checkmark_orange,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.43763056349857
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/checkmark_red,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,2.649901349583829
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/reminderAddBtn,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6727142967165847
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/entryText,android.widget.EditText,Add a new reminder...,ACCESSIBILITY_CONTRAST_FLAW,3.368624280459366
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/entryText,android.widget.EditText,Add a new reminder...,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/voiceBtn,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6727142967165847
+com.icechen1.notable.pro,com.google.android.googlequicksearchbox/com.google.android.voicesearch.intentapi.IntentApiActivity,com.google.android.googlequicksearchbox:id/image_indicator,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,1.4043048217407192
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/entryText,android.widget.EditText,#,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/addBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,32,58
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/addBtn,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.5733025314823648
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/cancelAlarmSet,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,32,32
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/cancelAlarmSet,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/cancelAlarmSet,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6727142967165847
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/title,android.widget.TextView,Recommend app,ACCESSIBILITY_CONTRAST_FLAW,3.6573664310763587
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/date_picker_year,android.widget.TextView,2017,ACCESSIBILITY_SIZE_FLAW,270,35
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/animator,android.view.View,,ACCESSIBILITY_SIZE_FLAW,270,26
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/animator,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/date_picker_header,android.widget.TextView,SUNDAY,ACCESSIBILITY_CONTRAST_FLAW,2.849027755287037
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/date_picker_month,android.widget.TextView,SEPTEMBER,ACCESSIBILITY_CONTRAST_FLAW,2.364401718645892
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/date_picker_day,android.widget.TextView,17,ACCESSIBILITY_CONTRAST_FLAW,2.364401718645892
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/date_picker_year,android.widget.TextView,2017,ACCESSIBILITY_CONTRAST_FLAW,2.849027755287037
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/animator-child-0:android.view.View,android.view.View,,ACCESSIBILITY_CONTRAST_FLAW,2.5449228525438827
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/animator-child-1:android.view.View,android.view.View,,ACCESSIBILITY_CONTRAST_FLAW,2.5449228525438827
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/month_text_view,android.widget.TextView,2015,ACCESSIBILITY_SIZE_FLAW,270,8
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/month_text_view,android.widget.TextView,2016,ACCESSIBILITY_CONTRAST_FLAW,2.5449228525438827
+com.icechen1.notable.pro,/com.icechen1.notable.library.HistoryActivity,:id/recyclerView,android.support.v7.widget.RecyclerView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.HistoryActivity,:id/toolbar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.2667437225262015
+com.icechen1.notable.pro,/com.icechen1.notable.library.HistoryActivity,:id/toolbar-child-1:android.widget.TextView,android.widget.TextView,History,ACCESSIBILITY_CONTRAST_FLAW,3.2667437225262015
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/ampm_hitspace,android.widget.Button,,ACCESSIBILITY_SIZE_FLAW,36,96
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/hours,android.widget.Button,4,ACCESSIBILITY_SIZE_FLAW,33,80
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/hours,android.widget.Button,4,ACCESSIBILITY_CONTRAST_FLAW,2.364401718645892
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/minutes,android.widget.Button,00,ACCESSIBILITY_CONTRAST_FLAW,3.362683071052112
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/separator,android.widget.TextView,:,ACCESSIBILITY_CONTRAST_FLAW,3.362683071052112
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/ampm_hitspace,android.widget.Button,,ACCESSIBILITY_CONTRAST_FLAW,3.362683071052112
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/ampm_label,android.widget.TextView,PM,ACCESSIBILITY_CONTRAST_FLAW,3.362683071052112
+com.icechen1.notable.pro,/com.icechen1.notable.library.PreferencesActivity,android:id/title,android.widget.TextView,General,ACCESSIBILITY_SIZE_FLAW,411,35
+com.icechen1.notable.pro,/com.icechen1.notable.library.PreferencesActivity,:id/abp__toolbar,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.PreferencesActivity,:id/abp__toolbar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.2701943030297573
+com.icechen1.notable.pro,/com.icechen1.notable.library.PreferencesActivity,android:id/title,android.widget.TextView,General,ACCESSIBILITY_CONTRAST_FLAW,3.1297687016721323
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/closeBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,88,32
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/editBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,88,32
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/doneBtn,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,88,32
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/toolbar,android.widget.ImageView,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/closeBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/editBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/doneBtn,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/toolbar-child-0:android.widget.TextView,android.widget.TextView,Notable Plus,ACCESSIBILITY_CONTRAST_FLAW,3.2667437225262015
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/toolbar-child-1:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,3.2667437225262015
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/closeBtn,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6727142967165847
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/editBtn,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6727142967165847
+com.icechen1.notable.pro,/com.icechen1.notable.library.DetailActivity_,:id/doneBtn,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,1.741946538572457
+com.icechen1.notable.pro,/com.icechen1.notable.library.PreferencesActivity,android:id/button2,android.widget.Button,Cancel,ACCESSIBILITY_CONTRAST_FLAW,3.672578596072024
+com.icechen1.notable.pro,/com.icechen1.notable.library.MainActivity_,:id/toolbar-child-0:android.widget.ImageView,android.widget.ImageView,,ACCESSIBILITY_CONTRAST_FLAW,3.2667437225262015

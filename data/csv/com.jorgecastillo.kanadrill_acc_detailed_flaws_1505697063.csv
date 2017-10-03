@@ -1,0 +1,60 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+com.jorgecastillo.kanadrill,SettingsActivity,android:id/text1,android.widget.CheckedTextView,Plus (gya to je),ACCESSIBILITY_SIZE_FLAW,358,41
+com.jorgecastillo.kanadrill,SettingsActivity,android:id/alertTitle,android.widget.TextView,Included Characters,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.jorgecastillo.kanadrill,SettingsActivity,android:id/text1,android.widget.CheckedTextView,First 5 (a to o),ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.jorgecastillo.kanadrill,HiraganaTableActivity,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.jorgecastillo.kanadrill,com.android.messagingui.conversationlist.ShareIntentActivity,android:id/list,android.support.v7.widget.RecyclerView,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.jorgecastillo.kanadrill,KatakanaTrainingActivity,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.jorgecastillo.kanadrill,MainActivity,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.jorgecastillo.kanadrill,KatakanaDrillActivity,android:id/alertTitle,android.widget.TextView,Wrong Kana,ACCESSIBILITY_CONTRAST_FLAW,2.168716292881811
+com.jorgecastillo.kanadrill,KatakanaDrillActivity,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.jorgecastillo.kanadrill,HiraganaTrainingActivity,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.jorgecastillo.kanadrill,KatakanaTableActivity,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.jorgecastillo.kanadrill,HiraganaDrillActivity,,android.widget.LinearLayout,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+com.jorgecastillo.kanadrill,HiraganaDrillActivity,:id/button2,android.widget.Button,i,ACCESSIBILITY_CONTRAST_FLAW,1.3249132413420268
+com.jorgecastillo.kanadrill,HiraganaDrillActivity,:id/button3,android.widget.Button,i,ACCESSIBILITY_CONTRAST_FLAW,1.3249132413420268
+com.jorgecastillo.kanadrill,HiraganaDrillActivity,:id/button1,android.widget.Button,i,ACCESSIBILITY_CONTRAST_FLAW,1.3249132413420268
+com.jorgecastillo.kanadrill,HiraganaDrillActivity,:id/button4,android.widget.Button,i,ACCESSIBILITY_CONTRAST_FLAW,1.3249132413420268
+com.jorgecastillo.kanadrill,KatakanaDrillActivity,:id/button4,android.widget.Button,i,ACCESSIBILITY_CONTRAST_FLAW,1.3249132413420268
+com.jorgecastillo.kanadrill,KatakanaDrillActivity,:id/button1,android.widget.Button,i,ACCESSIBILITY_CONTRAST_FLAW,1.3249132413420268
+com.jorgecastillo.kanadrill,KanjiTrainingActivity,:id/textoGuardarComo,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,326,38
+com.jorgecastillo.kanadrill,KanjiTrainingActivity,:id/textoGuardarComo,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+com.jorgecastillo.kanadrill,MainActivity,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.jorgecastillo.kanadrill,MainActivity,android:id/action_bar-child-0:android.widget.TextView,android.widget.TextView,KanaDrill,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,MainActivity,android:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,MainActivity,android:id/title,android.widget.TextView,Settings,ACCESSIBILITY_CONTRAST_FLAW,2.1238436811748174
+com.jorgecastillo.kanadrill,HiraganaTableActivity,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.jorgecastillo.kanadrill,HiraganaTableActivity,android:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,HiraganaTableActivity,android:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,KanaDrill,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,HiraganaTableActivity,android:id/title,android.widget.TextView,Settings,ACCESSIBILITY_CONTRAST_FLAW,2.1238436811748174
+com.jorgecastillo.kanadrill,SettingsActivity,android:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,SettingsActivity,android:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,Settings,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,HiraganaTrainingActivity,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.jorgecastillo.kanadrill,HiraganaTrainingActivity,android:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,HiraganaTrainingActivity,android:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,KanaDrill,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,KatakanaDrillActivity,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.jorgecastillo.kanadrill,KatakanaDrillActivity,android:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,KatakanaDrillActivity,android:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,KanaDrill,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,KatakanaDrillActivity,:id/button3,android.widget.Button,o,ACCESSIBILITY_CONTRAST_FLAW,1.8947143147843377
+com.jorgecastillo.kanadrill,KatakanaDrillActivity,android:id/title,android.widget.TextView,Settings,ACCESSIBILITY_CONTRAST_FLAW,2.1238436811748174
+com.jorgecastillo.kanadrill,KatakanaTableActivity,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.jorgecastillo.kanadrill,KatakanaTableActivity,android:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,KatakanaTableActivity,android:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,KanaDrill,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,HiraganaDrillActivity,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.jorgecastillo.kanadrill,HiraganaDrillActivity,android:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,HiraganaDrillActivity,android:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,KanaDrill,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,HiraganaDrillActivity,android:id/button3,android.widget.Button,Okay,ACCESSIBILITY_CONTRAST_FLAW,1.424380207520071
+com.jorgecastillo.kanadrill,KatakanaDrillActivity,:id/button2,android.widget.Button,o,ACCESSIBILITY_CONTRAST_FLAW,1.8947143147843377
+com.jorgecastillo.kanadrill,KanjiTrainingActivity,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.jorgecastillo.kanadrill,KanjiTrainingActivity,android:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,KanjiTrainingActivity,android:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,1,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,KanjiTrainingActivity,:id/action_auto_forward,android.widget.TextView,Auto Forward,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,KanjiTrainingActivity,android:id/action_bar-child-1:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,KanjiTrainingActivity,android:id/button1,android.widget.Button,Go,ACCESSIBILITY_CONTRAST_FLAW,1.424380207520071
+com.jorgecastillo.kanadrill,KanjiTrainingActivity,:id/textoGuardarComo,android.widget.EditText,#,ACCESSIBILITY_CONTRAST_FLAW,1.513717048606885
+com.jorgecastillo.kanadrill,KanjiTrainingActivity,android:id/message,android.widget.TextView,Which number?,ACCESSIBILITY_CONTRAST_FLAW,1.424380207520071
+com.jorgecastillo.kanadrill,KanjiTrainingActivity,android:id/alertTitle,android.widget.TextView,Choose a Kanji,ACCESSIBILITY_CONTRAST_FLAW,1.424380207520071
+com.jorgecastillo.kanadrill,KatakanaTrainingActivity,android:id/action_bar,android.widget.ImageButton,,ACCESSIBILITY_SIZE_FLAW,40,48
+com.jorgecastillo.kanadrill,KatakanaTrainingActivity,android:id/action_bar-child-0:android.widget.ImageButton,android.widget.ImageButton,,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,KatakanaTrainingActivity,android:id/action_bar-child-1:android.widget.TextView,android.widget.TextView,KanaDrill,ACCESSIBILITY_CONTRAST_FLAW,3.6824341707473893
+com.jorgecastillo.kanadrill,KatakanaTrainingActivity,android:id/title,android.widget.TextView,Settings,ACCESSIBILITY_CONTRAST_FLAW,2.1238436811748174

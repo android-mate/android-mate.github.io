@@ -1,0 +1,33 @@
+package,activity,widget_id,widget_type,widget_text,flaw_type,info
+me.tripsit.tripmobile,/me.tripsit.mobile.Menu,:id/btn_tripsitChannel,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.Menu,:id/btn_generalChat,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.Menu,:id/btn_factSheets,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.Menu,:id/btn_combinations,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.Menu,:id/btn_wiki,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.Menu,:id/btn_settings,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.Menu,:id/btn_contact,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.Menu,:id/btn_about,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.settings.Settings,:id/seek_cache,android.widget.SeekBar,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.settings.Settings,:id/autocomplete_channel,android.widget.EditText,home,ACCESSIBILITY_SIZE_FLAW,278,44
+me.tripsit.tripmobile,/me.tripsit.mobile.chat.Chat,android:id/content,android.view.View,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.chat.Chat,android:id/content,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.chat.Chat,android:id/content,android.view.View,,ACCESSIBILITY_SIZE_FLAW,316,44
+me.tripsit.tripmobile,/me.tripsit.mobile.chat.Chat,android.view.View-,android.view.View,,ACCESSIBILITY_CONTRAST_FLAW,1.3841461718450223
+me.tripsit.tripmobile,/me.tripsit.mobile.factsheets.Factsheets,:id/exlist_drugInfo,android.widget.ExpandableListView,,ACCESSIBILITY_SIZE_FLAW,381,0
+me.tripsit.tripmobile,/me.tripsit.mobile.factsheets.Factsheets,:id/drugNameSearch,android.widget.EditText,Drug or alias,ACCESSIBILITY_SIZE_FLAW,267,44
+me.tripsit.tripmobile,/me.tripsit.mobile.factsheets.Factsheets,:id/drugNameSearch,android.widget.EditText,Drug or alias,DUPLICATE_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.combination.CombinationActivity,:id/input_first_drug,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,381,40
+me.tripsit.tripmobile,/me.tripsit.mobile.combination.CombinationActivity,:id/input_second_drug,android.widget.EditText,,ACCESSIBILITY_SIZE_FLAW,381,40
+me.tripsit.tripmobile,/me.tripsit.mobile.combination.CombinationActivity,:id/input_first_drug,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.combination.CombinationActivity,:id/input_second_drug,android.widget.EditText,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.About,android:id/content,android.widget.ImageButton,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.combination.CombinationActivity,:id/txt_combo_content,android.widget.TextView,Failed to find drug (empty) - try a category or check the factsheets for spelling.,ACCESSIBILITY_CONTRAST_FLAW,1.0
+me.tripsit.tripmobile,/me.tripsit.mobile.wiki.Wiki,android:id/content,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.wiki.Wiki,android:id/content,android.view.View,,DUPLICATE_CLICKABLE_BOUNDS_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.wiki.Wiki,android:id/content,android.view.View,,ACCESSIBILITY_SIZE_FLAW,0,0
+me.tripsit.tripmobile,/me.tripsit.mobile.wiki.Wiki,android.widget.Button-,android.widget.Button,,ACCESSIBILITY_CONTRAST_FLAW,2.6213919207442387
+me.tripsit.tripmobile,/me.tripsit.mobile.wiki.Wiki,,android.view.View,,MISSING_SPEAKABLE_TEXT_FLAW,
+me.tripsit.tripmobile,/me.tripsit.mobile.wiki.Wiki,android.widget.Image-,android.widget.Image,,ACCESSIBILITY_CONTRAST_FLAW,2.9709257122141524
+me.tripsit.tripmobile,/me.tripsit.mobile.wiki.Wiki,android.view.View-,android.view.View,,ACCESSIBILITY_CONTRAST_FLAW,2.405887226461303
+me.tripsit.tripmobile,/me.tripsit.mobile.chat.Chat,android.widget.Image-,android.widget.Image,,ACCESSIBILITY_CONTRAST_FLAW,1.0088381905838484
+me.tripsit.tripmobile,/me.tripsit.mobile.chat.Chat,android.widget.Button-,android.widget.Button,,ACCESSIBILITY_CONTRAST_FLAW,1.7383819305161423
